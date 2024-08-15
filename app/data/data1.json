@@ -1,0 +1,149 @@
+{
+  "image": [
+    {
+        "id": 56,
+       
+          "ext": ".jpg",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Blausen_0724_PericardialSac.png/250px-Blausen_0724_PericardialSac.png",
+          "hash": "example_image_47b1a6bfb6",
+          "mime": "image/jpeg",
+          "name": "example-image.jpg",
+          "size": 532.65,
+          "width": 400,
+          "height": 3418,
+          "caption": "This is human body",
+          "formats": {
+            "large": {
+              "ext": ".jpg",
+              "url": "/uploads/large_example_image_47b1a6bfb6.jpg",
+              "hash": "large_example_image_47b1a6bfb6",
+              "mime": "image/jpeg",
+              "name": "large_example-image.jpg",
+              "path": null,
+              "size": 98.12,
+              "width": 801,
+              "height": 1000
+            },
+            "small": {
+              "ext": ".jpg",
+              "url": "/uploads/small_example_image_47b1a6bfb6.jpg",
+              "hash": "small_example_image_47b1a6bfb6",
+              "mime": "image/jpeg",
+              "name": "small_example-image.jpg",
+              "path": null,
+              "size": 33.93,
+              "width": 400,
+              "height": 500
+            },
+            "medium": {
+              "ext": ".jpg",
+              "url": "/uploads/medium_example_image_47b1a6bfb6.jpg",
+              "hash": "medium_example_image_47b1a6bfb6",
+              "mime": "image/jpeg",
+              "name": "medium_example-image.jpg",
+              "path": null,
+              "size": 63.62,
+              "width": 601,
+              "height": 750
+            },
+            "thumbnail": {
+              "ext": ".jpg",
+              "url": "/uploads/thumbnail_example_image_47b1a6bfb6.jpg",
+              "hash": "thumbnail_example_image_47b1a6bfb6",
+              "mime": "image/jpeg",
+              "name": "thumbnail_example-image.jpg",
+              "path": null,
+              "size": 5.38,
+              "width": 125,
+              "height": 156
+            }
+          },
+          "provider": "local",
+          "createdAt": "2023-11-18T12:09:32.727Z",
+          "updatedAt": "2023-12-13T16:28:26.392Z",
+          "previewUrl": null,
+          "alternativeText": null,
+          "provider_metadata": null
+        
+      
+    }
+  ],
+  "formula": "\\(ax^2 + bx + c = 0\\)",
+  "mermaid": [
+    {
+      "data": [
+        "sequenceDiagram",
+        "participant Alice",
+        "participant Bob",
+        "Alice->>John: Hello John, how are you?",
+        "loop Healthcheck",
+        "John->>John: Fight against hypochondria",
+        "end",
+        "Note right of John: Rational thoughts <br/>prevail!",
+        "John-->>Alice: Great!",
+        "John->>Bob: How about you?",
+        "Bob-->>John: Jolly good!"
+      ]
+    },
+    {
+      "data": [
+        "graph TD",
+        " A[Enter Chart Definition] --> B(Preview)",
+        " B --> C{decide}",
+        " C --> D[Keep]",
+        " C --> E[Edit Definition]",
+        " E --> B",
+        " D --> F[Save Image and Code]",
+        " F --> B"
+      ]
+    }
+  ],
+  "pericardium": {
+    "layers": {
+      "serous_pericardium": {
+        "parietal_layer": "Lines the fibrous pericardium and is fused with it.",
+        "visceral_layer": "Also known as the epicardium, closely adheres to the heart's surface."
+      },
+      "fibrous_pericardium": "The outer layer, composed of tough fibrous connective tissue, provides structural support and protection."
+    },
+    "mermaid": [
+      "graph TD",
+      " A[Enter Chart Definition] --> B(Preview)",
+      " B --> C{decide}",
+      " C --> D[Keep]",
+      " C --> E[Edit Definition]",
+      " E --> B",
+      " D --> F[Save Image and Code]",
+      " F --> B"
+    ],
+    "functions": [
+      "Protects the heart from external shocks and infections.",
+      "Prevents overdistension of the heart.",
+      "Facilitates smooth heart movements within the chest cavity."
+    ],
+    "structure": "The pericardium is a double-walled sac surrounding the heart.",
+    "clinical_relevance": {
+      "pericarditis": "Inflammation of the pericardium, causing chest pain and potential complications.",
+      "pericardial_effusion": "Accumulation of excess fluid in the pericardial cavity, affecting heart function."
+    },
+    "importance_in_MBBS": "Understanding the pericardium is crucial for grasping cardiac anatomy, physiology, and clinical considerations in patient care.",
+    "pericardial_cavity": {
+      "fluid": "Contains pericardial fluid, which reduces friction and allows easy movement of the heart.",
+      "location": "The space between the parietal and visceral layers of the serous pericardium."
+    }
+  },
+  "google_chart": [
+    [
+      "Age",
+      "Weight"
+    ],
+    [
+      4,
+      5.5
+    ],
+    [
+      8,
+      12
+    ]
+  ]
+}
