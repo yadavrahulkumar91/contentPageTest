@@ -14,7 +14,7 @@ const PericardiumInfo = ({ pericardiumData }) => {
 }
 export default PericardiumInfo
 
-const renderAttributes = (attributes, level = 0) => {
+export const renderAttributes = (attributes, level = 0) => {
   if (!attributes || typeof attributes !== 'object') {
     return null
   }
@@ -125,24 +125,12 @@ function renderBulletin (level) {
 
 function renderKey (key, level) {
   let formattedKey = key
-
-  // if (key.endsWith('_sn')) {
-  //   // Remove _sn and format to italic
-  //   formattedKey = `<i>${formattedKey.replace(/_sn$/, '')}</i>`
-  // }
   if (level === 0) {
-    // Change to uppercase if level is 0
     const style = {
       backgroundcolor: 'red'
     }
     formattedKey = formattedKey.toUpperCase().replace(/_/g, ' ')
   }
-  //   else {
-  //     // Change to title case if level is not 0
-  //     formattedKey = formattedKey
-  //       .replace(/\b\w/g, c => c.toUpperCase())
-  //       .replace(/_/g, ' ')
-  //   }
 
   return <span dangerouslySetInnerHTML={{ __html: formattedKey + ': ' }} />
 }

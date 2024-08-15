@@ -1,5 +1,5 @@
 import React from 'react'
-import { elseFunction } from '../render'
+import {renderAttributes } from '../render'
 
 function Note ({ key, value, isArray, isObject, level }) {
   return (
@@ -12,8 +12,7 @@ function Note ({ key, value, isArray, isObject, level }) {
               >
                 <div className='bg-red-500 text-2xl'>Note:</div>
                 <div className='bg-yellow-300 font-sans'>
-    
-                  {elseFunction('', note.data, isArray, isObject, 1)}
+                  {renderAttributes(note.data, 1)}
                 </div>
               </div>
              ))
