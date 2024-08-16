@@ -51,20 +51,23 @@ function renderObject (key, value, isArray, isObject, level) {
   } else if (/^__html\d*$/.test(key) || key === 'html') {
     return <Html value={value} />
   } else if (/^__note\d*$/.test(key)) {
+    return <Note value={value} />
+  } else if (/^__p\d*$/.test(key)) {
     return (
-      <Note key={key} value={value} isArray={isArray} isObject={isObject} level ={level}/>
-    )
+    <p className="text-xl">
+    {value}
+    </p>)
   } else {
     return elseFunction(key, value, isArray, isObject, level)
   }
 }
 
-export function elseFunction (key, value, isArray, isObject, level) {
+function elseFunction (key, value, isArray, isObject, level) {
   return (
     <div
       key={key}
       style={{ marginLeft: `${30}px` }}
-      className='border-l-2 border-indigo-500'
+      className=''
     >
       {renderArrayOrObjectContent(key, level, isArray, isObject)}
       {isObject ? (
@@ -82,30 +85,29 @@ export function elseFunction (key, value, isArray, isObject, level) {
 
 function renderArrayOrObjectContent (key, level, isArray, isObject) {
   if (isArray) {
+    // let key1 = Number(key)
     if (isObject) {
+
       return null
       // return <span>{Number(key) + 1}. </span>
     } else {
       return <span style={{ fontSize: '20px' }}>{Number(key) + 1}. </span>
     }
   } else {
-    if (key !== 'parts' && key !== 'part') {
-      return (
-        <span
-          style={{
-            color: `hsl(330, 50%, ${level * 10}%)`,
-            backgroundColor: level === 0 ? 'lightgrey' : null, // Set red background color for level 0
-            fontWeight: `${800 - level * 100}`,
-            display: level === 0 ? 'block' : null
-            // padding: '5px',
-          }}
-          className={`font-medium hover:font-bold text-xl`}
-        >
-          {renderBulletin(level)}
-          {renderKey(key, level)}
-        </span>
-      )
-    }
+    return (
+      <span
+        style={{
+          color: `hsl(330, 50%, ${level * 10}%)`,
+          backgroundColor: level === 0 ? 'lightgrey' : null, // Set red background color for level 0
+          fontWeight: `${800 - level * 100}`,
+          display: level === 0 ? 'block' : null
+          // padding: '5px',
+        }}
+        className={`font-medium text-xl`}
+      >
+        {renderBulletin(level)} {renderKey(key, level)}
+      </span>
+    )
   }
 
   return null // You can modify this to return a default component if needed
@@ -131,6 +133,8 @@ function renderKey (key, level) {
     }
     formattedKey = formattedKey.toUpperCase().replace(/_/g, ' ')
   }
-
+  if ((key == '')) {
+    return null
+  }
   return <span dangerouslySetInnerHTML={{ __html: formattedKey + ': ' }} />
 }

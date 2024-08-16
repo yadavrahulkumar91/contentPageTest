@@ -1,13 +1,13 @@
 import React from 'react'
 import {renderAttributes } from '../render'
 
-function Note ({ key, value, isArray, isObject, level }) {
+function Note ({value}) {
   return (
     <div>
         {value && Array.isArray(value) && value.length > 0
           ? value.map((note, index) => (
               <div
-                className='border-r-2 border-black border-2'
+                className='border-r-2 border-black border-2 m-2'
                 key={index} // Ensure unique key for each item
               >
                 <div className='bg-red-500 text-2xl'>Note:</div>
