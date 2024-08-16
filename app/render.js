@@ -18,9 +18,8 @@ export const renderAttributes = (attributes, level = 0) => {
   if (!attributes || typeof attributes !== 'object') {
     return null
   }
-  const isArray = Array.isArray(attributes)
 
-  if (isArray){
+  if (Array.isArray(attributes)){
     return (<div>
       {renderArray(attributes, level)}
     </div>)
@@ -30,7 +29,7 @@ export const renderAttributes = (attributes, level = 0) => {
     const isObject = typeof value === 'object'
 
     return (
-      <div key={key}>{renderObject(key, value, isArray, isObject, level)}</div>
+      <div key={key}>{renderObject(key, value, isObject, level)}</div>
     )
   })
 }
@@ -56,7 +55,7 @@ function renderArray (attributes, level) {
 }
 
 
-function renderObject (key, value, isArray, isObject, level) {
+function renderObject (key, value, isObject, level) {
   if (/^__image\d*$/.test(key)) {
     return <Image value={value} />
   } else if (/^__table\d*$/.test(key)) {
@@ -77,18 +76,18 @@ function renderObject (key, value, isArray, isObject, level) {
     {value}
     </p>)
   } else {
-    return elseFunction(key, value, isArray, isObject, level)
+    return elseFunction(key, value, isObject, level)
   }
 }
 
-function elseFunction (key, value, isArray, isObject, level) {
+function elseFunction (key, value, isObject, level) {
   return (
     <div
       key={key}
       style={{ marginLeft: `${30}px` }}
       className=''
     >
-      {renderArrayOrObjectContent(key, level, isArray, isObject)}
+      {renderArrayOrObjectContent(key, level, isObject)}
       {isObject ? (
         renderAttributes(value, level + 1)
       ) : (
@@ -102,17 +101,7 @@ function elseFunction (key, value, isArray, isObject, level) {
   )
 }
 
-function renderArrayOrObjectContent (key, level, isArray, isObject) {
-  if (isArray) {
-    let key1 = Number(key)
-    if (isObject) {
-        key1=key1-1;
-      return null
-      // return <span>{Number(key) + 1}. </span>
-    } else {
-      return <span style={{ fontSize: '20px' }}>{key1 + 1}. </span>
-    }
-  } else {
+function renderArrayOrObjectContent (key, level, isObject) {
     return (
       <span
         style={{
@@ -127,10 +116,7 @@ function renderArrayOrObjectContent (key, level, isArray, isObject) {
         {renderBulletin(level)} {renderKey(key, level)}
       </span>
     )
-  }
-
-  return null // You can modify this to return a default component if needed
-}
+ }
 
 function renderBulletin (level) {
   if (level === 0) {
