@@ -40,37 +40,41 @@
           "Plasmalemma is excretory and protective in function, ammonia diffuses out through it."
         ]
       },
-      "Uroid":"Posterior end of Amoeba is marked by wrinkled plasma membrane - the Uroid.",
-      "Cytoplasm":{
-        "__p":"Cytoplasm of Amoeba is differentiated into Outer ectoplasm and inner endoplasm.",
-        "Ectoplasm":"Ectoplasm is the outer tough plasmagel.",
-        "Endoplasm":[
-            "Endoplasm is central more fluid like plasmasol state of colloid cytoplasm.",
-            "Endoplasm shows brownian movement."
+      "Uroid": "Posterior end of Amoeba is marked by wrinkled plasma membrane - the Uroid.",
+      "Cytoplasm": {
+        "__p": "Cytoplasm of Amoeba is differentiated into Outer ectoplasm and inner endoplasm.",
+        "Ectoplasm": "Ectoplasm is the outer tough plasmagel.",
+        "Endoplasm": [
+          "Endoplasm is central more fluid like plasmasol state of colloid cytoplasm.",
+          ["Hl", "bi"],
+          "Endoplasm shows brownian movement."
         ]
       },
-      "Nucleus":[
+      "Nucleus": [
         "Nucleus of Amoeba is solid and biconcave.",
         "Just below the nuclear membrane, there is the presence of a network of protein fibre called honey comb lattice which gives shape to the nuclei."
       ],
-      "Vacuole":{
-        "Food vacuole":[
-				"Food vacuole of Amoeba is analogous to the Alimentary canal of an animal or Gastrovascular cavity of Hydra.",
-				"The contents of food vacuole in Amoeba first becomes acidic then alkaline."
-
+      "Vacuole": {
+        "Food vacuole": [
+          "Food vacuole of Amoeba is analogous to the Alimentary canal of an animal or Gastrovascular cavity of Hydra.",
+          "The contents of food vacuole in Amoeba first becomes acidic then alkaline."
         ],
-        "Contractile vacuole":[
-                				"Endoplasm of Amoeba  in the posterior part contains a single clear rounded and pulsating contractile vacuole.",
-				"Contractile vacuole in Amoeba is concerned with osmoregulation, i.e. removal of water.",
-				"Contractile vacuole is found only in freshwater forms; absent in marine and parasitic forms.",
-					["If an amoeba is placed in distilled water, its contractile vacuole works faster.",
-					"If an Amoeba is placed in sea water/ salt water, its contractile vacuole will disappear.",
-					"When a fresh water Amoeba is kept in sea water, it loses its contractile vacuole but when a marine Amoeba is kept in fresh water, it develops contractile vacuole."],
-				"Contractile vacuole of Amoeba is analogous (similar in function) to Uriniferous tubules(nephron) of frog.",
-				"Due to filling of water, contractile vacuole enlarges and called Diastole.",
-				"Difference between Amoeba and Entamoeba is in contractile vacuole.",
-					["Entamoeba lacks contractile vacuole."]
-
+        "Contractile vacuole": [
+          "Endoplasm of Amoeba  in the posterior part contains a single clear rounded and pulsating contractile vacuole.",
+          "Contractile vacuole in Amoeba is concerned with osmoregulation, i.e. removal of water.",
+          {
+            "Contractile vacuole is found only in freshwater forms; absent in marine and parasitic forms.": [
+              "If an amoeba is placed in distilled water, its contractile vacuole works faster.",
+              "If an Amoeba is placed in sea water/ salt water, its contractile vacuole will disappear.",
+              "When a fresh water Amoeba is kept in sea water, it loses its contractile vacuole but when a marine Amoeba is kept in fresh water, it develops contractile vacuole."
+            ]
+          },
+          "Contractile vacuole of Amoeba is analogous (similar in function) to Uriniferous tubules(nephron) of frog.",
+          "Due to filling of water, contractile vacuole enlarges and called Diastole.",
+          "Difference between Amoeba and Entamoeba is in contractile vacuole.",
+          [
+            "Entamoeba lacks contractile vacuole."
+          ]
         ]
       }
     }

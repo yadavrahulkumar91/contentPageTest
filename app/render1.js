@@ -20,12 +20,6 @@ export const renderAttributes = (attributes, level = 0) => {
   }
   const isArray = Array.isArray(attributes)
 
-  if (isArray){
-    return (<div>
-      {renderArray(attributes, level)}
-    </div>)
-  }
-
   return Object.entries(attributes).map(([key, value]) => {
     const isObject = typeof value === 'object'
 
@@ -34,27 +28,6 @@ export const renderAttributes = (attributes, level = 0) => {
     )
   })
 }
-
-function renderArray (attributes, level) {
-  return (
-    <ol>
-      {attributes.map((value, i) => {
-        console.log(value)
-        if (Array.isArray(value)){
-          return renderArray(value)
-        }
-        else if (typeof value == 'object'){
-          return renderAttributes(value, level)
-        }
-        else {
-          return <li className='list-decimal ml-12' key={i}><span dangerouslySetInnerHTML={{ __html: value}} /></li>
-
-        }
-      })}
-    </ol>
-  )
-}
-
 
 function renderObject (key, value, isArray, isObject, level) {
   if (/^__image\d*$/.test(key)) {
@@ -73,7 +46,7 @@ function renderObject (key, value, isArray, isObject, level) {
     return <Note value={value} />
   } else if (/^__p\d*$/.test(key)) {
     return (
-    <p className="text-xl ml-6">
+    <p className="text-xl">
     {value}
     </p>)
   } else {

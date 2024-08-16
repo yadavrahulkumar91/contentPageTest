@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Render from './render'
-import data from './data/data.json'
+import data from './data/protozoa.json'
 
 export default function Home() {
   return (
