@@ -1,0 +1,137 @@
+{
+  "Introduction": {
+    "Members": "Members of Platyhelminthes are called Flat worms because they are dorsiventrally flattened.",
+    "Study": "Study of Platyhelminthes and Nemathelminthes is called Helminthology.",
+    "Diseases": "Diseases caused by Platyhelminthes and Aschelminthes is called Helminthic disease.",
+    "Habitat": {
+      "Parasitic": "Most members are Parasitic",
+      "Free-living": [
+        "Planaria (Water)",
+        "Bipalium (Land)"
+      ]
+    }
+  },
+  "General Characters": {
+    "First Appeared Characters": [
+      "Triploblastic animal",
+      "Bilateral symmetry",
+      "Cephalization (e.g., Head of Tapeworm – Scolex)",
+      "Brain is seen – Vestigial",
+      "Nervous organ is Primitive ladder-like",
+      "Tissue-organ level of Body-organization (e.g., Excretory organ is Flame cell)"
+    ],
+    "Body Cavity": "Acoelomate (Mesoderm split and filled with Parenchyma tissue)"
+  },
+  "Classification": {
+    "__table": [
+      {
+        "data": [
+          [
+            "Characters",
+            "Turbellaria",
+            "Trematoda (Flukeworms)",
+            "Cestoda (Tapeworms)"
+          ],
+          [
+            "Mode of Life",
+            "Free-living",
+            "Parasitic",
+            "Exclusively endoparasitic"
+          ],
+          [
+            "Alimentary canal",
+            "Incomplete - Without Anus (Pharynx is present in Planaria which is protrusible/ everted)",
+            "Incomplete - Without Anus",
+            "Absent"
+          ],
+          [
+            "Cilia",
+            "Body is ciliated and Mucus-secreting gland",
+            "Body is not ciliated",
+            "Body is not ciliated"
+          ],
+          [
+            "Body structure",
+            "Unsegmented leaf like",
+            "Unsegmented leaf like",
+            "Segmented ribbon/ tape like"
+          ],
+          [
+            "Adhesive organs",
+            "No hooks nor sucker",
+            [
+              "No hooks",
+              "Only Suckers present (For attachment and ingestion)",
+              "Oral sucker/ Anterior sucker (Used for Ingestion and Attachment)",
+              "Ventral sucker/ Posterior sucker/ Acetabulum (Used for Attachment only)"
+            ],
+            [
+              "Both Hooks and Suckers (Only for attachment)",
+              "1 Rostellum containing 18-32 hooks (Used for attachment only) [Note: Tapeworm feed through general body surface called as Osmotrophy]",
+              "4 Suckers (Used only for attachment)"
+            ]
+          ],
+          [
+            "Receptors",
+            [
+              "Only present in Planaria",
+              "1 pair of Auricular space (in Head) - Tastes the water (Gustatory organ or Chemoreceptor)",
+              "1 pair of Eye spot: Unit Ocelli (in between the Auricular space) - Photoreceptor (Doesn’t form image, only detects the presence of light)"
+            ],
+            "X",
+            "X"
+          ],
+          [
+            "Development",
+            "Direct",
+            [
+              "Indirect",
+              "Liverfluke (Fasciola hepatica)",
+              [
+                "Miracidium - Infective stage to Secondary host (Snail) (Ciliated, Free swimming larva with X-shaped eyes)",
+                "Sporocyst",
+                "Redia",
+                "Cercaria (Heart-shaped with bifid intestine)",
+                "Metacercaria - Infective stage to Primary host (Sheep)"
+              ],
+              "Bloodfluke (Schistosoma)",
+              [
+                "Miracidium - Infective stage to Secondary host (Snail)",
+                "Sporocyst",
+                "Cercaria - Infective stage to Primary host (Man) [Redia and Metacercaria stages do not occur in blood fluke]"
+              ]
+            ],
+            [
+              "Indirect",
+              "Taenia solium (Tapeworm)",
+              [
+                "Oncosphere - Infective stage to Secondary host (Pig)",
+                "Hexacanth (with six hooks)",
+                "Cysticercus (Bladder-worm) - Infective stage to Primary host (Man)"
+              ]
+            ]
+          ],
+          [
+            "Examples",
+            [
+              "Planaria (Degesia)",
+              "Bipalium"
+            ],
+            [
+              "Fasciola hepatica/ Sheep liverfluke [P.H. = Sheep 🐑, S.H. = Snail 🐌]",
+              "Schistosoma/ Human Blood fluke [P.H. = Man 👨, S.H. = Snail 🐌]",
+              "Paragorimus westermani (Lung fluke)"
+            ],
+            [
+              "Taenia solium/ Pork tapeworm [P.H.=Man 👨, S.H. = Pig 🐖]",
+              "Taenia saginata (Beef tapeworm) [P.H = Man 👨; S.H = Cow 🐄/ Cattle]",
+              "Echinococcus granulosa/ Dog tapeworm [P.H. = Dog 🐕, S.H. = Sheep 🐑, Man 👨, Cattle]",
+              "Diphylobthrium latum (Fish tapeworm)",
+              "Hymenolepis nana (Dwarf tapeworm)"
+            ]
+          ]
+        ]
+      }
+    ]
+  }
+}

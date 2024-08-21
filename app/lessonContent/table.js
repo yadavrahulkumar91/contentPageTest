@@ -1,4 +1,5 @@
 import React from 'react'
+import { renderAttributes } from './lessonContent'
 
 export default function table ({ value }) {
   return (
@@ -11,18 +12,12 @@ export default function table ({ value }) {
                   <tr key={rowIndex}>
                     {row.map((cell, cellIndex) =>
                       rowIndex === 0 ? (
-                        <th className='border-4' key={cellIndex}>{cell}</th>
+                        <th className='border-4' key={cellIndex}>
+                          {renderAttributes(cell, table.level ?? 2)}
+                        </th>
                       ) : (
                         <td className='border' key={cellIndex}>
-                          {Array.isArray(cell) ? (
-                            <ul>
-                              {cell.map((item, itemIndex) => (
-                                <li className='list-decimal ml-10' key={itemIndex}>{item}</li>
-                              ))}
-                            </ul>
-                          ) : (
-                            cell
-                          )}
+                          {renderAttributes(cell, table.level ?? 2)}
                         </td>
                       )
                     )}

@@ -1,0 +1,47 @@
+{
+  "Schistosoma": {
+    "Species Infecting Humans": [
+      "Schistosoma haematobium",
+      "Schistosoma mansoni",
+      "Schistosoma japonicum"
+    ],
+    "Old Name": "Bilharzia",
+    "Discovery": {
+      "Discoverer": "Theodor Bilhartz (German parasitologist)",
+      "Significance": "Discovered S. haematobium responsible for urinary schistosomiasis.",
+      "Impact": "Schistosoma haematobium causes kidney damage."
+    },
+    "Location in Human Body": [
+      "Small branches of urinary bladder",
+      "Urinary tract",
+      "Mesenteric veins",
+      "Portal veins",
+      "Lymph nodes"
+    ],
+    "Reproduction": {
+      "Type": "Dioecious with well-defined sexual dimorphism",
+      "Male Characteristics": "Smaller and thicker",
+      "Female Characteristics": "Longer, slender, and cylindrical",
+      "Unique Feature": "Female is lodged in the Gynaecophoral canal of male."
+    },
+    "Life Cycle": {
+      "Type": "Digenetic",
+      "Primary Host": "Man",
+      "Secondary Host": "Balinus or other snails",
+      "Egg Development": "The eggs pass out from man with urine or faeces and hatch when they come in contact with water."
+    },
+    "Disease": {
+      "Name": "Schistosomiasis or Bilharziasis",
+      "Infection Method": "Caused by either penetration of Cercaria through the skin or by contaminated water.",
+      "Severe Condition": "Blood flukes sometimes produce a severe cercarial dermatitis called 'Swimmer's itch'."
+    },
+    "Symptoms": [
+      "Skin rash",
+      "Bronchial cough",
+      "Anaemia",
+      "Haematuria",
+      "Bloody stool"
+    ],
+    "Treatment": "Praziquantel"
+  }
+}

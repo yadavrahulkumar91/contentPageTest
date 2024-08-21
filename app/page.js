@@ -1,11 +1,11 @@
 import Image from "next/image";
-import Render from './render'
-import data from './data/protozoa.json'
+import LessonContent from './lessonContent/lessonContent'
+import data from './data/data.json'
 
 export default function Home() {
   return (
    <div>
-    <Render lessonContent ={data}/>
+    <LessonContent lessonContent ={data}/>
 
    </div>
   );

@@ -1,0 +1,39 @@
+{
+  "General features": {
+    "__image":[
+        {
+            "url":"https://cdn.britannica.com/97/181797-050-262AFF0D/Euglena-anatomy.jpg",
+            "caption":"<i>Euglena</i>",
+            "width":"400"
+        }
+    ],
+    "": "<i>Euglena</i> forms a link between animals and plants.",
+    "Nutrition": {
+      "": "In <i>Euglena</i>, the mode of nutrition is mixotropic."
+    },
+    "Plant or Animal": {
+      "Resemblance with animals": [
+        "Presence of gullet.",
+        "Presence of contractile vacuole.",
+        "Holozoic mode of nutrition.",
+        "Sometimes absence of chlorophyll pigments."
+      ],
+      "Resemblance with plants": [
+        "Presence of chlorophyll pigment."
+      ]
+    },
+    "Habitat": "<i>Euglena</i> lives in ponds and lakes rich in organic matter.",
+    "Habit": "<i>Euglena</i> is always solitary (never forming a colony)."
+  },
+  "Cellular structure": {
+    "Pellicle": "<i>Euglena</i> has a hard yet flexible covering beneath its plasma membrane called the Pellicle.",
+    "Eyespot and Photoreceptor": "Two organelles, an eyespot and photoreceptor, help <i>Euglena</i> stay near the light. (The name <i>Euglena</i> means 'True eye'.)"
+  },
+  "Nutrition": {
+    "": "<i>Euglena</i> ingests solid food."
+  },
+  "Reproduction": {
+    "": "<i>Euglena</i> is haploid and reproduces by longitudinal binary fission.",
+    "Sexual reproduction": "Sexual reproduction in <i>Euglena</i> is unknown."
+  }
+}

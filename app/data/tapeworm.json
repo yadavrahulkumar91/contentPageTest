@@ -1,0 +1,292 @@
+{
+  "Tapeworm": {
+    "Body Structure": {
+      "Shape": "Elongated ribbon or tape-like segmented body (pseudometamerism)",
+      "Parts": [
+        {
+          "Part": "Head (Scolex)",
+          "Features": [
+            "Apical part of Scolex is Rostellum",
+            "Rostellum bears two circles of chitinous hooks (28-32)",
+            "Four suckers or Acetabula",
+            "Suckers and hooks are for attachment with the host body"
+          ]
+        },
+        {
+          "Part": "Neck",
+          "Features": [
+            "Unsegmented part",
+            "New segments are formed in this region (Budding zone or Proliferation zone)",
+            "Narrowest part of the body"
+          ]
+        },
+        {
+          "Part": "Strobila",
+          "Features": [
+            "Main body made of 800-1000 similar rectangular segments called Proglottids",
+            "Youngest segments lie near the neck, oldest lie at the rear end",
+            "Three types of proglottids: Young (Male organs), Mature (Male and Female organs), Gravid (Branched uterus with fertilized eggs)",
+            "Gravid proglottids detach one by one and pass out with host faeces (Apolysis)"
+          ]
+        }
+      ],
+      "Body Walls": {
+        "Lacks": "Cellular epidermis",
+        "Consists of": [
+          "Cuticle (Parasitic adaptation)",
+          "Musculature",
+          "Parenchyma (Mesodermal tissue)",
+          {
+            "Outer Layer": "Cortical parenchyma with Lime secreting gland cells",
+            "Inner Layer": "Medullary parenchyma with internal organs"
+          }
+        ],
+        "Body Cavity": "Absent (Acoelomate)"
+      }
+    },
+    "Nutrition": {
+      "Type": "Osmotrophy",
+      "Details": [
+        "No digestive system",
+        "Depends on predigested food absorbed from host's gut through the cuticle",
+        "Cuticle protects from host's digestive enzymes"
+      ]
+    },
+    "Respiration": {
+      "Type": "Anaerobic"
+    },
+    "Excretion": {
+      "System": "Longitudinal and cross-connecting excretory canals",
+      "Products": [
+        "Ammonia",
+        "Fatty acids"
+      ],
+      "Excretory Organs": "Flame cells"
+    },
+    "Reproduction": {
+      "Type": "Hermaphrodite",
+      "Details": [
+        "A complete reproductive system occurs in each mature proglottid",
+        "Fertilization can occur within the same proglottid or between proglottids of the same strobila",
+        "Larval stages: Oncosphere, Hexacanth (with six hooks), Cysticercus (Bladder-worm)"
+      ]
+    },
+    "Life Cycle": [
+      "Each fertilized egg develops into Oncosphere larva within the proglottid",
+      "Oncospheres pass out through host faeces",
+      "Secondary host (Pig) ingests oncospheres",
+      "Hexacanth is released in pig's stomach, travels through blood, and encysts in muscles as Bladderworm (Cysticercus)",
+      "Humans get infected by eating raw or poorly cooked 'Measly pork' (infected pork)",
+      "Cysticercus in pig muscles can remain viable for several years",
+      "Cysticercus develops into an adult tapeworm in human intestine"
+    ]
+  },
+  "Taenia saginata": {
+    "Common Name": "Beef tapeworm",
+    "Host Details": [
+      "Primary host: Man",
+      "Secondary host: Cattle"
+    ],
+    "Differences": [
+      "Called 'Unarmed tapeworm' because the scolex does not possess hooks",
+      "More prevalent and longer than Taenia solium"
+    ],
+    "Diseases": [
+      {
+        "Name": "Taeniasis",
+        "Symptoms": [
+          "Abdominal pain",
+          "Nausea",
+          "Anaemia",
+          "Loss of appetite",
+          "Indigestion",
+          "Eosinophilia",
+          "Nervous disorders"
+        ],
+        "Treatment": [
+          "Yomesan",
+          "Camoquin",
+          "Antiphen"
+        ]
+      },
+      {
+        "Name": "Cysticercosis",
+        "Details": [
+          "Caused by bladderworm (Cysticercus)",
+          "More dangerous than taeniasis",
+          "Encystment occurs in organs such as cardiac muscle, liver, eyes, and brain"
+        ]
+      }
+    ]
+  },
+  "__table": [
+    {
+      "data": [
+        [
+          "S.N.",
+          "Taenia solium (Pork tapeworm)",
+          "Taenia saginata (Beef tapeworm)",
+          "Echinococcus granulosa (Dog tapeworm/ Hydatid worm)",
+          "Diphylobothrium latum (Fish tapeworm)",
+          "Hymenolepsis nana (Dwarf tapeworm)"
+        ],
+        [
+          "Unique",
+          "",
+          "Longest tapeworm in human",
+          "",
+          "Shortest tapeworm in human"
+        ],
+        [
+          "1. Residence of Adult tapeworm",
+          "Small intestine of human",
+          "Small intestine of human",
+          "Small intestine of dog, wolf, jackal, hyena, fox",
+          ""
+        ],
+        [
+          "2. Residence of Larva",
+          "Muscles of Pig/ Brain or Eye muscles of human",
+          "Muscles of cow or buffalo",
+          "Liver/ Lungs/ Muscles of sheep/ human",
+          ""
+        ],
+        [
+          "3. Primary host/ Definite host",
+          "Human",
+          "Human",
+          "Canine animals like dog, wolf, jackal, etc.",
+          "• Trigenetic",
+          "Human"
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "A) Human"
+        ],
+        [
+          "4. Secondary host",
+          "Pig",
+          "Cow/ Buffalo",
+          "Sheep/ Human/ Cattle",
+          "B) Fish",
+          "The life cycle is simple without any intermediate host but flour beetles and fleas may serve as the intermediate host."
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "C) Cyclops"
+        ],
+        [
+          "6. Size",
+          "2-3 meter",
+          "5-8 meter",
+          "4-6 millimeter",
+          ""
+        ],
+        [
+          "5. Human acts as",
+          "Definitive + Intermediate host",
+          "Definite host",
+          "Intermediate host",
+          ""
+        ],
+        [
+          "7. Scolex",
+          "- Presence of Rostellum with hooks + hooklets",
+          "- Absent",
+          "- Absent",
+          ""
+        ],
+        [
+          "",
+          "- Suckers present",
+          "- Present",
+          "- Present",
+          ""
+        ],
+        [
+          "8. No. of proglottids",
+          "900-1000",
+          "1800-2000",
+          "3 or 4",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "- Immature = 1",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "- Mature = 1",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "- Gravid = 1 or 2",
+          ""
+        ],
+        [
+          "9. Mode of Transmission",
+          "- By measly meat of pig;",
+          "By meat of cow/ buffalo",
+          "- By contaminated food/ water;",
+          ""
+        ],
+        [
+          "",
+          "- By contaminated water/ food (Cystericercosis)",
+          "",
+          "- By direct contact with infected dogs",
+          ""
+        ],
+        [
+          "10. Infective stage",
+          "Cystercercus cellulosae",
+          "Cystercercus bovis",
+          "Hydatid cyst (Hexacanth larva)",
+          ""
+        ],
+        [
+          "11. Diseases",
+          "- Adult = Taeniasis",
+          "- Adult = Taeniasis",
+          "- Adult = ………",
+          ""
+        ],
+        [
+          "",
+          "- Larva = Cystercercosis",
+          "- Larva = ……",
+          "- Larva = Hydatid disease/ Echinococcosis",
+          ""
+        ],
+        [
+          "12. Eggs",
+          "Are infective",
+          "Not infective",
+          "Are infective",
+          ""
+        ],
+        [
+          "13. Susceptibility",
+          "Both vegetarians and Non-vegetarians are affected",
+          "Only non-vegetarians are affected",
+          "All (Including those in contact with dogs are affected",
+          ""
+        ]
+      ]
+    }
+  ]
+}

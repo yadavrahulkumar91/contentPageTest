@@ -1,0 +1,96 @@
+{
+  "Fasciola hepatica": {
+    "Residence": "Bile passages in the liver of sheep",
+    "Epidermis": {
+      "Type": "Syncytial"
+    },
+    "Excretory System": {
+      "Excretory Organ": "Flame cells (Solenocytes)",
+      "Connection": "Flame cells are connected to excretory canals by their canaliculi.",
+      "Excretory Products": [
+        "CO2",
+        "NH3",
+        "Fatty acids"
+      ],
+      "Excretory Pore": "Opens at the extreme posterior end of the body."
+    },
+    "Reproduction": {
+      "Type": "Bisexual (Hermaphrodite)",
+      "Complexity": "Reproductive systems are extremely well-developed and quite complex.",
+      "Copulation": "Mid-dorsal part contains a minute pore for copulation.",
+      "__table": [
+        {
+          "data": [
+            [
+              "Male Reproductive Organs",
+              "Female Reproductive Organs"
+            ],
+            [
+              {
+                "1 pair of testes": [
+                  "Highly branched",
+                  "Tandem in position (i.e., lying one behind the other)"
+                ]
+              },
+              {
+                "Single ovary": [
+                  "Situated in right half of body"
+                ]
+              }
+            ],
+            [
+              {
+                "Cirrus (Muscular penis)": "Act as Male copulatory organ"
+              },
+              {
+                "Laurer’s canal": "Act as Temporary vagina (Appears only during Breeding season)"
+              }
+            ],
+            [
+              "",
+              {
+                "Genital pore/ Gonopore": "(Located between the two suckers)"
+              }
+            ],
+            [
+              "",
+              {
+                "Vitelline glands": [
+                  "(i) Produces Yolk",
+                  "(ii) Provides nutrition to eggs"
+                ],
+                "Mehlis gland/ Shell gland": [
+                  "(i) Makes egg hard",
+                  "(ii) Provides lubrication of egg for passage"
+                ]
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    "Life Cycle": {
+      "Type": "Digenetic",
+      "Primary Host": {
+        "Host": "Sheep",
+        "Disease": "Liver rot",
+        "Related Disease": "Fasciolopsis is caused by Fasciola busci.",
+        "Treatment": "Fasciola infection can be treated with the veterinary Fasciolide triclabendazole."
+      },
+      "Secondary Host": {
+        "Host": "Snail",
+        "Impact": "Fasciola is harmless to snails but is pathogenic in vertebrate hosts, including man (rarely)."
+      },
+      "Larval Stages": [
+        "Sporocyst gives rise to Redia",
+        "Redia to Cercaria",
+        "Cercaria is transformed into Metacercaria"
+      ],
+      "Phenomenon": "This phenomenon is Polyembryony.",
+      "Alternation": [
+        "Fasciola exhibits both alternation of generation and alternation of host."
+      ],
+      "Water Dependency": "Fasciola cannot complete its lifecycle in the absence of water due to the lack of snails."
+    }
+  }
+}

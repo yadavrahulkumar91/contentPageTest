@@ -1,0 +1,82 @@
+{
+  "General features": {
+    "": "The comost common species of <i>Amoeba</i> is <i>proteus</i>.",
+    "History": "<i>Amoeba</i> was discovered by Rossel von Rosenhoff.",
+    "Shape": "<i>Amoeba</i> has no fixed shape.",
+    "Habitat": {
+      "Amoeba lives in": [
+        "Freshwater",
+        "Moist soil or ",
+        "Sea"
+      ]
+    },
+    "Culture": "<i>Amoeba</i> is cultured in laboratory by <b>Hay infusion method</i>.",
+    "Cellular structure": {
+      "Plasmalemma": {
+        "Structure of Plasmalemma": [
+          "Plasmalemma is trilaminar and selectively permeable membrane.",
+          "Outer layer of plasmalemma is made up of fibre like molecules of adhesive mucoprotein called microvilli.",
+          {
+            "__note": [
+              {
+                "data": {
+                  "": "Microvilli project outside the surface and keeps the body dry; so Amoeba is never wet inside the water."
+                }
+              }
+            ]
+          }
+        ],
+        "Function of Plasmalemma": [
+          "Body of Amoeba is covered by plasmalemma.",
+          "Plasmalemma covers the body so in general protective in function.",
+          "Plasmalemma is also respiratory, diffusion of oxygen and carbon dioxide takes place through it.",
+          "Plasmalemma is excretory and protective in function, ammonia diffuses out through it."
+        ]
+      },
+      "Uroid": "Posterior end of Amoeba is marked by wrinkled plasma membrane - the Uroid.",
+      "Cytoplasm": {
+        "__p": "Cytoplasm of Amoeba is differentiated into Outer ectoplasm and inner endoplasm.",
+        "Ectoplasm": "Ectoplasm is the outer tough plasmagel.",
+        "Endoplasm": [
+          "Endoplasm is central more fluid like plasmasol state of colloid cytoplasm.",
+          "Endoplasm shows brownian movement."
+        ]
+      }
+    },
+    "Locomotory organ": {
+      "Pseudopodia": [
+        "Locomotory organ in Amoeba is Pseudopodia.",
+        "Pseudopodia in Amoeba is composed of both ectoplasm and endoplasm.",
+        "Pseudopodia is a temporary locomotory structure.",
+        "Pseudopodia at its forward end gets its firm consistency by  hyaline cap which is made of ectoplasm.",
+        "Pseudopodia in Amoeba are meant for feeding and locomotion."
+      ],
+      "__table": [
+        {
+          "data": [
+            [
+              "Locomotory organelle",
+              "Protozoans"
+            ],
+            [
+              "Pseudopodia (Lobopodia)",
+              "Amoeba"
+            ],
+            [
+              "Flagella",
+              [
+                "Euglena",
+                "Trypanosoma",
+                "Giardia"
+              ]
+            ],
+            [
+              "Cillia",
+              "Paramecium"
+            ]
+          ]
+        }
+      ]
+    }
+  }
+}

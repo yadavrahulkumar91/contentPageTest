@@ -1,0 +1,224 @@
+{
+  "__image": [
+    {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Paramecium_diagram.png",
+      "caption": "<i>Paramecium caudatum</i>",
+      "width": "300"
+    }
+  ],
+  "General Information": {
+    "Type": "Holotrichous ciliate protozoan",
+    "Discoverer": "Hill",
+    "Common Species": "Paramecium caudatum",
+    "Common Name": "Slipper animalcule",
+    "Habitat": "Free-living and aquatic, found in fresh stagnant water with abundant organic matter",
+    "Culture Method": "Hay-infusion method in laboratory"
+  },
+  "Cellular Structure": {
+    "Body Surface": {
+      "Oral Surface": "Ventral surface",
+      "Aboral Surface": "Dorsal surface"
+    },
+    "Pellicle": {
+      "__image": [
+        {
+          "url": "https://www.studyandscore.com/images_all/1_Study%20material/Life%20sciences/Zoology/Protozoa/Paramecium_Pellicle.png",
+          "caption": "Pellicle of <i>Paramecium caudatum</i>",
+          "width": "300"
+        }
+      ],
+      "Description": "Thin, firm, and flexible membrane covering the body",
+      "Composition": "Made by a regular arrangement of microtubules",
+      "Function": "Gives shape to the body"
+    },
+    "Cilia": {
+      "Description": "Numerous cilia covering the entire body surface, acting as locomotory organelles",
+      "Special Groups": [
+        "Ventral penniculus",
+        "Dorsal quadrulus",
+        "Dorsal penniculus (Opposite in case of Pharynx)"
+      ],
+      "Movement": {
+        "Longitudinal Row": "Moves simultaneously one by one (Metachronous rhythm)",
+        "Transverse Row": "Moves in Synchronous rhythm"
+      },
+      "Role of ATP": "ATP plays a crucial role in the movement of cilia"
+    },
+    "Trichocysts": {
+      "__image": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjM9nfU700WzKw41FaY5ju6RpyPFUGyH0V5GVS4UJ7D_iqySCKk60WQJb37iDXQRQAPHKyTWSd1qCI7LR0yk5pB0okyQ0aNIJhPHYt_gEs0zk0QZvRKs9pq1A-tpWFzrDU0DcACtN8z6QQj_7DpQiAwK_lbLcK44VCfX3d8XB-_2YuxVsAg0IsKUQKCjw=w299-h400",
+          "caption": "Trichocyst of <i>Paramecium caudatum</i>",
+          "width": "300"
+        }
+      ],
+      "Description": "Peculiar bottle-shaped organelles in the ectoplasm",
+      "Function": "Organs of attachment, previously thought to be organs of offence and defence",
+      "Structure": {
+        "Spike": "Conical outer membrane",
+        "Cap": "A cap over the spike",
+        "Shaft": "Anterior end becomes very long when discharged",
+        "Length": "Discharged trichocyst is ten times longer than undischarged one"
+      }
+    },
+    "Contractile Vacuoles": {
+      "Number": "Two, permanently open on the dorsal surface",
+      "Structure": "Each vacuole has 6-10 radiating canals/accessory vacuoles",
+      "Function": "Helps in osmoregulation"
+    },
+    "Food Vacuoles": {
+      "Description": "Numerous vacuoles containing food particles",
+      "Oral Apparatus": {
+        "Components": [
+          "Cytopharynx",
+          "Cytostome (Mouth)"
+        ],
+        "Location": "Lies in the endoplasm"
+      },
+      "Movement": "Food vacuole moves along a definite course (Cyclosis) within the streaming endoplasm",
+      "Alternative Name": "Gastrioles"
+    },
+    "Nucleus": {
+      "Type": "Heterokaryotic (dimorphic nuclei)",
+      "Macronucleus": {
+        "Description": {
+          "Shape": "Kidney-shaped, large, polypoid",
+          "Function": "Regulates daily metabolic activities"
+        },
+        "Component": "Trophochromatin"
+      },
+      "Micronucleus": {
+        "Paramecium caudatum": "1",
+        "Paramecium aurelia": "2",
+        "Paramecium multi-micronucleatum": "Many",
+        "Function": {
+          "Description": "Genetic reserve of the cell, controls reproductive activities",
+          "Component": "Idiochromatin"
+        }
+      }
+    }
+  },
+  "Nutrition": {
+    "Type": "Holozoic",
+    "Feeding Mechanism": "Filter feeder",
+    "Favorite Food": {
+      "Name": "Tetrahymena",
+      "Description": "Another ciliate protozoa, used in biological research"
+    },
+    "Oral Groove": "Takes food through oral groove/peristomal groove at the left side of the anterior end of the body",
+    "Cyclosis": "Ensures uniform distribution of digested food material",
+    "Digestion": {
+      "Type": "Intracellular",
+      "Medium": "Acidic to alkaline",
+      "Color": {
+        "Acidic": "Blue-green",
+        "Basic": "Yellow"
+      }
+    },
+    "Cytopyge or Cytoproct": {
+      "Function": "Egestion of undigested food",
+      "Description": "Temporary anus, situated on the ventral surface of the oral groove",
+      "Alternative Name": "Cell anal spot"
+    }
+  },
+  "Excretion": {
+    "Mechanism": [
+      "General body surface",
+      "Contractile vacuoles"
+    ]
+  },
+  "Osmoregulation": {
+    "Mechanism": "By contractile vacuole only"
+  },
+  "Respiration": {
+    "Mechanism": "Through general body surface"
+  },
+  "Taxes": {
+    "Response": "Shows negative response and moves against water current",
+    "Reaction": "Contact with a foreign body induces avoiding reaction",
+    "Electrotaxis": "Moves towards the cathode (negative charge) under weak current"
+  },
+  "Reproduction": {
+    "Asexual": {
+      "__image": [
+        {
+          "url": "https://microbenotes.com/wp-content/uploads/2020/11/Binary-fission-of-Paramecium.jpg",
+          "caption": "Binary fission of <i>Paramecium caudatum</i>",
+          "width": "500"
+        }
+      ],
+      "Method": "Binary fission (Transverse fission)",
+      "Process": [
+        "Paramecium stops feeding and oral groove disappears",
+        "Macronucleus divides amitotically, micronucleus divides mitotically",
+        "Division occurs at a right angle to the body axis",
+        "Two daughter Paramecia are produced: Proter (anterior) and Opisthe (posterior)",
+        "Binary fission occurs during favorable conditions",
+        "Time\": \"Half an hour to 2 hours, 2-3 times a day"
+      ]
+    },
+    "Sexual": {
+      "Method": "Conjugation",
+      "__image": [
+        {
+          "url": "https://firebasestorage.googleapis.com/v0/b/gamechanger-drive-91.appspot.com/o/Paramecium%20conjugation.png?alt=media&token=67baf52d-0a2f-4446-8077-e31359728a9d",
+          "caption": "Conjugation in <i>Paramecium caudatum</i>",
+          "width": "300"
+        }
+      ],
+      "Description": "Temporary union of two individuals of different mating types for the exchange of micronuclear material",
+      "Functions": [
+        "Overcomes ageing or senescence",
+        "Brings about nuclear reorganization and rejuvenation"
+      ],
+      "Process": [
+        "Two Paramecia of different mating types unite ventrally by their oral grooves (Conjugants)",
+        "Macronucleus disintegrates and is absorbed by cytoplasm",
+        "Micronucleus divides twice, one division being reductional",
+        "Functional nucleus divides into female and male pronucleus",
+        "Male pronuclei are exchanged and fusion occurs, forming a diploid zygote nucleus (Synkaryon)",
+        "Conjugants separate and become ex-conjugants",
+        "Zygote nucleus divides, producing macronuclei and micronuclei",
+        "Binary fission occurs, resulting in 8 daughter Paramecia"
+      ]
+    },
+    "Autogamy": {
+      "Description": "Self-fertilization",
+      "Occurs in": "Paramecium aurelia",
+      "Result": "Two daughter Paramecia from each individual"
+    },
+    "Cytogamy": {
+      "Description": "Two individuals come in contact without cell membrane breakdown or nuclear exchange",
+      "Occurs in": "Paramecium caudatum"
+    },
+    "Endomixis": {
+      "Type": "Parthenogenesis",
+      "Description": "Asexual reproduction where macronucleus disappears, and micronucleus divides without fusion",
+      "Occurs in": "Paramecium aurelia",
+      "Result": "Four daughter Paramecia from each individual"
+    },
+    "Hemixis": {
+      "Description": "Purification act; reconstitution of macronucleus without any changes in micronucleus"
+    }
+  },
+  "Particles": {
+    "Types": [
+      "Kappa (Κ)",
+      "Lambda (λ)",
+      "Mu (μ)",
+      "Pi (π)"
+    ],
+    "Kappa Particle": {
+      "Description": "Special particle in cytoplasm, present in some Paramecia",
+      "Function": "Secretes toxic substance called Paramecin",
+      "Strain": "Paramecia with Kappa particles are called killer strain",
+      "Features": [
+        "Very minute",
+        "Capable of self-replicating",
+        "Contain nucleic acids",
+        "Concerned with cytoplasmic inheritance"
+      ],
+      "Effect": "Sensitive strain Paramecia die when conjugating with killer strain Paramecia"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "Planaria": {
+    "Pharynx": "Planaria can evert its pharynx.",
+    "Behavior": {
+      "Gregarious": "Planaria live in groups.",
+      "Diet": "Omnivorous"
+    },
+    "Epidermis": {
+      "Rhabdites": "Presence of Rhabdites.",
+      "Type": "Syncytial epidermis"
+    },
+    "Genital Pore": "The genital pore lies posterior to the pharynx.",
+    "Regeneration": {
+      "Power": "Planaria have a remarkable power of regeneration.",
+      "Mechanism": {
+        "Neoblasts": "Neoblasts from mesoderm help in regeneration.",
+        "Processes": [
+          "Epimorphosis",
+          "Morphollaxis"
+        ],
+        "Lateral Polarity": "Planaria has lateral polarity. If the head is cut longitudinally into 2 or several parts along the middle line, each part grows into a complete head, forming a several-headed Planaria. This is heteromorphosis.",
+        "Grafting": "Pieces of one Planaria can also be grafted into another."
+      }
+    },
+    "Reproduction": {
+      "Sexual": {
+        "Hermaphroditism": "Planaria are hermaphrodite.",
+        "Eggs": "Eggs are ectolecithal (i.e., yolk is deposited outside).",
+        "Fertilization": "Internal",
+        "Cleavage": "Spiral"
+      },
+      "Asexual": "Binary fission"
+    }
+  }
+}

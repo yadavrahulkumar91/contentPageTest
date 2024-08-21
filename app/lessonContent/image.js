@@ -10,20 +10,21 @@ return (
   //         </figure>
   //     )) : null}
   // </div>
-  <div>
+  <>
     {value && Array.isArray(value) && value.length > 0
       ? value.map((image, index) => (
           <figure
             key={index}
             // style={{ float: `${image.data.attributes.float ? image.data.attributes.float : null}`, marginRight: '10px' }}
+            className="border-2 inline m-2 float-end"
           >
             <img
               src={image.url}
-              width={image.width ? image.width : 200}
+              width={image.width ? image.width : 300}
               // width={400}
               alt={`Image ${index + 1}`}
             />
-            <figcaption>
+            <figcaption className="text-center inline m-auto">
               Fig.{' '}
               <span
                 key={index}
@@ -33,7 +34,7 @@ return (
           </figure>
         ))
       : null}
-  </div>
+  </>
 )
 
 
