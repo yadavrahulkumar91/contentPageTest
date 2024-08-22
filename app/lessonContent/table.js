@@ -1,7 +1,7 @@
 import React from 'react'
 import { renderAttributes } from './lessonContent'
 
-export default function table ({ value }) {
+export default function Table ({ value }) {
   return (
     <div>
       {value && Array.isArray(value) && value.length > 0

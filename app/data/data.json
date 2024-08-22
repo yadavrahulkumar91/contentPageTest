@@ -1,6 +1,13 @@
 {
   "General features": {
- "formula": "\\( x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a} \\)",
+    "__image": [
+      {
+        "url": "https://static.vecteezy.com/system/resources/previews/002/803/162/original/illustration-of-healthcare-and-medical-education-drawing-chart-of-amoeba-for-science-biology-study-vector.jpg",
+        "width": "300",
+        "caption": "Well labelled diagram of <i>Amoeba<i>",
+        "credit": "Vecteezy"
+      }
+    ],
     "Science of Protozoa": "Protozoology",
     "Cell structure of protozoa": [
       "Microscopic",
@@ -74,6 +81,75 @@
             ]
           ]
         }
+      ],
+      "__org": [
+        {
+          "data": {
+            "name": "Protista",
+            "about":"This is the main Kingdom",
+            "children": [
+              {
+                "name": "Animal-like",
+                "children": [
+                  {
+                    "name": "Protozoa",
+                    "children": [
+                      {
+                        "name": "Amoeboids",
+                        "about":"I am amoeba actually."
+                      },
+                      {
+                        "name": "Flagellates"
+                      },
+                      {
+                        "name": "Ciliates"
+                      },
+                      {
+                        "name": "Sporozoans"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Plant-like",
+                "children": [
+                  {
+                    "name": "Algae",
+                    "children": [
+                      {
+                        "name": "Chlorophyta (Green algae)"
+                      },
+                      {
+                        "name": "Phaeophyta (Brown algae)"
+                      },
+                      {
+                        "name": "Rhodophyta (Red algae)"
+                      },
+                      {
+                        "name": "Diatoms"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "Euglena"
+                  }
+                ]
+              },
+              {
+                "name": "Fungus-like",
+                "children": [
+                  {
+                    "name": "Slime molds"
+                  },
+                  {
+                    "name": "Water molds"
+                  }
+                ]
+              }
+            ]
+          }
+        }
       ]
     }
   },
@@ -91,8 +167,26 @@
     ],
     "": "Digestion is always intracellular."
   },
-  "Osmoregulation": "Osmoregulation takes place in fresh water protozoan with the help of one or two contractile vacuoles which is absent in marine and parasitic protozoans.",
-  "Respiration": "Gaseous exchange takes place by diffusion through general body surface.",
+  "Osmoregulation": {
+    "__bullet": [
+      {
+        "type": "",
+        "data": [
+          "Osmoregulation takes place in fresh water protozoan with the help of one or two contractile vacuoles which is absent in marine and parasitic protozoans.",
+          "When a fresh water Amoeba is kept in sea water, it loses its contractile vacuole but when a marine Amoeba is kept in fresh water, it develops contractile vacuole."
+        ]
+      }
+    ]
+  },
+  "Respiration": {
+    "__bullet": [
+      {
+        "data": [
+          "Gaseous exchange takes place by diffusion through general body surface."
+        ]
+      }
+    ]
+  },
   "Excretion": [
     "Excretion takes place through general body surface.",
     "They are ammonotelic. (NH<sub>3</sub>)"
@@ -128,13 +222,15 @@
         ],
         "__note": [
           {
-            "data": {"":"Binary fission of a multinucleated protozoa into two or more smaller multinucleate daughter individuals is termed as <b>Plasmotomy</b>."
-          }}
+            "data": {
+              "": "Binary fission of a multinucleated protozoa into two or more smaller multinucleate daughter individuals is termed as <b>Plasmotomy</b>."
+            }
+          }
         ]
       },
-      "Budding":{
-        "__p":"Budding is a modified binary fission resulting in a single or many daughter individuals in addition to the parent.",
-        "Examples":[
+      "Budding": {
+        "__p": "Budding is a modified binary fission resulting in a single or many daughter individuals in addition to the parent.",
+        "Examples": [
           "<i>Vorticella</i>",
           "<i>Ephelota</i>"
         ]
@@ -144,26 +240,26 @@
       "Syngamy": "Syngamy is fusion of two sex cells.",
       "Conjugation": "Conjugation is temporary contact of two individuals with nuclear exchange."
     },
-    "__note":[
+    "__note": [
       {
-        "data":{"":
-          [
+        "data": {
+          "": [
             "In most protozoa, sexually mature individual is haploid.",
             "Many protozoans form cyst which help them in overcoming unfavourable conditions and cause dispersal."
-        ]
+          ]
         }
       }
     ]
   },
-  "__note":[
+  "__note": [
     {
-      "data":{
-        "Trichonympha":[
+      "data": {
+        "Trichonympha": [
           " Trichonympha is symbiotic protozoan found in gut of the termite helping in cellulose digestion.",
           "Trichonympha secrete <b>Cellulose digesting enzymes.</b>"
         ],
-        "Monocystis":"Monocystis is parasite in the <b>seminal vesicle of Earthworm</b>.",
-        "Opalina":"Opalina is found in Rectum (Small intestine) of Frog."
+        "Monocystis": "Monocystis is parasite in the <b>seminal vesicle of Earthworm</b>.",
+        "Opalina": "Opalina is found in Rectum (Small intestine) of Frog."
       }
     }
   ]

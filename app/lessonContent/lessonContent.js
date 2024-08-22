@@ -1,35 +1,41 @@
 'use client'
-import React from 'react'
+import React, { useEffect } from 'react'
 import MathJax from 'react-mathjax'
-// import { Chart } from 'react-google-charts'
 import Mermaid from './mermaid'
 import Image from './image'
 import Table from './table'
 import Html from './html'
 import Note from './note'
+import Bullet from './bullet'
+import OrgChart from './OrgChart'
 
 const LessonContent = ({ lessonContent }) => {
-  // const jsonLessonContent = JSON.parse(lessonContent)
-  window.MathJax = {
-    tex: {
-      inlineMath: [
-        ['$', '$'],
-        ['\\(', '\\)']
-      ]
-    },
-    svg: {
-      fontCache: 'global'
-    }
-  }
-  ;(function () {
-    var script = document.createElement('script')
-    script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js'
-    script.async = true
-    document.head.appendChild(script)
-  })()
+  // useEffect(() => {
+  //   if (typeof window !== 'undefined') {
+      window.MathJax = {
+        tex: {
+          inlineMath: [
+            ['$', '$'],
+            ['\\(', '\\)']
+          ]
+        },
+        svg: {
+          fontCache: 'global'
+        }
+      }
+
+      ;(function () {
+        var script = document.createElement('script')
+        script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js'
+        script.async = true
+        document.head.appendChild(script)
+      })()
+  //   }
+  // }, [])
 
   return <div className='ml-[-30px]'>{renderAttributes(lessonContent)}</div>
 }
+
 export default LessonContent
 
 export const renderAttributes = (attributes, level = 0) => {
@@ -39,7 +45,7 @@ export const renderAttributes = (attributes, level = 0) => {
 
   if (Array.isArray(attributes)) {
     return <div>{renderArray(attributes, level)}</div>
-  } else if (typeof attributes == 'object') {
+  } else if (typeof attributes === 'object') {
     return Object.entries(attributes).map(([key, value]) => {
       return (
         <div key={key} className='ml-[30px]'>
@@ -48,21 +54,21 @@ export const renderAttributes = (attributes, level = 0) => {
       )
     })
   } else {
-    return <div>{attributes}</div>
+    return <div className='text-[20px] mx-2'>{attributes}</div>
   }
 }
 
 function renderArray (attributes, level) {
   return (
-    <ol className='ml-8'>
+    <ol className='ml-9'>
       {attributes.map((value, i) => {
         if (Array.isArray(value)) {
           return renderArray(value)
-        } else if (typeof value == 'object') {
+        } else if (typeof value === 'object') {
           return renderAttributes(value, level)
         } else {
           return (
-            <li className='list-decimal list-inside ' key={i}>
+            <li className='list-decimal list-outside text-xl' key={i}>
               <span dangerouslySetInnerHTML={{ __html: value }} />
             </li>
           )
@@ -87,6 +93,10 @@ function renderObject (key, value, level) {
     return <Note value={value} />
   } else if (/^__p\d*$/.test(key)) {
     return <p className='text-xl ml-6'>{value}</p>
+  } else if (/^__bullet\d*$/.test(key)) {
+    return <Bullet value={value}/>
+  } else if (/^__org\d*$/.test(key)) {
+    return <OrgChart value={value}/>
   } else {
     return elseFunction(key, value, level)
   }
@@ -94,11 +104,7 @@ function renderObject (key, value, level) {
 
 function elseFunction (key, value, level) {
   return (
-    <div
-      key={key}
-      // style={{ marginLeft: `${30}px` }}
-      className=''
-    >
+    <div key={key} className=''>
       {renderKey(key, level)}
       {typeof value === 'object' ? (
         renderAttributes(value, level + 1)
@@ -121,7 +127,6 @@ function renderKey (key, level) {
         backgroundColor: level === 0 ? 'lightgrey' : null,
         fontWeight: `${800 - level * 100}`,
         display: level === 0 ? 'block' : null
-        // padding: '5px',
       }}
       className={`font-medium text-xl`}
     >
@@ -145,12 +150,9 @@ function formatBulletin (level) {
 function formatKey (key, level) {
   let formattedKey = key
   if (level === 0) {
-    const style = {
-      backgroundcolor: 'red'
-    }
     formattedKey = formattedKey.toUpperCase()
   }
-  if (key == '') {
+  if (key === '') {
     return null
   }
   return <span dangerouslySetInnerHTML={{ __html: formattedKey + ': ' }} />
