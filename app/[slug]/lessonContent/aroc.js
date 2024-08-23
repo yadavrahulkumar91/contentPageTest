@@ -1,14 +1,11 @@
 'use client'
 
-import React from 'react'
+import React, { useEffect } from 'react'
 import dynamic from 'next/dynamic'
+import { renderAttributes } from './lessonContent'
+
 import OrgChart, {
   LayoutType,
-  NodeContainerRenderContext,
-  NodeContainerRenderProps,
-  NodeLineRenderProps,
-  NodeLineRenderContext,
-  Animated,
   ConnectorAlignment
 } from 'awesome-react-org-chart'
 
@@ -17,79 +14,53 @@ const DynamicOrgChart = dynamic(() => import('awesome-react-org-chart'), {
   ssr: false
 })
 
-export default function Aroc () {
-  // Define your orgData
-  const orgData = {
-    id: 1,
-    name: 'CEO',
-    title: 'Chief Executive Officer',
-    children: [
-      {
-        id: 2,
-        name: 'CTO',
-        title: 'Chief Technology Officer',
-        children: [
-          {
-            id: 3,
-            name: 'Dev Manager',
-            title: 'Development Manager',
-            children: [
-              {
-                id: 4,
-                name: 'Lead Developer',
-                title: 'Lead Developer'
-              },
-              {
-                id: 5,
-                name: 'QA Lead',
-                title: 'Quality Assurance Lead'
-              }
-            ]
-          }
-        ]
-      },
-      {
-        id: 6,
-        name: 'CFO',
-        title: 'Chief Financial Officer',
-        children: [
-          {
-            id: 7,
-            name: 'Finance Manager',
-            title: 'Finance Manager'
-          }
-        ]
-      }
-    ]
+export default function Aroc ({ data, layout_type }) {
+  const isValidNode = node => node !== undefined && node !== null
+
+  // Modified keyGetter to generate a unique key based on the node's depth and index
+  const generateUniqueKey = (node, parentKey = '0') => {
+    const children = node.children || []
+    return {
+      ...node,
+      key: `${parentKey}-${children.length}`,
+      children: children.map((child, index) =>
+        generateUniqueKey(child, `${parentKey}-${index}`)
+      )
+    }
   }
 
-  // Helper functions
-  const isValidNode = node => node !== undefined && node !== null
-  const keyGetter = node => node.id
+  const orgDataWithKeys = generateUniqueKey(data)
+
+  const keyGetter = node => node.key
   const renderNode = node => (
-    <div className='border-4 mx-6 z-10 bg-white'>
-      <strong>{node.name}</strong>
-      <p>{node.title}</p>
+    <div className='border-[3px] border-[green] z-10 bg-white'>
+      <div className='text-[20px] leading-[20px]  font-semibold bg-green-300 px-1'>
+        {node.name}
+      </div>
+      {/* <div>
+        {node.about ? renderAttributes(node.about, node.level ?? 2) : null}
+      </div> */}
     </div>
   )
   const childNodesGetter = node => node.children || []
 
   // Optional styles
   const lineHorizontalStyle = {
-    borderTop: '2px solid rgba(60,60,60,1)',
-    transition: '800ms transform, 800ms width, 800ms height'
+    borderTop: '3px solid  green'
+    // transition: '800ms transform, 800ms width, 800ms height'
   }
   const lineVerticalStyle = {
-    borderLeft: '2px solid rgba(60,60,60,1)',
-    transition: '800ms transform, 800ms width, 800ms height'
+    borderLeft: '3px solid  green'
+    // transition: '800ms transform, 800ms width, 800ms height'
   }
   const containerStyle = { margin: '', pointerEvents: 'none' }
-  const layout = LayoutType.LINEAR //  LINEAR | SMART | FISHBONE_1 | FISHBONE_2 | FISHBONE_3 | FISHBONE_4 | SINGLE_COLUMN_LEFT | SINGLE_COLUMN_RIGHT | STACKERS | ASSISTANTS
-  const debug = false // Set to true if you want to see debugging information
+  const layout = LayoutType.FISHBONE_1
+
+  const debug = false
 
   return (
     <DynamicOrgChart
-      root={orgData}
+      root={orgDataWithKeys}
       isValidNode={isValidNode}
       keyGetter={keyGetter}
       renderNode={renderNode}
@@ -97,7 +68,7 @@ export default function Aroc () {
       lineHorizontalStyle={lineHorizontalStyle}
       lineVerticalStyle={lineVerticalStyle}
       measureStrategy='effect'
-      connectorThickness={2}
+      connectorThickness={1}
       connectorAlignment={ConnectorAlignment.Center}
       layout={layout}
       containerStyle={containerStyle}

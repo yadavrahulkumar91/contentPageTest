@@ -1,0 +1,50 @@
+{
+  "__org": [
+    {
+        "type":"LINEAR",
+      "data": {
+        "id": 1,
+        "name": "CEO",
+        "title": "Chief Executive Officer",
+        "children": [
+          {
+            "id": 2,
+            "name": "CTO",
+            "title": "Chief Technology Officer",
+            "children": [
+              {
+                "id": 3,
+                "name": "Dev Manager",
+                "title": "Development Manager",
+                "children": [
+                  {
+                    "id": 4,
+                    "name": "Lead Developer",
+                    "title": "Lead Developer"
+                  },
+                  {
+                    "id": 5,
+                    "name": "QA Lead",
+                    "title": "Quality Assurance Lead"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "CFO",
+            "title": "Chief Financial Officer",
+            "children": [
+              {
+                "id": 7,
+                "name": "Finance Manager",
+                "title": "Finance Manager"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

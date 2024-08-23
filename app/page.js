@@ -9,7 +9,7 @@ export default function Home() {
    <div>
     <div className='bg-orange-300 font-bold text-center align-middle py-2 text-3xl font-serif'>Protozoa</div>
     <LessonContent lessonContent ={data}/>
-    <AROC/>
+    {/* <AROC/> */}
 
    </div>
   );

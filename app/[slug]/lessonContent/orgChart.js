@@ -2,7 +2,7 @@ import React from 'react'
 import { Tree, TreeNode } from 'react-organizational-chart'
 import styled from 'styled-components'
 import { renderAttributes } from './lessonContent'
-// import OrgChart1 from 'awesome-react-org-chart'
+import AROC from './aroc'
 
 const StyledNode = styled.div`
   overflow: hidden;
@@ -14,35 +14,16 @@ const StyledNode = styled.div`
 const StyledTreeExample = ({ value }) => {
   return value && Array.isArray(value) && value.length > 0
     ? value.map((item, index) => (
-        <div className='w-6' key={index}>
-          {/* <OrgChart item={item.data} />
-          <OrgChart item={item.data} /> */}
-          {/* <OrgChart1
-            // required
-            //   root={nodes[0]}
-            //   isValidNode={this.isValidNode}
-            //   keyGetter={this.keyGetter}
-            //   renderNode={this.renderNode}
-            //   childNodesGetter={this.childNodesGetter}
-            //   // optional (but recommended)
-            //   lineHorizontalStyle={this.lineHorizontalStyle}
-            //   lineVerticalStyle={this.lineVerticalStyle}
-            //   // optional
-            //   measureStrategy='effect'
-            //   connectorThickness={2}
-            //   connectorAlignment={ConnectorAlignment.Center}
-            //   isAssistantGetter={this.isAssistantGetter} // wip
-            //   layout={layout}
-            //   containerStyle={this.containerStyle}
-            //   renderNodeContainer={this.renderNodeContainer}
-            //   renderNodeLine={this.renderNodeLine}
-            //   debug={debug}
-            tree={item.data}
-          /> */}
+        <div className='' key={index}>
+          {item.type ? (
+            <AROC data={item.data} layout_type={item.type} />
+          ) : (
+            <OrgChart item={item.data} />
+          )}
 
           <div className=''>
-            <span>Fig. </span>
-            {item.caption ? item.caption : null}
+            
+            {item.caption ? <span>Fig. {item.caption}</span>  : null}
           </div>
         </div>
       ))
