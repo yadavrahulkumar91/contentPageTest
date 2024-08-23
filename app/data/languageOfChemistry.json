@@ -1,0 +1,39 @@
+{
+  "": {
+    "__p": "For chemistry, the whole universe consists only two things and  they are:",
+    "Matter": "Anything that has mass and occupies space.",
+    "__gap": "100px",
+    "Energy": "",
+    "__gap1": "100px"
+  },
+  "Terminologies": {
+    "__p":"To understand matter, we have to be familiar to some terms such as,",
+    "Atom": {
+      "": "The structural and functional unit of any substance; it is the smallest unit of a substance.",
+      "Structure of Atom": {
+        "__right": {
+          "data": {
+            "Proton": {
+              "Charge": "1.6 &times; 10<sup>-19</sup> C",
+              "Mass": "1.6 &times; 10<sup>-27</sup> kg"
+            },
+            "Neutron": {
+              "Charge": "0 C",
+              "Mass": "1.6 &times; 10<sup>-27</sup> kg"
+            },
+            "Electron": {
+              "Charge": "-1.6 &times; 10<sup>-19</sup> C",
+              "Mass": "9.1 &times; 10<sup>-31</sup> kg"
+            }
+          }
+        }
+      }
+    },
+    "Element": {
+      "": "A substance consisting of atoms which all have the same number of protons."
+    },
+    "Molecule":{
+
+    }
+  }
+}

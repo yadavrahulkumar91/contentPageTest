@@ -8,28 +8,33 @@ import Html from './html'
 import Note from './note'
 import Bullet from './bullet'
 import OrgChart from './OrgChart'
+import MCQ from '../mcq'
+import QA from '../qa'
+import AROC from './aroc'
+
+// let qaId = 0
+// let mcqId = 0
 
 const LessonContent = ({ lessonContent }) => {
   // useEffect(() => {
   //   if (typeof window !== 'undefined') {
-      window.MathJax = {
-        tex: {
-          inlineMath: [
-            ['$', '$'],
-            ['\\(', '\\)']
-          ]
-        },
-        svg: {
-          fontCache: 'global'
-        }
-      }
-
-      ;(function () {
-        var script = document.createElement('script')
-        script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js'
-        script.async = true
-        document.head.appendChild(script)
-      })()
+  window.MathJax = {
+    tex: {
+      inlineMath: [
+        ['$', '$'],
+        ['\\(', '\\)']
+      ]
+    },
+    svg: {
+      fontCache: 'global'
+    }
+  }
+  ;(function () {
+    var script = document.createElement('script')
+    script.src = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js'
+    script.async = true
+    document.head.appendChild(script)
+  })()
   //   }
   // }, [])
 
@@ -94,9 +99,23 @@ function renderObject (key, value, level) {
   } else if (/^__p\d*$/.test(key)) {
     return <p className='text-xl ml-6'>{value}</p>
   } else if (/^__bullet\d*$/.test(key)) {
-    return <Bullet value={value}/>
+    return <Bullet value={value} />
   } else if (/^__org\d*$/.test(key)) {
-    return <OrgChart value={value}/>
+    return <OrgChart value={value} />
+  // } else if (/^__org\d*$/.test(key)) {
+  //   return <AROC value={value} />
+  } else if (/^__mcq\d*$/.test(key)) {
+    return <MCQ MCQ={value} />
+  } else if (/^__qa\d*$/.test(key)) {
+    return <QA Question_answer={value} />
+  } else if (/^__gap\d*$/.test(key)) {
+    return <div style={{ height: value }} />
+  } else if (/^__right\d*$/.test(key)) {
+    return (
+      // <div className='h-8'>
+        <div className='relative left-[800px] w-[300px]'>{elseFunction('', value.data, level)}</div>
+      // </div>
+    )
   } else {
     return elseFunction(key, value, level)
   }
