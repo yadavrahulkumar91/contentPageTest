@@ -1,0 +1,43 @@
+{
+  "Introduction":[
+    "Pituitary gland is small endocrine gland.",
+    "It secretes regulatory hormones which regulates functions of other endocrine glands. So, it is also called as <b>Master of Endocrine Orchestra</b>."
+  ],
+  "Location":"Hypophyseal fossa/ Sella turcica of the sphenoid bone",
+  "Development":{
+    "mermaid":[{
+      "type":"flowchart",
+      "data":[
+        "graph TD",
+        "A[Outpouching of Stomodeum]-->B([Rathke's pouch])",
+        "X[Downward extension of Diencephalon]-->Y([Infundibulum])",
+        "B-->C([Anterior wall])",
+        "B-->D([Remnant of its lumen])",
+        "B-->E([Posterior wall])",
+        "C-->F[Adenohypophysis]",
+        "D-->G([Small extension])",
+        "G-->H[Pars tuberalis]",
+        "E-->I[Pars intermedia]",
+        "Y-->Z[Pars nervosa]"
+      ]
+    }],
+    "image":[{
+      "url":"https://www.researchgate.net/publication/273833506/figure/fig13/AS:267977153052688@1440902140374/Normal-development-of-the-pituitary-gland.png",
+     "width":"600",
+      "style":{
+        
+      }
+    }],
+    "":[
+      "The hypophysis, or pituitary gland, develops from two completely different parts.",
+      "An ectodermal outpocketing of the stomodeum immediately in front of the buccopharyngeal membrane known as <b>Rathke's pouch</b>.",
+      "A downward extension of the diencephalon, the infundibulum. When the embryo is approximately 3 weeks old, Rathke's pouch appears as an evagination of the oral cavity and subsequently grows dorsally toward the infundibulum.",
+      "By the end of the second month, it loses its connection with the oral cavity and is then in close contact with the infundibulum.",
+      "During further development, cells in the anterior wall of Rathke's pouch increase rapidly in number and form the anterior lobe of the hypophysis, or adenohypophysis.",
+      "A small extension of this lobe, the <b>Pars tuberalis</b>, grows along the stalk of the infundibulum and eventually surrounds it.",
+      "The posterior wall of Rathke's pouch develops into the <b>pars intermedia</b>, which in humans seems to have little significance.",
+      "The infundibulum gives rise to the <b>stalk</b>, or <b>posterior lobe of the hypophysis</b> (neurohypophysis)."
+    ]
+  }
+  
+}

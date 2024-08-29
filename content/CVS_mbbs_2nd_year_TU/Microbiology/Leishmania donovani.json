@@ -1,0 +1,114 @@
+{
+  "Leishmania donovani": {
+    "__image": [
+      {
+        "url": "https://c8.alamy.com/comp/2PNWCDM/leishmania-diagram-2PNWCDM.jpg",
+        "caption": "<i>Leishmania donovani</i>",
+        "width":"600"
+      }
+    ],
+    "Location in Human body": [
+      "Reticulo-endothelial system of Viscera i.e.,",
+      "Liver",
+      "Spleen",
+      "Bone marrow",
+      "Blood",
+      "Lymph",
+      "Lymph nodes",
+      "Pathogenic endoparasite and may be found in:",
+      "Cerebrospinal fluid (CSF)",
+      "Meninges",
+      "Renal capsule"
+    ],
+    "Diseases": [
+      "Visceral Leishmaniasis",
+      "Kala-azar",
+      "Black fever",
+      "Death fever",
+      "Dum-dum fever"
+    ],
+    "Vector": "Its vector is Sand-fly (<i>Phlebotomus argentipus</i>).",
+    "Life cycle": {
+      "__image": [
+        {
+          "url": "https://www.cdc.gov/dpdx/leishmaniasis/modules/Leishmania_LifeCycle.gif?_=00703",
+          "caption": "Life cycle of <i>Leishmania donovani</i>",
+          "width":"600"
+        }
+      ],
+      "General Information": "Leishmania donovani is Uniflagellate and has two forms, i.e., dimorphic.",
+      "__table": [
+        {
+          "data": [
+            [
+              "Promastigote form/Leptomonad form",
+              "Amastigote form/Leishmanial form"
+            ],
+            [
+              "i. Cylindrical and",
+              "i. Oval or Round and"
+            ],
+            [
+              "ii. Flagellate (Uniflagellate)",
+              "ii. Non-flagellate"
+            ],
+            [
+              "Contains Axonema and Kinetoplast.",
+              "Axonema and Kinetoplast are absent."
+            ],
+            [
+              "Promastigote form is Infective stage as it enters the human body.",
+              "Amastigote form is Feeding stage."
+            ],
+            [
+              "Promastigote form is found in Salivary glands and Guts of Sandfly.",
+              "Amastigote form is found in Reticulo-endothelial system of man."
+            ],
+            [
+              "Promastigote changes into amastigote form in man.",
+              "Amastigote changes into promastigote form in Sandfly (<i>Phlebotomus argentipus</i>)."
+            ]
+          ]
+        }
+      ],
+      "Additional Information": [
+        "Leishmania donovani is Digenetic.",
+        "Primary/ Definitive host: Man",
+        "Secondary/ Intermediate host: Sand fly (<i>Phlebotomus argentipus</i>)",
+        "Infected sand fly bites a normal man and inoculates promastigote stage into the bloodstream.",
+        "From the bloodstream, the promastigote form enters the viscera, loses flagella, becomes round, and changes into the amastigote form.",
+        "Amastigote stage can multiply until the cell is packed with the parasite.",
+        "Amastigote attacks macrophages and disseminates to the Reticulo-endothelial system (blood, lymph, lymph nodes, bone marrow, liver, spleen)."
+      ]
+    },
+    "Lab diagnosis": [
+      "K39 test",
+      "Leishmania donovani body test (L.D. body test)"
+    ],
+    "Post Kala-azar Dermal Leishmaniasis (PKDL)": "Sometimes Leishmania donovani also causes Post Kala-azar Dermal Leishmaniasis (PKDL).",
+    "Treatment": [
+      "Antimony compound",
+      "Recent drugs: Multifossine"
+    ]
+  },
+  "Leishmania tropica": {
+    "Location": [
+      "Skin (face and neck)"
+    ],
+    "Disease causes": [
+      "Dermal Leishmaniasis/Cutaneous Leishmaniasis",
+      "Skin ulcers",
+      "Oriental sore",
+      "Delhi boils",
+      "Baghdad boils"
+    ]
+  },
+  "Leishmania braziliensis": {
+    "Location": "Naso-oral cavity",
+    "Disease causes": [
+      "Naso-oral Leishmaniasis",
+      "Muco-cutaneous Leishmaniasis",
+      "Espundia"
+    ]
+  }
+}

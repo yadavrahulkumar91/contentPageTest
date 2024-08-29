@@ -1,0 +1,174 @@
+{
+    "definition":"Meningitis is the inflammatory process of<b> leptomeninges </b>and <b> CSF within subarachnoid space</b>.",
+    "image": [
+        {
+            "data": {
+                "attributes": {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Neck_stiffness.jpg/1920px-Neck_stiffness.jpg",
+                    "caption": "Neck stiffness"
+                }
+            }
+        }
+    ],
+    "routes_of_spread_of_infection":[
+        "Hematogenous route (Most common)",
+        "Direct implantation",
+        {"example":"Traumatic"},
+        "Local extension form infected adjacent structures like",
+        [
+            "Sinuses",
+            "Teeth",
+            "Skull",
+            "Vertebrae"
+        ],
+        "Via peripheral nervous system as with Rabies and Herpes Zoster Virus"
+    ],
+    "types":{
+        "acute_pyogenic_meningitis":{
+            "causative_agents":{
+                "neonates":[
+                    "<i>E. coli</i> and",
+                    "Group B <i>Streptococcus</i>"
+                ],
+                "adolescents_and_young_adults":"<i>Neisseria meningitidis</i>",
+                "elderly":"<i>Streptococcus pneumonia</i>"
+            },
+            "morphology":{
+                "gross":{
+                    "CSF":"Cloudy or Frankly purulent",
+                    "exudate":"Present within <b>Leptomeninges</b> and ,b>Over the brain</b>",
+                    "vessel":"Meningeal vessels are engorged",
+                    "leptomeningeal_fibrosis":"",
+                    "hydrocephalus":"",
+                    "chronic_adhesive_arachnoiditis":"Produced in case of Pneumococcal meningitis"
+                },
+                "microscopic":{
+                    "neutrophils":{
+                        "sub_acute_case":"Leptomeningeal vessels",
+                        "acute_case":"Subarachnoid space"
+                    },
+                    "ventriculitis":"In fulminant cases, infection may extend to ventricles producing ventriculitis.",
+                    "phlebitis":[
+                        "Venous thrombosis",
+                        "Hemorrhagic infarction of underlying brain."
+                    ]
+                },
+                "CSF_findings": {
+                    "CSF_glucose": "Markedly reduced",
+                    "CSF_protein": "Markedly raised",
+                    "CSF_pressure": "About 180 mm of water (Elevated)",
+                    "lymphocyte_count": "100-10000/μl",
+                    "image":[
+                        {
+                            "data":{
+                                "attributes":{
+                                    "url":"https://upload.wikimedia.org/wikipedia/commons/1/1d/MenigitisCSF2019.jpg",
+                                    "caption":"Cloudy CSF from a person with meningitis due to Streptococcus"
+                                }
+                            }
+                        }
+                    ]
+
+                }
+
+            },
+            "signs_and_symptoms":[
+                "Meningeal irritability",
+                "Morning heachache",
+                "Photophobia",
+                "Neck stiffness",
+                "Clouding of consciousness"
+            ],
+            "complications":[
+                "Chronic adhesive arachnoiditis",
+                "Leptomeningeal fibrosis and hydrocephalus",
+                "Phlebitis and hemorrhagic infarction of brain",
+                "Ventriculitis",
+                "Focal cerebritis and Cerebral abscess"
+            ]
+        },
+        "viral_meningitis":{
+            "other_name":"Aseptic meningitis",
+            "causative_agents": [
+                "Enterovirus (Most common)",
+                "Echovirus",
+                "Mumps virus",
+                "Coxsackie virus",
+                "Epstein-Barr virus",
+                "HSV-II"
+            ],
+            "morphology": {
+                "gross": {
+                    "some_cases":"Swelling of brain"
+                },
+                "microscopic": "Lymphocytic infiltration of leptomeninges"
+            },
+            "signs_and_symptoms": [
+                "Same as bacterial meningitis.",
+                "Onset is acute and usually has benign self-limiting course."
+            ],
+            "CSF_findings": {
+                "CSF_glucose":"Normal",
+                "CSF_protein":"Normal or mildly raised",
+                "CSF_pressure":"Above 250 mm of water",
+                "lymphocyte_count":"10-100/μl",
+                "bacterioloogically":"Sterile"
+            }
+        },
+        "tuberculous_meningitis":{
+            "causative_agents": {},
+            "morphology": {
+                "gross": {
+                    "sub_arachonid_space":"Thick exudate particullarly abundant in sulci and base of brain.",
+                    "tubercle":"1-2 mm diameter may be visible adjacent to blood vessel."
+                },
+                "microscopic": {
+                    "inflammatory_cells":"Acute or chronic inflammatory cells are found.",
+                    "image": [
+                        {
+                            "data": {
+                                "attributes": {
+                                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Meningitis_Histopathology.jpg/1920px-Meningitis_Histopathology.jpg",
+                                    "caption": "Histopathology of bacterial meningitis: autopsy case of a person with pneumococcal meningitis showing inflammatory infiltrates of the pia mater consisting of neutrophil granulocytes"
+                                }
+                            }
+                        }
+                    ],
+                    "granuloma":"May or may not contain <b>Giant cell<b> and <b>Caseous necrosis<b>",
+                    "acid_fast_bacilli":"Present"
+                }
+            },
+            "signs_and_symptoms": [
+                "Headache",
+                "Confusion",
+                "Vomiting",
+                "Malaise"
+            ],
+            "CSF_findings": {
+                "CSF_glucose": "Decreased",
+                "CSF_protein": "Increased",
+                "CSF_pressure": "Above 300 mm of water",
+                "lymphocyte_count": "10-100/μl",
+                "bacterioloogically": "Acid fast bacilli"
+            },
+            "tuberculoma":{
+                "definition":"Tuberculoma is a form of manifestation of tuberculous meningitis/brain TB.",
+                "gross":{
+                    "intraparenchymal_mass":[
+                        "Well-circumscribed",
+                        "Single of multiple",
+                        "Several cm in daimeter --> <b>Mass effect</b>"
+                    ]
+                },
+                "microscopic":{
+                    "caseous_necrosis":{
+                        "location":"Central-core",
+                        "surrounded_by":"Typical tuberculous granulomatous reaction"
+
+                    },
+                    "inactive_lession":"Show calcification"
+                }
+            }
+        }
+    }
+}

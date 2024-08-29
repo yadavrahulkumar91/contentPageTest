@@ -1,0 +1,71 @@
+{
+  "Common name": "\"Grand old man of Intestine\"",
+  "Species": "<i>Giardia lamblia</i>",
+  "Pathogenicity": "Pathogenic endoparasite",
+  "Location": {
+    "Small intestine": [
+      "Duodenum (very common)",
+      "Jejunum (sometimes)",
+      "Ileum (rare)"
+    ]
+  },
+  "Symmetry": {
+    "Body": "Bilaterally symmetrical"
+  },
+  "Cellular structure": {
+     "__image": [
+      {
+        "url": "https://www.researchgate.net/publication/369613822/figure/fig2/AS:11431281131361550@1680108164376/Morphology-of-Giardia-Trophozoite.png",
+        "caption":"<i>Giardia lamblia</i>",
+      "width":"300"
+      }],
+    "Flagella": {
+      "Number": "8 flagella (4 on each side)",
+      "Origin": "Flagella arises from rod-like axostyle"
+    },
+    "Structure": {
+      "__table": [
+        {
+          "data": [
+            [
+              "Form",
+              "Description"
+            ],
+            [
+              "Trophozoite form",
+              [
+                "Body resembles Tennis/badminton racket.",
+                "Binucleated.",
+                "Feeding stage.",
+                "Trophozoites attach to intestinal mucosa and cause poor absorption."
+              ]
+            ],
+            [
+              "Cystic form",
+              [
+                "Oval shaped body.",
+                "Quadrinucleated.",
+                "Infective stage.",
+                "Each Cyst hatches out two trophozoites."
+              ]
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "Life cycle": {
+      "__image": [
+      {
+        "url": "https://www.cdc.gov/dpdx/giardiasis/modules/Giardia_LifeCycle.gif?_=04313",
+        "caption":"Life cycle of <i>Giardia lamblia</i>",
+      "width":"300"
+      }],
+    "Type": "Monogenetic",
+    "Host": "Life cycle is completed in a single host (Man)",
+    "Reproduction": "Trophozoite forms and Cysts are passed through stool. In the Trophozoite stage, the parasite multiplies in the intestine of man by binary fission."
+  },
+  "Nutrition": {
+    "Reserve food material": "Parabasal body"
+  }
+}

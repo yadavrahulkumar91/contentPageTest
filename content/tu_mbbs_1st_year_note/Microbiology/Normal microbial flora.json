@@ -1,0 +1,280 @@
+{
+    "normal_flora_habitats": {
+        "skin": {
+            "organisms": {
+                "propionibacterium_acnes_sn": [
+                    "Common inhabitants of the skin especially face which causes acne.",
+                    {
+                        "image": [
+                            {
+                                "data": {
+                                    "attributes": {
+                                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Propionibacterium_acnes.jpg/1920px-Propionibacterium_acnes.jpg",
+                                        "width": 200,
+                                        "caption": "<i>Propionibacterium acne</i>"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "staphylococcus_epidermidis_sn": [
+                    "Commonest bacterial colonizer which causes infection via insertion of IV catheters.",
+                    {
+                        "image": [
+                            {
+                                "data": {
+                                    "attributes": {
+                                        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Staphylococcus_epidermidis_01.png",
+                                        "width": 200,
+                                        "caption": "<i>Staphylococcus epidermidis</i>"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "common_sites": [
+                "Axilla",
+                "Groin",
+                "Web spaces"
+            ]
+        },
+        "urogenital_tract": {
+            "vagina": {
+                "lactobacillus_sn": {
+                    "image": [
+                        {
+                            "data": {
+                                "attributes": {
+                                    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Lactobacillus_sp_01.png",
+                                    "width": 200,
+                                    "caption": "<i>Lactobacillus</i>"
+                                }
+                            }
+                        }
+                    ],
+                    "protection_against": [
+                        "<i>Staphylococcus epidermidis</i>",
+                        "<i>Neisseria specis</i>",
+                        "<i>Streptococcus agalactiae</i>"
+                    ]
+                }
+            },
+            "anterior_urethra": {
+                "proteus": [
+                    {
+                        "image": [
+                            {
+                                "data": {
+                                    "attributes": {
+                                        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/ElectronMicrographProteusPenneri.png",
+                                        "width": 200,
+                                        "caption": "<i>Proteus penneri</i>"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "e._coli_sn": "",
+                "streptococcus_viridans_sn": "",
+                "staphylococcus_epidermidis_sn": ""
+            }
+        },
+        "gastrointestinal_tract": {
+            "stomach": {
+                "helicobacter_pylori_sn": [
+                    "Stomach has high acidic pH, however <i>Helicobacter pylori</i> survive there.",
+                    {
+                        "image": [
+                            {
+                                "data": {
+                                    "attributes": {
+                                        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/EMpylori.jpg",
+                                        "width": 200,
+                                        "caption": "<i>Helicobacter pylori</i>"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "large_intestine": {
+                "bacteroids_sn": [],
+                "bifidobacterium_sn": [
+                    "It is known as <b>Probiotics</b>.",
+                    {
+                        "image": [
+                            {
+                                "data": {
+                                    "attributes": {
+                                        "url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Bifidobacterium_adolescentis_Gram.jpg",
+                                        "width": 200,
+                                        "caption": "<i>Bifidobacterium</i>"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "clostridium_difficle": [
+                    "It is known as <b>Super bug</b>.",
+                    "It is cause of severe diarrhea-associated colitis called <br>Pseudomembranous colitis</br>",
+                    {
+                        "image": [
+                            {
+                                "data": {
+                                    "attributes": {
+                                        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Clostridium_difficile_01.jpg",
+                                        "width": 200,
+                                        "caption": "<i>Clostridium difficle</i>"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "small_intestine": {
+                "e._coli_sn": [
+                    {
+                        "image": [
+                            {
+                                "data": {
+                                    "attributes": {
+                                        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/E_coli_at_10000x%2C_original.jpg",
+                                        "width": 200,
+                                        "caption": "<i>E. coli</i>"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "bacteroids_sn": [
+                    {
+                        "image": [
+                            {
+                                "data": {
+                                    "attributes": {
+                                        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Bacteroides_biacutis_01.jpg",
+                                        "width": 200,
+                                        "caption": "<i>Bacteriods</i>"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ],
+                "enterococcus_faecalis_sn": [
+                    {
+                        "image": [
+                            {
+                                "data": {
+                                    "attributes": {
+                                        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Enterococcus_faecalis20023-300.jpg",
+                                        "width": 200,
+                                        "caption": "<i>Enterococcus faecalis</i>"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "oral_cavity_and_upper_respiratory_tract": {
+            "nose": {
+                "staphylococcus_aureus_sn": [
+                    "Mainly found in hospital staff",
+                    "Major cause of surgical wounds.",
+                    {
+                        "image": [
+                            {
+                                "data": {
+                                    "attributes": {
+                                        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Staphylococcus_aureus_VISA_2.jpg",
+                                        "width": 200,
+                                        "caption": "<i>Staphylococcus aureus</i>"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "pharynx": {
+                "neisseria_sn": [
+                    "<i>Neisseria</i> species colonize the pharynx.",
+                    {
+                        "image": [
+                            {
+                                "data": {
+                                    "attributes": {
+                                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Neisseria_gonorrhoeae_with_pus_cells.jpg/1024px-Neisseria_gonorrhoeae_with_pus_cells.jpg",
+                                        "width": 200,
+                                        "caption": "<i>Neisseria gonorrhoea</i>"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "teeth_cavities": {
+                "streptococcus_mutans_sn": [
+                    "Found on the surface of teeth cavities.",
+                    {
+                        "image": [
+                            {
+                                "data": {
+                                    "attributes": {
+                                        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Streptococcus_mutans_01.jpg",
+                                        "width": 200,
+                                        "caption": "<i>Streptococcus mutans</i>"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "mouth_and_throat": {
+                "streptococcus_pneumoniae_sn": [
+                    "It is the major cause of bacterial pneumonia.",
+                    {
+                        "image": [
+                            {
+                                "data": {
+                                    "attributes": {
+                                        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Pneumococcus_CDC_PHIL_ID1003.jpg",
+                                        "width": 200,
+                                        "caption": "<i>Streptococcus pneumoniae</i>"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "advantages_and_disadvantages_of_normal_flora": {
+        "html": [
+            {
+                "data": [
+                    "<table>",
+                    "<thead><td>Advantages</td><td>Disadvantages</td></thead>",
+                    "<tr><td>Prevents colonization by pathogens.</td><td>Can act as opportunistic pathogens.</td></tr>",
+                    "<tr><td>Secretes vitamin K and B12.</td><td>Gain access to <b>Axenic tissues<b> (non-contaminated)</td></tr>",
+                    "<tr><td>Stimulate antibody-mediated immune response</td><td>Can share nutrients and drug resistance with pathogens</td></tr>",
+                    "<tr><td>Inhibit and kill pathogens by production of enzymes (eg. perodixes, bacteriocins)</td><td>May be a source of infections to other individuals</td></tr>",
+                    "</table>"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "individual_methods": [
+        "Counseling",
+        "Interview",
+        "Home visits",
+        "Personal letters"
+    ],
+    "group_methods": [
+        "Group discussion",
+        "Panel discussion",
+        "Demonstration",
+        "Mini-lecture",
+        "Problem solving",
+        "Brain-storming",
+        "Role play",
+        "Field trip/ Educational tour",
+        "Symposium",
+        "Workshop/ Seminar",
+        "Program instruction",
+        "Stimulation exercises",
+        "Buzz session",
+        "Child to child approach",
+        "Fish bowl session"
+    ],
+    "mass_method": [
+        "Lecture",
+        "Exhibition",
+        "Drama/ Museum",
+        "Film/ Documentary/ TV shows",
+        "Miking/ Rally/ Julu/ Radios",
+        "Visual aids/ Printing materials"
+    ],
+    "traditional_methods": [
+        "Newspaper",
+        "Magazines",
+        "Journals",
+        "Books/ Posters",
+        "Pamphlets",
+        {
+            "songs": [
+                "Folk songs",
+                "Folk dances",
+                "Puppet show"
+            ]
+        }
+    ]
+}

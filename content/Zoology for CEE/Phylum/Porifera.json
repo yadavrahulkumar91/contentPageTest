@@ -1,0 +1,361 @@
+{
+  "Introduction": {
+    "Phylum": "Porifera",
+    "Members": "Poriferans",
+    "Common name": "Sponges",
+    "Also called as": "Republic of Cells",
+    "Group": "Parazoa",
+    "Details": [
+      "Metazoa without tissue organization are called Parazoa.",
+      "In Parazoa, ectoderm develops from vegetal pore while endoderm develops from animal pore (reverse of Metazoa)."
+    ],
+    "Study of sponges": "Parazoology",
+    "Evolution": "Sponges form the sideline of evolution."
+  },
+  "History": {
+    "Robert E. Grant": "Term 'Porifera' was given by Robert E. Grant.",
+    "John Ellis": [
+      "Animal nature of Sponge was discovered by John Ellis.",
+      "Sponges appear to be quite lifeless and plant-like."
+    ],
+    "H.W. Wilson": "Regeneration in Sponge was discovered by H.W. Wilson."
+  },
+  "Comparison": {
+    "John Ray": "John Ray gave the term 'Species.'",
+    "John Hill": "John Hill gave the term 'Paramecium.'",
+    "Johnston": [
+      "Johnston gave the term 'Mollusca' (Mollusca means soft body).",
+      "Johnston's organ is Proprioreceptor (Receptor of Sound 🔊 vibration and CO2) in mosquito."
+    ],
+    "Jacobson's organ": [
+      "Also called Vomeronasal organ (VNO), an organ of chemoreceptor that is part of the olfactory system of amphibians, reptiles, and mammals.",
+      "Function: Smell"
+    ]
+  },
+  "Classification": {
+    "Basis": "Classification of Sponges is based on Skeleton/ Spicules.",
+    "__table": [
+      {
+        "data": [
+          [
+            "Type",
+            "Calcarea/ Limy Sponge",
+            "Hexactenellida",
+            "Demospongia"
+          ],
+          [
+            "Spicules",
+            "Calcareous spicules (Triaxon or Tetraxon or None)",
+            "Silicious spicules (Triaxon with 6 rays or Both)",
+            "Siliceous spicules (Calcareous spicules)"
+          ],
+          [
+            "Habitat",
+            "All marine, never found in cold water",
+            "All marine",
+            "Most marine, Few freshwater"
+          ],
+          [
+            "Habit",
+            "Sessile, sedentary, and fixed",
+            "Sessile, sedentary, and fixed",
+            "Sessile, sedentary, and fixed"
+          ],
+          [
+            "Canal System/ Aquiferous System",
+            "Ascon or Sycon or Leucon",
+            "Leucon",
+            "Leucon"
+          ],
+          [
+            "Examples",
+            [
+              "Sycon/ Scypha (Urn sponge or Crown sponge)",
+              "Leucosolenia (Smallest sponge)",
+              "Grantia",
+              "Clathrina"
+            ],
+            [
+              "Euplectella (Venus flower basket)",
+              "Hyalonema (Glassrope sponge)",
+              "Cliona (Boring sponge/ Sulphur sponge)",
+              "Pheronema (Bowl sponge)"
+            ],
+            [
+              "Spongilla (Fresh water sponge)",
+              "Euspongia (Bath 🛀 sponge)",
+              "Chalina (Mermaid's gloves)",
+              "Hippspongia (Horse 🐎 sponge)"
+            ]
+          ]
+        ]
+      }
+    ],
+    "Non-Sponge": [
+      "Spongicola – Spongicola is Shrimps of Arthopoda. It has got the name Spongicola as it lives in Euplectela sponge as Commensalism(+, 0)."
+    ]
+  },
+  "Body Pores": {
+    "__table": [
+      {
+        "data": [
+          [
+            "S.N.",
+            "Ostia",
+            "Osculum"
+          ],
+          [
+            "i.",
+            "Ostia act as mouth of Sponge.",
+            "Osculum acts as Anus of Sponge."
+          ],
+          [
+            "ii.",
+            "Ostia are many in number.",
+            "Osculum is single in number."
+          ],
+          [
+            "iii.",
+            "Ostia are without oscular fringes.",
+            "Osculum is provided with Oscular fringes/ Valvular fringe."
+          ],
+          [
+            "iv.",
+            "Ostia is Non-valvular.",
+            "Osculum is Valvular."
+          ],
+          [
+            "v.",
+            "Ostia is also called Incurrent pore.",
+            "Osculum is also called Excurrent pore."
+          ],
+          [
+            "vi.",
+            "Opening and Closing controlled by Myocytes.",
+            "Osculum opening is mainly controlled by Myocytes."
+          ]
+        ]
+      }
+    ]
+  },
+  "Body Walls and Cells": {
+    "Diploblastic Animals": {
+      "Outer layer/ Pinacoderm/ Dermal epithelium": [
+        "Pinacocyte: Binucleated/ Coenocytic/ Multinucleated",
+        "Porocyte"
+      ],
+      "Mesenchyme or Mesohyl": [
+        "Jelly-like substance found between the two layers called Mesenchyme or Mesohyl.",
+        "Consists of Skeletal elements (Spicules), Collagen fibres, and Free Amoebocytes/ Wandering cells."
+      ],
+      "Amoebocyte Cells": {
+        "__table": [
+          {
+            "data": [
+              [
+                "S.N.",
+                "Amoebocyte cells",
+                "Features"
+              ],
+              [
+                "1)",
+                "Archaeocytes",
+                "a. Largest amoebocytes. b. Can be converted into any other types of Amoebocyte (Totipotent cell). c. Helps in regeneration called Morphollaxis. d. Reproductive cells are also produced from Archaeocytes. e. Helps in formation of internal bud called gemmule for asexual reproduction."
+              ],
+              [
+                "2)",
+                "Thesocytes",
+                "a. Stores food in the form of Glycogen granules."
+              ],
+              [
+                "3)",
+                "Trophocytes",
+                "a. Provide food to developing cells (Nurse cells or Nutritive cells)."
+              ],
+              [
+                "4)",
+                "Scleroblast",
+                "a. Multinucleated. b. Calcoblast = CaCO3 (Secretes the Spicules). c. Silicoblast = Silica. d. Spongioblasts = Spongin fibres."
+              ],
+              [
+                "5)",
+                "Collencyte/ Connecting cells",
+                "a. Secretes Collagen fibres."
+              ],
+              [
+                "6)",
+                "Myocytes/ Contractile cells",
+                "a. Present at ostia and osculum (but mainly at osculum). b. Helps in closing and opening of Osculum."
+              ],
+              [
+                "7)",
+                "Chromocytes/ Pigment cells",
+                "a. Gives color as well as excretory in nature."
+              ],
+              [
+                "8)",
+                "Phagocytes",
+                "a. Phagocytic in nature (engulf foreign particles)."
+              ],
+              [
+                "9)",
+                "Germ cells",
+                "a. Reproduction."
+              ],
+              [
+                "10)",
+                "Gland cells",
+                "a. Serve for attachment by secreting slimy substance (mucus)."
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    "Inner layer/ Choanoderm/ Gastral epithelium": [
+      "Choanocyte/ Collar cells/ Flagellated cells",
+      "Choanocytes or Collar cells are only present in Sponges.",
+      "Water current through the body of sponge is maintained by Choanocytes.",
+      "Choanocytes help in Nutrition by ingesting food through the incoming water (holozoically).",
+      "The cavity common to all sponges is Spongocoel or Paragastric cavity lined with flagellated choanocytes."
+    ]
+  },
+  "Water Canal System/ Aquiferous System": {
+    "Description": [
+      "Sponges have a canal system also known as Water Canal System or Aquiferous system.",
+      "Canal system is a characteristic feature of Sponges.",
+      "Sponges need a continuous current of water flowing through their bodies for Nutrition, Respiration, Excretion, and Reproduction."
+    ],
+    "Types": {
+      "__table": [
+        {
+          "data": [
+            [
+              "Type",
+              "Flow of Water",
+              "Examples"
+            ],
+            [
+              "1. Ascon type",
+              "Water ⟶ Ostia ⟶ Spongocoel ⟶ Osculum ⟶ Out",
+              "Leucosolenia"
+            ],
+            [
+              "2. Sycon type",
+              "1. Incurrent canal is lined by Pinacocytes. 2. Prosopyle is lined by Porocyte. 3. Radial canals are lined by Choanocytes.",
+              "Sycon"
+            ],
+            [
+              "3. Leucon type",
+              "1. Incurrent canal is lined by Pinacocytes. 2. Prosopyle is lined by Porocyte. 3. Radial canals are lined by Choanocytes.",
+              "Spongilla"
+            ],
+            [
+              "4. Rhagon type",
+              "Rhagon is Leucon type of Canal system found in some larval stages and will be transformed to Leucon type during adulthood.",
+              "N/A"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "Regeneration Capacity": {
+    "General": "All Porifera without exception show high power of Regeneration.",
+    "Reasons": "Due to archaeocytes which are highly totipotent cells.",
+    "Types": {
+      "Epimorphosis": [
+        "Regeneration of lost part.",
+        "Example: Sponges, Starfish"
+      ],
+      "Morpholaxis": [
+        "Each cut piece grows into a new organism.",
+        "Example: Porifera, Coelenterata"
+      ]
+    },
+    "Amphibian Limbs": [
+      "Epimorphosis",
+      "Morpholaxis",
+      "None"
+    ]
+  },
+  "Nutrition": {
+    "General": "All sponges are filter feeders.",
+    "Examples": [
+      "Ciliates",
+      "Sponges",
+      "Mollusca ⟶ Bivalvia e.g., Unio",
+      "Hemichordata",
+      "Protochordata"
+    ],
+    "Digestion": "Intracellular and holozoic. Takes place partially in choanocytes and partially in wandering amoebocytes. Digestion of food takes place in Food vacuoles.",
+    "Respiration": "Performed by both Choanoderm and Body surface, but mainly by Choanoderm.",
+    "Circulation": "Takes place by Wandering of Amoebocyte cells.",
+    "Excretion and Gas Exchange": "Primarily Ammonia; Simple diffusion occurs across the Choanoderm."
+  },
+  "Reproduction": {
+    "General": "Porifera reproduces by both Asexual and Sexual methods.",
+    "Asexual Reproduction": {
+      "Internal Bud (Gemmule)": [
+        "Formed by the aggregation of Archaeocytes.",
+        "Gemmulation is the process of forming internal bud.",
+        "Formed during unfavorable conditions.",
+        "Example: Spongilla"
+      ],
+      "External Bud": [
+        "Formed during favorable conditions.",
+        "Example: Sycon, Leucosolenia"
+      ]
+    },
+    "Sexual Reproduction": [
+      "Porifera are Bisexual/Monoecious (⚤) and Protogynous (Female gametes mature first).",
+      "Cross-fertilization is the rule.",
+      "Cleavage of zygote is Holoblastic (Complete division) and Equal.",
+      "Larva is active and floating but adult is sedentary and sessile.",
+      {
+        "Larval Stages": {
+          "__table": [
+            {
+              "data": [
+                [
+                  "Larva",
+                  "Description",
+                  "Comparable To"
+                ],
+                [
+                  "Amphiblastula",
+                  "Larva of Sycon",
+                  "N/A"
+                ],
+                [
+                  "Parenchymula",
+                  "Larva of Leucosolenia",
+                  "Planula of Obelia (Motile)"
+                ],
+                [
+                  "Stero-gastrula",
+                  "Larva of Euplectela",
+                  "N/A"
+                ],
+                [
+                  "Olynthus",
+                  "Short-lived stages formed when the colony becomes attached to a Substrate.",
+                  "Hypothetical ancestral stage of Sponge."
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "Symmetry": {
+    "General": [
+      "Asymmetrical",
+      "Radial symmetrical (except Sycon, Leucosolenia, and Larva of Sponges)",
+      "Biradial symmetrical",
+      "Bilateral symmetrical"
+    ]
+  },
+  "Grades of Organization": "Sponges have Cellular grade of Organization."
+}

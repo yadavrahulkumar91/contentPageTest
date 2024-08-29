@@ -1,0 +1,45 @@
+{
+    "image":[
+        {
+            "data":{
+                "attributes":{
+                    "url":"https://upload.wikimedia.org/wikipedia/commons/b/b4/SalmonellaNIAID.jpg"
+                }
+            }
+        }
+    ],
+    "Disease caused":{
+        "Enteric fever":[
+            "<i>Salmonella typhi</i> &rarr; Typhoid fever",
+            "<i>Salmonella</i> Paratyphi A, B & C &rarr; Paratyphoid fever"
+        ],
+        "Enterocolitis":[
+            "<i>S. typhimurium</i>",
+            "<i>S. enteritidis</i>",
+            "<i>S. </i> Thompson" ,
+            "<i>S. </i> Newport" ,
+            "<i>S. </i> Dublin" 
+        ],
+        "Septicemia":"<i>S. </i> Choleraesius",
+        "Note":"<i>Salmonella enteritidis </i> can cause <b>Osteomyelitis</b> in patients with sickle cell anaemia."
+    },
+    "Virulence factors":{
+        "Endotoxin":"",
+        "Invasin":"",
+        "Factors involved in resistance to phagocytosis":{
+            "Catalase":"Neutralizes oxygen radical.",
+            "Superoxide dismutase":"Neutralizes oxygen radical.",
+            "Other factors":"Neutralizes defensins."
+        },
+        "Factors invlolved in resistance to acidic pH":{
+            "Acid tolerance response gene (ATR gene) ":""
+        },
+        "Virulence (Vi) antigen":{
+            "Surface Ag of <i>Salmonella typhi</i>":"Has <i> antiphagocytic </i> property"
+        },
+        "Flagellin":[
+            "The core of bacterial flagella.",
+            "Activates TLRs on host cells and increase the local inflammatory response."
+        ]
+    }
+}

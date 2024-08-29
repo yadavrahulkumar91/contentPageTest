@@ -1,0 +1,242 @@
+{
+  "General Information": {
+    "": "Plasmodium is the causative agent of Malaria.",
+    "Malaria": "Malaria means 'Bad night air'. Malaria is a communicable disease.",
+    "Malarial parasite": "As Plasmodium is the causative agent of Malaria, Plasmodium is known as 'Malarial parasite'."
+  },
+  "Characteristics": {
+    "Parasite Type": [
+      "Endoparasite",
+      "Blood parasite",
+      "Intracellular parasite",
+      "Pathogenic parasite"
+    ],
+    "Digenetic": {
+      "Primary host/ Definitive host": "Female Anopheles Mosquito (FAM)",
+      "Secondary host/ Intermediate host": "Man"
+    }
+  },
+  "History": {
+    "Laveron": [
+      "Laveron discovered that 'Plasmodium is the causative agent of Malaria'.",
+      "The term 'Plasmodium' was coined by Laveron."
+    ],
+    "Ross": [
+      "Ross discovered 'Oocyst stage of Plasmodium on the gut wall of Female Anopheles Mosquito (FAM)'.",
+      "Ross won the 1st Nobel Prize for his work on Malaria."
+    ],
+    "Grassi": "Grassi discovered the life history of Plasmodium in FAM."
+  },
+  "Species of Plasmodium": {
+    "__table": [
+      {
+        "data": [
+          [
+            "S.N.",
+            "Parasite name",
+            "Disease (Types of Malaria)",
+            "Dots/ Granules",
+            "Pre-patent period",
+            "Incubation period"
+          ],
+          [
+            "a.",
+            "Plasmodium vivax",
+            [
+              "Benign Tertian Malaria",
+              "Tertian Ague"
+            ],
+            "Schuffner's dots/ Schuffner's granules",
+            "8-10 days",
+            "14 days"
+          ],
+          [
+            "b.",
+            "Plasmodium falciparum",
+            [
+              "Sub-tertian Malaria",
+              "Malignant tertian Malaria",
+              "Cerebral Malaria",
+              "Black water 💦 Fever",
+              "Estivoautumnal Malaria"
+            ],
+            "Maurer's dots",
+            "5-10 days",
+            "12 days"
+          ],
+          [
+            "c.",
+            "Plasmodium ovale",
+            [
+              "Benign Tertian Malaria",
+              "Mild Tertian Malaria"
+            ],
+            "Jame's dots/ Schuffner's dots",
+            "9 days",
+            "14 days"
+          ],
+          [
+            "d.",
+            "Plasmodium malariae",
+            [
+              "Benign Quartan Malaria",
+              "Longest incubation period"
+            ],
+            "Ziemann's dots",
+            "14-15 days",
+            "28 days"
+          ]
+        ]
+      }
+    ],
+    "__note": [
+      {
+        "data": [
+          "All Plasmodium species cause Benign Malaria except P. falciparum.",
+          "Cerebral Malaria is drug-resistant and fatal.",
+          "All Plasmodium species cause Tertian Malaria except P. malariae.",
+          "Quotodian malaria results from mixed infection",
+          "<i>Plasmodium falciparum</i> is the most fatal species.",
+          "Exo-Erythrocytic cycle is absent in <i>Plasmodium falciparum</i>",
+          "<b>Pre-patent period</b> is the duration between the initial sporozoite infection and the first appearance of the parasites in blood.",
+          "<b>Incubation period</b> is the duration between the initial sporozoite infection and the first appearance of malarial symptoms."
+        ]
+      }
+    ]
+  },
+  "Granules": {
+    "Schuffner's granules": "Numerous yellowish eosinophilic granules appear in the cytoplasm of Host corpuscle, known as Schuffner's granules. These dots are believed to be antigens produced by Parasites."
+  },
+  "Life Cycle": {
+    "Asexual Cycle / Schizogony - Human (Secondary host)": {
+      "Pre-Erythrocytic Cycle 🚴 (1st liver schizogony)": {
+        "Sporozoite(n)": {
+          "": "Sporozoites feed upon the glycogen of liver cells, and this feeding stage is called Cryptozoite.",
+          "__image": [
+          {
+            "url": "https://www.studyandscore.com/images_all/1_Study%20material/Life%20sciences/Zoology/Protozoa/Plasmodium.png",
+            "caption": "Sporozoite of <i>Plasmodium vivax</i>",
+            "width": "300"
+          }
+        ],
+        "Infection": "When an infected Female Anopheles Mosquito bites a person, thousands of Sporozoites are inoculated into the bloodstream of the person along with saliva.",
+        "Infective stage": "The Infective stage of Plasmodium is Sporozoite.",
+        "Structure of Sporozoite": [
+          "Sporozoite is Sickle-shaped.",
+          "Pellicle acts as an outer boundary to Sporozoite.",
+          "Proteolytic enzyme is produced by Paired Organelles and secreted by the Apical cap 🧢 to break down the cell membrane of liver cells."
+        ],
+        "Cycle start": "Sporozoites directly go to Parenchyma cells of the liver within half an hour for multiplication. They start their life-cycle from liver cells to get protection against WBCs and utilize the liver's rich source of Glycogen."
+        },
+        "Cryptozoite(n)": "Cryptozoite increases in size and becomes Schizont.",
+        "Schizont(n)": "The nucleus of Schizont divides and forms numerous nuclei, each surrounded by little cytoplasm, forming Cryptomerozoites.",
+        "Cryptomerozoites(n)": "Cryptomerozoites are liberated into Liver Sinusoids."
+      },
+      "Exo-Erythrocytic Cycle 🚴 (2nd liver schizogony)": {
+        "Cryptomerozoite (n)": "Each Cryptomerozoite again enters liver cells, and Second liver schizogony occurs.",
+        "Metacryptozoite (n)": "",
+        "Schizont (n)": "",
+        "Metacryptomerozoite (n)": {
+          "Types": {
+            "Micrometacryptomerozoites": [
+              "Small",
+              "Attack RBCs to start the Erythrocytic cycle."
+            ],
+            "Macrometacryptomerozoites": [
+              "Larger",
+              "Attack Liver cells."
+            ]
+          }
+        }
+      },
+      "Erythrocytic Cycle 🚴 (Golgi Cycle)": {
+        "Micrometacryptomerozoite (n)": "Micrometacryptomerozoite starts feeding and changes into Trophozoite.",
+        "Trophozoite (n)": "Trophozoite form is called the feeding stage.",
+        "__image": [
+          {
+            "url": "https://www.shutterstock.com/image-vector/ultra-detailed-structure-plasmodium-causative-260nw-1858026496.jpg",
+            "caption": "Trophozoite of <i>Plasmodium vivax</i>",
+            "width": "300"
+          }
+        ],
+        "Signet Ring Stage 💍 (n)": [
+          "During feeding, trophozoite creates a vacuole in the middle of the cytoplasm of RBC, pushing the nucleus towards the periphery. This gives the appearance of a ring with a signet, called the Signet ring stage.",
+          "The Signet ring trophozoite throws out pseudopodial processes and assumes an Amoeba-like shape, known as Amoeboid trophozoite."
+        ],
+        "Amoeboid/ Amoeboid Trophozoite.(n)": "Amoeboid trophozoite becomes large and spherical and is now called Schizont.",
+        "Schizont(n)": [
+          "Schizont contains Haemozoin and Schuffner's dots (in P. vivax).",
+          "Haemozoin causes chills and fever."
+        ],
+        "Rosette/ Rosette stage 🏵 (n)": "The Schizont stage gives rise to the Rosette stage, which gives a petal-like appearance.",
+        "Merozoites/ RBC merozoite(n)": [
+          "Schizonts give RBC merozoites, which are released along with haemozoin with the bursting of RBCs.",
+          "This causes high fever, chills, and shivering.",
+          "Ruptured RBCs and schizonts are called Ghost cells, which are destroyed by the spleen."
+        ],
+        "Gametocyte(n)": {
+          "__p": "After repeated schizogony, numerous RBC merozoites are formed, losing their power of asexual multiplication, so they undergo a sexual cycle. RBC merozoites become rounded and are known as Gametocytes.",
+          "Types": [
+            "Microgamonts (Micro-gametocytes, male)",
+            "Macrogamonts (Macro-gametocytes, female)"
+          ]
+        }
+      },
+      "Post-Erythrocytic Cycle 🚴 /Post-Erythrocytic Schizogony (Ross Cycle)": "Some of the RBC merozoites invade liver cells and continue a cycle called Post-Erythrocytic schizogony."
+    },
+    "Sexual Cycle/ Gamogony and Sporogony - Mosquito (Primary host)": {
+      "Gametocytes(n)": "When an Anopheles mosquito bites an infected person, along with all stages, gametocytes are ingested into the mosquito's gut. All stages except Gametocytes are digested in the mosquito's gut.",
+      "Gametes(n)": {
+        "__p": "Gametocytes develop into Gametes. There are two types of gametes:",
+        "Types": [
+          "Microgametes (Male 👨 gametes): Micro-gametocyte gives rise to 6-8 haploid microgametes after meiotic division. The formation of whip-like micro-gametes or sperms is known as Ex-flagellation.",
+          "Macrogametes (Female 🚺 gametes): Macro-gametocytes give rise to one haploid macrogamete after meiotic division. It has a cone receptor."
+        ],
+        "__note": "This process is called Gamogony or Gametogenesis, requiring lower temperatures available in the mosquito's gut."
+      },
+      "Zygote (Synkaryon)(2n)": "Micro and Macrogametes fuse to form Zygote (Synkaryon).",
+      "Ookinete(2n)": [
+        "Zygote transforms into Ookinete, which is motile 🚶.",
+        "Ookinete penetrates the Peritrophic membrane of the gut wall and forms an encysted zygote called Oocyst."
+      ],
+      "Oocyst(2n)": {
+        "__p": "Oocyst undergoes Sporogony, which is meiosis followed by mitosis. Sporogony occurs in the Stomach wall of the mosquito, producing about 10,000 sporozoites from each oocyst."
+      },
+      "Sporoblast (n)": "",
+      "Sporozoite(n)": "Sporozoites migrate to the salivary gland."
+    }
+  },
+  "Treatment of Malaria": {
+    "Drugs": {
+      "Quinine": {
+        "__p": "Quinine is an important alkaloid in the treatment of malaria.",
+        "Source": "Quinine is extracted from the bark of the Cinchona tree."
+      },
+      "brin": [
+        "Atebrin",
+        "Melubrin"
+      ],
+      "quin": [
+        "Basoquin",
+        "Camoquin",
+        "Chloroquin",
+        "Emquin"
+      ],
+      "quine": [
+        "Plasmoquine",
+        "Primaquine",
+        "Nivaquine"
+      ],
+      "Others": [
+        "Daraprim",
+        "Paludrine",
+        "Mepacrine",
+        "Resochin"
+      ],
+      "Mefloquine": "Mefloquine is used to treat multidrug-resistant Plasmodium falciparum."
+    },
+    "Biological treatment": {
+      "Gambusia affinis (mosquito fish)": "Gambusia affinis feeds on larvae and pupae of mosquitoes."
+    }
+  }
+}

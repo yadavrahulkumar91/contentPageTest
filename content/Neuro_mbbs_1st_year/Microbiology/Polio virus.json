@@ -1,0 +1,88 @@
+{
+    "nomenclature": {
+        "family": "Picornaviridae",
+        "genus": "Enterovirus"
+    },
+    "morphology":{
+        "image":[
+            {
+                "data":{
+                    "attributes":{
+                        "url":"https://upload.wikimedia.org/wikipedia/commons/a/ac/Polio_virus.png"
+                    }
+                }
+            }
+        ],
+        "size":[
+            "small",
+            "20-30 nm diameters"
+        ],
+        "genetic_material":"Single stranded RNA (positive sense)",
+        "envelope":"Non-enveloped",
+        "symmetry":"60 capsomeres contain 4 viral protein (VP1-VP4)",
+        "viral_protein":"VP1 carries the major antigenic site"
+    },
+    "types": {
+        "based_on_neutralization_test": {
+            "type_1": "Most epidemics of paralytic poliomyelitis",
+            "type_2": "Most common vaccine derived poliovirus (VDPV) isolates",
+            "type_3": "Most common serotypes to cause vaccine associated paralytic poliomyelitis (VAPP)"
+        }
+    },
+    "pathogenesis": {
+        "source_of_infection": "Faeces of patient and carrier",
+        "mode_of_transmission": "Faeco-oral route",
+        "incubation_period": "9-12 days",
+        "mermaid": [
+            {
+                "type": "graph TD",
+                "data": [
+                    "Ingestion of virus contaminated food or water",
+                    "Spread to adjacent lymphatic tissue of oropharynx (tonsils) and intestine (Peyer's patches)",
+                    "Enter the blood stream",
+                    "Primary viremia",
+                    "In patient who fail to control initial viremia",
+                    "Further multiplication of virus in Reticulo-endothelial system (RES) and again enter blood stream",
+                    "Secondary viremia",
+                    "Virus disseminated in spinal cord and brain (by passage across the blood-CNS-barrier and alternately via motor neurons at peripheral neuromuscular junction",
+                    "Virus multiplies in neurons and destroys anterior horn cells of spinal cord, as well as nerve cell in medulla oblongata and in the bulbar pons."
+                ]
+            }
+        ]
+    },
+    "vaccine":{
+        "table":[
+            {
+                "data":[
+                    [
+                        [""],
+                        ["Sabin's vaccine"],
+                        ["Salk's vaccine"]
+                    ],
+                    [
+                       ["Immunizing agent"],
+                       [ "Live attenuated virus"],
+                        ["Killed virus"]
+                    ],
+                    [
+                        ["Route of Administration"],
+                        ["Oral"],
+                        ["Parenteral"]
+                    ],
+                    [
+                        ["Induction of Herd immunity"],
+                        ["Yes"],
+                        ["No"]
+                    ],
+                    [
+                        ["Dose and time of administration"],
+                        ["4 doses, 1st at 2 month of age, 2nd and 3rd at interval of 2 month & 4th at 1 and 1/2 years",
+                        "No booster dose required"],
+                        ["3 doses at an interval of 4-5 weeks",
+                    "Booster dose 6 months after 3rd dose"]
+                    ]
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "image":[
+        {
+            "data":{
+                "attributes":{
+                    "url":"https://upload.wikimedia.org/wikipedia/commons/9/95/Hydrocephalus_CDC.png",
+                    "caption":"Illustration showing different effects of hydrocephalus on the brain and cranium"
+                }
+            }
+        }
+    ],
+    "definition": "Hydrocephalus is defined as the increase in volume of CSF within the ventricular system, accompanied by dilation of ventricles.",
+    "types": {
+        "on_the_basis_of_site_of_accumulation": {
+            "internal_hydrocephalus": {
+                "features": [
+                    "Increase in intracranial pressure",
+                    "Ventricular dilation"
+                ]
+            },
+            "external_hydrocephalus": {
+                "features": "Localized collection of CSF in the subarachnoid space."
+            }
+        },
+        "on_the_basis_of_cause": {
+            "primary_hydrocephalus": {
+                "features": [
+                    "Acutal increase in the volume of CSF within the skull.",
+                    "Elevated intracranial pressure"
+                ],
+                "types": {
+                    "non-communicating_hydrocephalus": {
+                        "features": [
+                            "CSF flow is obstructed within ventricular system or in its outlet to sub-arachnoid space",
+                            "No communication of CSF between ventricles and sub-arachnoid space."
+                        ],
+                        "causes": {
+                            "congenital":[
+                                "Stenosis of Aqueduct of Sylvius",
+                                "Arnold-Chiari malformation"
+                            ],
+                            "acquired":{
+                                "tumors":[
+                                    "Ependymoma",
+                                    "Choroid plexus papilloma",
+                                    "Medulloblastoma"
+                                ],
+                                "inflammatory_lesions":[
+                                    "Meningitis",
+                                    "Cerebral abscess"
+                                ],
+                                "hemorrhage":[
+                                    "Parenchymal",
+                                    "Intraventricular"
+                                ]
+                            }
+                        }
+                    },
+                    "communicating_hydrocephalus": {
+                        "features": [
+                            "Full communication between ventricles and sub-arachnoid space."
+                        ],
+                        "causes": {
+                            "deficient_absorption_of_CSF":[
+                                "Meningitis",
+                                "Dural sinus thrombosis",
+                                "Subarachnoid hemorrhage"
+                            ],
+                            "overproduction_of_CSF":[
+                                "Choroid plexus papilloma"
+                            ],
+                            "venous_drainage_insufficiency":""
+                        }
+                    }
+                }
+            },
+            "secondary_hydrocephalus": {
+                "features": [
+                    "Less common",
+                    "Compensatory increase in CSF volume due to loss of neural tissue",
+                    "Not associated with rise in intracranial pressure"
+                ],
+                "causes": [
+                    "Cerebral atrophy in Alzheimer's disease",
+                    "Infarction"
+                ]
+            }
+        }
+    },
+    "morphology":{
+        "gross":[
+            "Dilation of ventricles",
+            "Hinging of cerebral cortex",
+            "Veins overlying the enlarged head are engorged"
+        ],
+        "microscopy":[
+            "Damage of ependymal lining of ventricle",
+            "Periventricular interstital edema"
+        ]
+    },
+    "complications":[
+        "Raised intracranial pressure",
+        "Herniation",
+        "Cerebral atrophy"
+    ]
+}

@@ -6,31 +6,8 @@ export default async function handler(req, res) {
     return;
   }
 
-  // const data = [
-  //   [
-  //     "Question 1?",
-  //     "Option A1",
-  //     "Option B1",
-  //     "Option C1",
-  //     "Option D1",
-  //     "Answer1",
-  //     "b",
-  //     ["2020", "2021"],
-  //   ],
-  //   [
-  //     "Question 2?",
-  //     "Option A2",
-  //     "Option B2",
-  //     "Option C2",
-  //     "Option D2",
-  //     "a",
-  //     "Solution2",
-  //     ["2022", "2023"],
-  //   ],
-  // ];
-
   const data = req.body.data.data;
-const lessonId = req.body.data.id;
+  const lessonId = req.body.data.id;
   const client = new Client({
     user: "avnadmin",
     host: "gamechanger-academy1-gamechanger-academy.a.aivencloud.com",

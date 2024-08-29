@@ -1,0 +1,308 @@
+{
+  "General features": {
+    "__image": [
+      {
+        "url": "https://static.vecteezy.com/system/resources/previews/002/803/162/original/illustration-of-healthcare-and-medical-education-drawing-chart-of-amoeba-for-science-biology-study-vector.jpg",
+        "width": "300",
+        "caption": "Well labelled diagram of <i>Amoeba<i>",
+        "credit": "Vecteezy"
+      }
+    ],
+    "Science of Protozoa": "Protozoology",
+    "Cell structure of protozoa": [
+      "Microscopic",
+      "Unicellular or Acellular with one or more nuclei"
+    ],
+    "Grade or organization": "Protoplasmic level of body organization/ Acellular/ Molecular level of body organization.",
+    "Symmetry": {
+      "": "Usually asymmetrical",
+      "Exception": [
+        "<i>Giardia lamblia</i> is bilaterally symmetrical.",
+        "Volvox is spherical symmetrical."
+      ]
+    }
+  },
+  "Classification of Protozoa": {
+    "__table": [
+      {
+        "data": [
+          [
+            "Characters",
+            "Sarcodina",
+            "Ciliata",
+            "Mastigophora",
+            "Sporozoa"
+          ],
+          [
+            "Mode of Locomotion",
+            "Pseudopodia (Amoeboid movement)",
+            "Cilia (Coordinated, hair-like structures)",
+            "Flagella (Whip-like structures)",
+            "No locomotory organelles (Gliding or bending movements)"
+          ],
+          [
+            "Habitat",
+            "Mostly freeliving found freshwater and marine environments, few parasitic and pathogenic",
+            "Mostly freeliving found freshwater and marine environments, few parasitic and pathogenic",
+            "Both free-living and parasitic, found in various aquatic habitats",
+            "Entirely parasitic, found inside host organisms"
+          ],
+          [
+            "Reproduction",
+            "Asexual (Binary fission, sporulation), Some sexual (Syngamy)",
+            "Asexual (Binary fission), Sexual (Conjugation)",
+            "Asexual (Binary fission), Some sexual",
+            "Asexual (Sporogony), Sexual (Gamogony)"
+          ],
+          [
+            "Nucleus",
+            "Usually one nucleus, though multinucleate forms exist",
+            "Two types of nuclei (Macronucleus and Micronucleus)",
+            "Usually one or two nuclei, can be multinucleate",
+            "Single nucleus in most species"
+          ],
+          [
+            "Feeding Mechanism",
+            "Phagocytosis (Engulfing food particles)",
+            "Cytostome (Cell mouth) with food vacuoles",
+            "Absorption through general body surface or cytostome",
+            "Absorption directly from the host cells"
+          ],
+          [
+            "Examples",
+            [
+              "<i>Amoeba</i>",
+              "<i>Entamoeba</i>"
+            ],
+            [
+              "<i>Paramecium</i>",
+              "<i>Balantidium</i>",
+              "<i>Vorticella</i>"
+            ],
+            [
+              "<i>Euglena</i>",
+              "<i>Trypanosoma</i>",
+              "<i>Giardia</i>",
+              "<i>Leishmania</i>"
+            ],
+            [
+              "<i>Plasmodium</i>",
+              "<i>Monocystis</i>",
+              "<i>Toxoplasma</i>"
+            ]
+          ]
+        ]
+      }
+    ],
+    "__mcq": [
+      {
+        "id": 2,
+        "qu": "Locomotory organ is absent in class",
+        "a": "Mastigophora",
+        "b": "Sarcodina",
+        "c": "Sporozoa",
+        "d": "Ciliata",
+        "ans": "c",
+        "sol": "Sporozoan class of Protozoa does not have any locomotory organ.",
+        "Hardness_level": null,
+        "Category": null,
+        "Asked_year": [
+          {
+            "id": 23,
+            "Asked_year": "IOM"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "qu": "Classification of Protozoa is on the basis of",
+        "a": "Nutrition",
+        "b": "Locomotory organ",
+        "c": "Habitat",
+        "d": "Reproduction",
+        "ans": "b",
+        "sol": "Classification of Protozoa is on the basis of Locomotory organ.",
+        "Hardness_level": null,
+        "Category": null,
+        "Asked_year": [
+          {
+            "id": 23,
+            "Asked_year": "IOM"
+          }
+        ]
+      }
+    ]
+  },
+  "Mode of life": {
+    "": "Free living or Parasitic",
+    "Free-living protozoans": [
+      "<i>Amoeba</i>",
+      "<i>Paramecium</i>",
+      "<i>Euglena</i>",
+      "<i>Volvox</i>"
+    ],
+    "Parasitic protozoans": {
+      "<i>Entamoeba</i>": "Colonize on Large intestine mucosa.",
+      "<i>Giardia lamblia</i>": "Inhabits in crypts of Duodenum and Upper part of jejunum of man.",
+      "<i>Balantidium</i>": "Resides in the Large intestine, similar to <i>Entamoeba histolytica</i>.",
+      "<i>Plasmodium</i>": "Resides in Liver and Blood.",
+      "<i>Leishmania donovani</i>": "Resides in Reticulo-endothelial system.",
+      "<i>Trypansoma</i>": "Resides in Blood lymph, spleen, CNS and Cerebrospinal fluid.",
+      "<i>Trichomonas</i>": "Resides in Genital tract and causes Vaginitis."
+    }
+  },
+  "Colonization": {
+    "": "Majority of protozoans are solitary.",
+    "Exceptions": "Volvox and Proterospongia are colonial."
+  },
+  "Body covering": {
+    "Shelled protozoans": [
+      "<i>Arcella</i>",
+      "<i>Difflugia</i>",
+      "<i>Elphidium</i>",
+      "<i>Foraminiferans</i>"
+    ],
+    "Radiolarians": "Continuous internal skeleton between ectoplasm and endoplasm is found."
+  },
+  "Locomotion": {
+    "": "Protozoan class that does not carry its name after locomotory organ is Sporozoa.",
+    "Types of locomotory organs": {
+      "__table": [
+        {
+          "data": [
+            [
+              "Locomotory organelle",
+              "Protozoans"
+            ],
+            [
+              "Pseudopodia (Lobopodia)",
+              "Amoeba"
+            ],
+            [
+              "Flagella",
+              [
+                "Euglena",
+                "Trypanosoma",
+                "Giardia"
+              ]
+            ],
+            [
+              "Cillia",
+              "Paramecium"
+            ]
+          ]
+        }
+      ]
+    }
+  },
+  "Nuclear dimorphism": [
+    "Nuclear dimorphism means nucleus varies from one to several.",
+    "<i>Paramecium</i> shows nuclear dimorphism."
+  ],
+  "Digestion": {
+    "Nutrition": [
+      "Holozoic",
+      "Holophytic",
+      "Saprozoic",
+      "Parasitic",
+      "Mixotropic: Euglena"
+    ],
+    "": "Digestion is always intracellular."
+  },
+  "Osmoregulation": {
+    "__bullet": [
+      {
+        "type": "",
+        "data": [
+          "Osmoregulation takes place in fresh water protozoan with the help of one or two contractile vacuoles which is absent in marine and parasitic protozoans.",
+          "When a fresh water Amoeba is kept in sea water, it loses its contractile vacuole but when a marine Amoeba is kept in fresh water, it develops contractile vacuole."
+        ]
+      }
+    ]
+  },
+  "Respiration": {
+    "__bullet": [
+      {
+        "data": [
+          "Gaseous exchange takes place by diffusion through general body surface."
+        ]
+      }
+    ]
+  },
+  "Excretion": [
+    "Excretion takes place through general body surface.",
+    "They are ammonotelic. (NH<sub>3</sub>)"
+  ],
+  "Reproduction": {
+    "__p": "Reproduction in protozoa may be asexual or sexual.",
+    "Asexual reproduction": {
+      "Binary fission": {
+        "__table": [
+          {
+            "data": [
+              [
+                "Types of Binary Fission",
+                "Protozoans"
+              ],
+              [
+                "Simple Binary Fission",
+                "Paramecium"
+              ],
+              [
+                "Longitudinal Binary Fission",
+                [
+                  "Trypanosoma",
+                  "Euglena"
+                ]
+              ],
+              [
+                "Oblique Binary Fission",
+                "Ceratium"
+              ]
+            ]
+          }
+        ],
+        "__note": [
+          {
+            "data": {
+              "": "Binary fission of a multinucleated protozoa into two or more smaller multinucleate daughter individuals is termed as <b>Plasmotomy</b>."
+            }
+          }
+        ]
+      },
+      "Budding": {
+        "__p": "Budding is a modified binary fission resulting in a single or many daughter individuals in addition to the parent.",
+        "Examples": [
+          "<i>Vorticella</i>",
+          "<i>Ephelota</i>"
+        ]
+      }
+    },
+    "Sexual reproduction": {
+      "Syngamy": "Syngamy is fusion of two sex cells.",
+      "Conjugation": "Conjugation is temporary contact of two individuals with nuclear exchange."
+    },
+    "__note": [
+      {
+        "data": {
+          "": [
+            "In most protozoa, sexually mature individual is haploid.",
+            "Many protozoans form cyst which help them in overcoming unfavourable conditions and cause dispersal."
+          ]
+        }
+      }
+    ]
+  },
+  "__note": [
+    {
+      "data": {
+        "Trichonympha": [
+          " Trichonympha is symbiotic protozoan found in gut of the termite helping in cellulose digestion.",
+          "Trichonympha secrete <b>Cellulose digesting enzymes.</b>"
+        ],
+        "Monocystis": "Monocystis is parasite in the <b>seminal vesicle of Earthworm</b>.",
+        "Opalina": "Opalina is found in Rectum (Small intestine) of Frog."
+      }
+    }
+  ]
+}

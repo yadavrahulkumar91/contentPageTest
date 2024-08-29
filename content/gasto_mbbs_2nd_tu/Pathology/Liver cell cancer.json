@@ -1,0 +1,73 @@
+{
+    "classification": {
+        "benign": {
+            "biliary_tumors": [
+                "Bile duct adenoma (Cholangioma)"
+            ],
+            "mesodermal_tumors": [
+                "Haemangioma"
+            ],
+            "hepatocellular_tumor": [
+                "Hepatocellular tumor adeoma (Liver cell adenoma)"
+            ]
+        },
+        "malignant": {
+            "angiosarcoma": [
+                "Embryonal sarcoma"
+            ],
+            "cholangiocarcinoma": [
+                "Combined hepatocellular and cholangiocarcinoma"
+            ],
+            "hepatocellular carcinoma": [
+                "Hepatoblastoma (embryoma)"
+            ]
+        }
+    },
+    "hepato-cellular_carcinoma": {
+        "etiology": [
+            "Viral infections (HBV - 85%)",
+            "Chronic alcoholism",
+            "Cirrhosis",
+            "Food contaminates (Primary contaminants)",
+            "Chemical carcinoma (Butter yellow, nitrosamines)",
+            "Hereditary hemochromatosis"
+        ],
+        "morpholoyg": {
+            "gross": {
+                "color": [
+                    "Usually paler than the surrounding liver substance",
+                    "Sometimes take on a green hue when composed of well differentiated bile secreting bile"
+                ],
+                "invasion": "Long snake like masses of tumor invade the portal vein.",
+                "metastases": "Extensive intrahepatic metastases",
+                "propensity": "All patern of hepatocellular carcinomas have strong propensity for invasion of vascular channels",
+                "gross_appearance": [
+                    "Unifocal --> Usually large mass",
+                    "Multifocal --> Widely distributed nodules of variable size",
+                    "Diffusely infiltrative --> Permeating widely and sometimes involving the entire liver"
+                ]
+            },
+            "microscopic": {
+                "pattern": {
+                    "poorly_differentiated": {
+                        "pleomorphic_appearance": [
+                            "Numerous anaplastic giant cells",
+                            "Small and completely undifferentiated cells",
+                            "Resemble spindle cell sarcoma"
+                        ]
+                    },
+                    "well_differentiated_and_moderately_well_differentiated": [
+                        "Trabecular pattern",
+                        "Acinar pattern",
+                        "Pseudoglandular pattern"
+                    ]
+                },
+                "anaplasia": "Highly anaplastic lesions",
+                "differentiation": "Well differentiated"
+            }
+        },
+        "epidemiology": [
+            "Most common primary hepatic malignant tumor"
+        ]
+    }
+}

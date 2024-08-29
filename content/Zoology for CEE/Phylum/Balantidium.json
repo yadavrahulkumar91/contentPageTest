@@ -1,0 +1,40 @@
+{
+     "__image": [
+      {
+        "url": "https://ars.els-cdn.com/content/image/1-s2.0-S0034528820310663-gr1.jpg",
+        "caption":"<i>Balantidium coli</i>",
+      "width":"300"
+      }],
+  "Description": "Balantidium coli is the largest protozoan parasite of humans.",
+  "Type": "Ciliate",
+  "Location in Human body": [
+    "Caecum",
+    "Colon"
+  ],
+  "Life cycle": {
+       "__image": [
+      {
+        "url": "https://www.cdc.gov/dpdx/balantidiasis/modules/Balantidium_LifeCycle_lg.jpg",
+        "caption":"Life cycle of <i>Balantidium coli</i>",
+      "width":"600"
+      }],
+    "Type": "Monogenetic",
+    "Host": "Has only one host",
+    "Encystment": "Encystment takes place in this parasite."
+  },
+  "Pathology": {
+    "Disease caused": [
+      "Balantidial dysentery",
+      "Balantidiasis"
+    ],
+    "Prevalence": "This is a common disease in the Philippines.",
+    "Mode of Transmission": "Food and water"
+  },
+  "Treatment": {
+    "Medicines": [
+      "Carbarsone",
+      "Di-iodohydroxyquin",
+      "Tetracycline"
+    ]
+  }
+}

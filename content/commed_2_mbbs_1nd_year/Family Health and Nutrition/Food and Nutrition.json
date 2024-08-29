@@ -1,0 +1,704 @@
+{
+    "definitions": [
+        "Nutrition is a nourishment or energy that is obtained from food consumed. ",
+        "The process of consuming the proper amount of nourishment or energy",
+        "Nutrition is the organic process by which an organism assimilates food and uses it for growth and maintenance."
+    ],
+    "functions_of_good_nutrition": [
+        "Helps children grow",
+        "Promotes human development",
+        "Advances economic growth and eradication of poverty."
+    ],
+    "classification_of_food": {
+        "on_the_basis_of_predominant_function": {},
+        "on_the_basis_of_chemical_composition": {
+            "carbohydrates": "",
+            "fats": "",
+            "proteins": "",
+            "vitamins": "",
+            "minerals": ""
+        }
+    },
+    "nutrients": {
+        "definition": "Nutrients are organic and inorganic compounds contained in food.",
+        "classification": {
+            "macronutrients": {
+                "about": [
+                    "forms main bulk of food"
+                ],
+                "items": [
+                    "carbohydrates",
+                    "fats",
+                    "proteins"
+                ]
+            },
+            "micronutrients": {
+                "about": [
+                    "required in small amount"
+                ],
+                "items": [
+                    "vitamins",
+                    "minerals"
+                ]
+            }
+        },
+        "nutrient_elements": {
+            "carbohydrates": {
+                "chemical": [
+                    "Hydrates of Carbon",
+                    "Polyhydroxy aldehyde and ketons"
+                ],
+                "energy_supply": "4 KCal/g",
+                "functions": [
+                    "Provide energy",
+                    "Essential for oxidation of fats",
+                    "Build macromolecules",
+                    "Spare protein and fat for other uses"
+                ],
+                "sources": [
+                    "Cereals",
+                    "Rice",
+                    "Sugarcane",
+                    "Potato"
+                ]
+            },
+            "fats": {
+                "about": [
+                    "Chief storage form of energy in body.",
+                    "Yiels fatty acid and glyverol on hydrolysis."
+                ],
+                "classification": {
+                    "essential_fatty_acids": "",
+                    "non_essential_fatty acids": ""
+                },
+                "functions": [
+                    "Provide energy",
+                    "Help in absorption of fat soluble vitamin",
+                    "Store fat for subsequent use",
+                    "Maintain proper body temperature",
+                    "Support viscera like heart, kidney and intestine and that beneath skin produces insulation",
+                    "Precursor of different steroid hormones"
+                ],
+                "sources": {
+                    "animal_sources": [
+                        "Ghee",
+                        "Butter",
+                        "Milk",
+                        "Egg"
+                    ],
+                    "plant_sources": [
+                        "Goundnut",
+                        "Sesame",
+                        "Mustard"
+                    ]
+                }
+            },
+            "proteins": {
+                "definition": "Proteins are complex organic nitrogenous compounds, composed of carbon, hydrogen, oxygen, sulphur and nitrogen in varying amounts.",
+                "functions": [
+                    "Body building",
+                    "Repair and maintenance of body tissues",
+                    "Maintenance of osmotic pressure",
+                    {
+                        "synthesis_of_substances": [
+                            "Antibodies",
+                            "Plasma proteins",
+                            "Hemoglobin",
+                            "Enzymes",
+                            "Hormones",
+                            "Coagulation factors"
+                        ]
+                    }
+                ],
+                "sources": {
+                    "animal_sources": [
+                        "Milk",
+                        "Meat",
+                        "Egg",
+                        "Fish",
+                        "Cheese"
+                    ],
+                    "plant_sources": [
+                        "Pulses",
+                        "Cereals",
+                        "Soyabean",
+                        "Oil",
+                        "Seeds"
+                    ]
+                }
+            },
+            "dietary_fibers": {
+                "definition": "Dietary fiber is the remnant of the edible parts of plants and analogous carbohydrates that are resistant to digestion and absorption in human small intestine with complete or partial fermentation in the human large intestine.",
+                "includes": [
+                    "Polysaccharides",
+                    "Disaccharides",
+                    "Lignin",
+                    "Associated plant substances"
+                ],
+                "functions": [
+                    "Absorb water and increase the bulk of stool.",
+                    "Help reduce tendency to constipation by encouraging bowel movement",
+                    {
+                        "increases_intestinal_transit_time": [
+                            "Reduces possibility of putrefaction",
+                            "Reduces the formation of gases and toxic substances"
+                        ]
+                    },
+                    "Low dietary fiber can causes cancer of stomach and colon.",
+                    "Reduces incidence of coronary heart diseases.",
+                    "Plays role in weight reduction."
+                ]
+            },
+            "vitamins": {
+                "classification": {
+                    "fat_soluble_vitamins": [
+                        "Vitamin A",
+                        "Vitamin D",
+                        "Vitamin E",
+                        "Vitamin K"
+                    ],
+                    "water_soluble_vitamins": [
+                        "Vitamin B",
+                        "Vitamin C"
+                    ]
+                },
+                "vitamin_A": {
+                    "definition": "Vitamin A is a group of unsaturated nutritional organic compounds that include<ol><li>Retinol</li><li>Retinal</li><li>Retinoic acid</li><li>several provitamins A carotenoids and B carotene</li></ol>",
+                    "functions": [
+                        "Vitamin A is indispensible for normal vision contributes in production of retinal pigments which are needed for vision in dim light.",
+                        "It plays important role in gene transcription",
+                        "Enhance immunity",
+                        "It helps in skin and cellular reproduction",
+                        "It has antioxidant activity"
+                    ],
+                    "sources": {
+                        "animal_sources": [
+                            "Liver",
+                            "Eggs",
+                            "Butter",
+                            "Cheese",
+                            "Milk",
+                            "Fish",
+                            "Meat"
+                        ],
+                        "plant_sources": [
+                            "Green leafy vegetables",
+                            "Green and yellow fruits like Papaya, Mango, etc"
+                        ],
+                        "fortified_foods": [
+                            "Vanaspati",
+                            "Margarine",
+                            "Milk"
+                        ]
+                    },
+                    "deficiency": {
+                        "ocular_manifestations": {
+                            "night_blindness": "",
+                            "conjunctival_xerosis": "",
+                            "bitot's_spot": "",
+                            "corneal_xerosis": "",
+                            "keratomalacia": ""
+                        },
+                        "extra_ocular_manifestation": {
+                            "follicular_hyperkeratosis": "",
+                            "anorexia": "",
+                            "growth_retardation": "",
+                            "respiratory_and_intestinal_infection": ""
+                        },
+                        "treatment": [
+                            "Administration of massive dose of Retinol palmitate orally on 2 successive days."
+                        ],
+                        "toxicity": [
+                            "Nausesa",
+                            "Vomiting",
+                            "Skin desquamation",
+                            "Enlarged liver",
+                            "Papillary edema"
+                        ]
+                    }
+                },
+                "vitamin_D": {
+                    "other_name": "Sunlight vitamin",
+                    "definition": "Vitamin D refers to a group of fat soluble steroids responsible enhancing intestinal absorption of calcium, magnesium, iron, phosphorus, zinc.",
+                    "composition": [
+                        "vitamin D<sub>3</sub> (Cholecalciferol)",
+                        "vitamin D<sub>2</sub> (Ergocalciferol)"
+                    ],
+                    "functions": {
+                        "intestine": [
+                            "Promotes intestinal absorption of calcium and phosphorus."
+                        ],
+                        "bone": [
+                            "Stimulates normal mineralization.",
+                            "Enhances bone resorption, affects collagen maturation."
+                        ],
+                        "kidney": [
+                            "Increases tubular reabsorption of calcium."
+                        ]
+                    },
+                    "sources": {
+                        "sunlight": [
+                            "UV rays convert 7 dehydrocholesterol present in skin to vitamin D."
+                        ],
+                        "foods": [
+                            "Liver",
+                            "Egg",
+                            "Yolk",
+                            "Butter",
+                            "Cheese"
+                        ]
+                    },
+                    "deficiency": {
+                        "rickets": {
+                            "incidence": "Disease of childhood",
+                            "characteristics": [
+                                "Impeded growth and soft, weak, deformed long bones that bend and bow under their weight as children start to walk."
+                            ],
+                            "other_features": [
+                                "Deformed pelvis",
+                                "Pigeon chest",
+                                "Kyphoscoliosis"
+                            ]
+                        },
+                        "osteomalacia": {
+                            "incidence": "Disease of adult",
+                            "characteristcs": [
+                                "Softening of bone, leading to",
+                                "Bending of the spine",
+                                "Bowing of the legs",
+                                "Proximal muscle weakness",
+                                "Bone fragility and ",
+                                "Increased risk for fractures."
+                            ]
+                        }
+                    }
+                },
+                "vitamin_E": {
+                    "other_name": [
+                        "Beauty vitamin",
+                        "Anti-sterility vitamin"
+                    ],
+                    "definition": "Vitamin E refers to a group of compounds that includes both tocopherols and tocotrienols.",
+                    "source": [
+                        "Vegetable oils",
+                        "Cotton seed",
+                        "Sunflower seed",
+                        "Egg yolk",
+                        "Butter"
+                    ],
+                    "function": [
+                        "Acts as an antioxidant.",
+                        "Act as an enzyme activity regulator.",
+                        "Promotes lipids and prevents the oxidation of polysaturated fatty acids."
+                    ],
+                    "deficiency": [
+                        "Spinocerebellar ataxia",
+                        "Myopathies",
+                        "Peripheral neuropathy"
+                    ]
+                },
+                "vitamin_K": {
+                    "definition": "Vitamin K refers to group of structurally similar fat soluble vitamins the human body needs for complete synthesis of certain proteins that are required for blood coagulation.",
+                    "sources": {
+                        "vitamin_K1": [
+                            "Fresh green vegetables, fruits"
+                        ],
+                        "vitamin_K2": [
+                            "Synthesiszed by intestinal bacteria."
+                        ]
+                    },
+                    "function": [
+                        "Stimulation, production and/or release of certain coagulation factors (VI, VII, IX, X)"
+                    ],
+                    "deficiency": [
+                        "Decreased prothrombin content of blood.",
+                        "Coagulopathy",
+                        "Bruising and bleeding of the gums or nose.",
+                        "Heavy menstrual bleeding in women."
+                    ]
+                },
+                "vitamin_B": {
+                    "vitamin_B1": {
+                        "othername": "Thiamine",
+                        "definition": "",
+                        "function": [
+                            "Essential for the utilization of carbohydrates.",
+                            "Thiamine pyrophosphate (TPP) act as coenzyme in activation of enzyme involved in the oxidative pathway of glucose."
+                        ],
+                        "requirement": "",
+                        "sources": [
+                            "Whole grain cereals",
+                            "Wheat",
+                            "Gram",
+                            "Pulses",
+                            "Milk",
+                            "Meat",
+                            "Fish",
+                            "Vegetables",
+                            "Fruits"
+                        ],
+                        "deficiency": {
+                            "beriberi": {
+                                "dry_beriberi": [
+                                    "Peripheral neuropathy"
+                                ],
+                                "wet_beriberi": [
+                                    "Mental confusion",
+                                    "Muscular atropy",
+                                    "Edema",
+                                    "Tachycardia",
+                                    "Cardiomegaly"
+                                ],
+                                "infantile_beriberi": "In infants between 2 and 4 months of age",
+                                "gastrointestinal_beriberi": "",
+                                "wernike's_encephalopathy": {
+                                    "seen_in": "Alcoholics",
+                                    "characterized_by": [
+                                        "Opthalmoplegia",
+                                        "Polyneuritis",
+                                        "Ataxia",
+                                        "Mental deterioration"
+                                    ]
+                                }
+                            }
+                        }
+                    },
+                    "vitamin_B2": {
+                        "othername": "Riboflavin",
+                        "definition": "It is the component of the cofactors FAD and FMN and as such required for a variety of flavoprotein enzyme reactions including activation of other vitamins.",
+                        "function": [
+                            "Involved in antioxidant activity."
+                        ],
+                        "requirement": "",
+                        "sources": [
+                            "Milk",
+                            "Egg",
+                            "Liver",
+                            "Kidney",
+                            "Green leafy vegetables"
+                        ],
+                        "deficiency": [
+                            "Stomatitis",
+                            "Cheelosis",
+                            "Glossitis",
+                            "Impaired neuromotor functions"
+                        ]
+                    },
+                    "vitamin_B3": {
+                        "othername": "Niacin",
+                        "definition": "Niacin is an organic compound and considered as one of the 20 to 80 essential human nutrients.",
+                        "function": "Pharmaceutical and supplemental niacin are primarily used to treat hypercholesterolemia and pellagra.",
+                        "requirement": {
+                            "children": "2-12 mg/day",
+                            "women": "14mg/day",
+                            "men": "16 mg/day"
+                        },
+                        "sources": [
+                            "Liver",
+                            "Heart and kidney",
+                            "Meat",
+                            "Poultry",
+                            "Fish",
+                            "Legumes",
+                            "Groundnut"
+                        ],
+                        "deficiency": {
+                            "pellagra": [
+                                "Diarrhoea",
+                                "Dermatitis",
+                                "Dementia hyper pigmentation"
+                            ],
+                            "mental_changes": [
+                                "Depression",
+                                "Amnesia",
+                                "Delirium",
+                                "Anxiety",
+                                "Fatigue"
+                            ]
+                        }
+                    },
+                    "vitamin_B5": {
+                        "othername": "Pantothenic acid",
+                        "definition": "",
+                        "function": [
+                            "Synthesize Co-A",
+                            "Synthesize and metabolize proteins, carbohydrates and fats"
+                        ],
+                        "requirement": "5 mg/day",
+                        "sources": [
+                            "Meat",
+                            "Grains",
+                            "Avocardos",
+                            "Broccoli",
+                            "Cereal",
+                            "Condensed fish solution"
+                        ],
+                        "deficiency": [
+                            "Irritability",
+                            "Fatigue",
+                            "Apathy",
+                            "Numbness",
+                            "Paresthesia",
+                            "Hypoglycemia"
+                        ]
+                    },
+                    "vitamin_B6": {
+                        "othername": "Pyridoxine",
+                        "definition": "",
+                        "function": "It plays important role in metabolism of amino acid, fats and carbohydrates.",
+                        "requirement": {
+                            "adults": "2 mg/day",
+                            "pregnancy_and_lactation": "2.5 mg/day"
+                        },
+                        "sources": [
+                            "Milk",
+                            "Liver",
+                            "Meat",
+                            "Egg",
+                            "Yolk",
+                            "Fish",
+                            "Legumes",
+                            "Vegetables"
+                        ],
+                        "deficiency": "Peripheral neuritis"
+                    },
+                    "vitamin_B7": {
+                        "othername": "Biotin",
+                        "definition": "It is colourless water soluble vitamin.",
+                        "function": [
+                            "Helps body to convert food into glucose.",
+                            "Helps to produce fatty acids and amino acids",
+                            "Activate protein metabolism in hair roots, and finger nail cells."
+                        ],
+                        "requirement": "",
+                        "sources": [
+                            "Yeast",
+                            "Liver and Kidney",
+                            "Egg yolk",
+                            "Soya beans",
+                            "Nuts",
+                            "Cereals"
+                        ],
+                        "deficiency": [
+                            "Hair loss",
+                            "Dry scaly",
+                            "Cracking in corner of mouth",
+                            "Glossitis"
+                        ]
+                    },
+                    "vitamin_B9": {
+                        "othername": "Folate",
+                        "definition": "",
+                        "function": "",
+                        "requirement": {
+                            "normal_adults": "200 μg/day",
+                            "pregnancy": "500 μg/day",
+                            "lactation": "300 μg/day",
+                            "infants and children": "80-120 μg/day"
+                        },
+                        "sources": [
+                            "Liver",
+                            "Meat",
+                            "Dairy products",
+                            "Egg",
+                            "Milk",
+                            "Fruits",
+                            "Cereals",
+                            "Leafy vegetables"
+                        ],
+                        "deficiency": [
+                            "Commonly occurs in pregnancy and lactation.",
+                            "Megaloblastic anaemia.",
+                            "Glossitis",
+                            "Cheilosis",
+                            "Gastrointestinal disturbances such as diarrhoea, distension and flatulence",
+                            "Neural tube defects"
+                        ]
+                    },
+                    "vitamin_B12": {
+                        "othername": "Cyanocobalamine",
+                        "definition": "It is the largest and most common of all the vitamins. It comprises the only cobalt containing molecules with biological activity in humans.",
+                        "function": [
+                            "Helps to produce nucelic acids. ",
+                            "Helps the body to maintain healthy nerve cells.",
+                            "Regulate, together with vitamin B9, the formation of red blood cells.",
+                            "Helps to convert food into glucose."
+                        ],
+                        "requirement": {
+                            "normal_adults": "1 μg/day",
+                            "pregnancy": "1.2 μg/day",
+                            "lactation": "1.5 μg/day",
+                            "infants and children": "0.2 μg/day"
+                        },
+                        "sources": [
+                            "Liver",
+                            "Kidney",
+                            "Meat",
+                            "Fish",
+                            "Eggs",
+                            "Milk",
+                            "Cheese",
+                            "Absent in food of vegetable origin."
+                        ],
+                        "deficiency": [
+                            "Neurological damage",
+                            "Anaemia",
+                            "Tingling sensation in finger and toes"
+                        ]
+                    }
+                }
+            },
+            "minerals": {
+                "major_minerals": {
+                    "sodium": "",
+                    "potassium": "",
+                    "magnesium": "",
+                    "calcium": "",
+                    "phosphorus": ""
+                },
+                "minor_minerals": {
+                    "iron": {
+                        "definition": "Plays vital role in performing various body functions.",
+                        "requirement": "10-18 mg/day",
+                        "source": {
+                            "haem_iron": [
+                                "Liver",
+                                "Meat",
+                                "Poultry",
+                                "Fish"
+                            ],
+                            "non-haem_iron": [
+                                "Cereals",
+                                "Green leafy vegetables",
+                                "Legumes nuts"
+                            ]
+                        },
+                        "storage": [
+                            "70% stored in hemoglobin",
+                            "26% stored in liver, spleen and bones."
+                        ],
+                        "function": [
+                            "Helps in formation of hemoglobin and brain development.",
+                            "Regulation of body temperature, muscle activity and catecholamine metabolism.",
+                            "Lack of iron affects immune system, it diminishes the number of T cells and antibodies",
+                            "Iron is also the component of myoglobin, cytochromes, catalase and certain enzymes",
+                            "Major function of iron is 'Oxygen transport' and cell respiration."
+                        ],
+                        "deficiency": {
+                            "iron_deficiency_anaemia": {
+                                "definition": "It is a condition in which the hemoglobin content of blood is lower than what is regarded as normal for the particular age, sex, group due to deficiency of iron.",
+                                "features": {
+                                    "red_cells": [
+                                        "Microcytic",
+                                        "Hypochromic"
+                                    ],
+                                    "hemoglobin_level": [
+                                        "10-22 g/dl causes early anaemia",
+                                        "lower than 10 g/dl --> Marked anaemia"
+                                    ]
+                                },
+                                "causes": {
+                                    "increased_blood_loss": [
+                                        "Excessive menstruation in reproductive years, repeated miscarriages",
+                                        "Hookworm infestations, peptic ulcer, hemorrhoids",
+                                        "Hematuria, hemopysis"
+                                    ],
+                                    "increased_requirements": {
+                                        "during_growth_phase": [
+                                            "Infancy",
+                                            "Childhood",
+                                            "Adolescence"
+                                        ],
+                                        "pregnancy": "",
+                                        "lactation": ""
+                                    },
+                                    "inadequate_dietary_intake": [
+                                        "Poor economic condition",
+                                        "Poor dentition",
+                                        "Anorexia like in pregnancy, young females"
+                                    ],
+                                    "decreased_absorption": [
+                                        "Intestinal malabsorption",
+                                        "Partial or total gastrectomy"
+                                    ]
+                                },
+                                "clinical_features": [
+                                    "Pallor at palpebral conjunctiva",
+                                    "Paleness of tongue, lips and mucus membrane",
+                                    "Fatigue and reduced work capacity",
+                                    "Nausea and anorexia",
+                                    "Tachycardia and murmurs",
+                                    "Breathlessness"
+                                ],
+                                "management": [
+                                    "Iron supplementation of high risk group",
+                                    [
+                                        "Oral iron --> For pregnant women ane pre-school",
+                                        "Parenteral iron --> Anaemia in last trimester of pregnancy"
+                                    ],
+                                    "Iron fortification of foods and salts",
+                                    "Control of parasites by deworming and improving sanitation",
+                                    "Treatment of pathological conditions if present like peptic ulcers, hemorrhoids"
+                                ]
+                            }
+                        },
+                        "iodine": {
+                            "requirement": {
+                                "adults": "150 μg/day",
+                                "pregnancy": "250 μg/day"
+                            },
+                            "source": [
+                                "Sea foods (Sea fish, Sea salt)",
+                                "Cord liver oil"
+                            ],
+                            "function": [
+                                "Synthesis of thyroid hormones"
+                            ],
+                            "deficiency": {
+                                "iodine_deficiency_disorders":{
+                                    "causes":[
+                                        "Inadequate dietary intake of iodine",
+                                        "Presence of goitrogens in food",
+                                        "Malabsorption",
+                                        "Increased demand during growth",
+                                        "Defects in iodine transport in thyroid cells"
+                                    ],
+                                    "spectrum":[
+                                        "Goitre (Enlargment of thyroid)",
+                                        "Hypothyroidism",
+                                        "Retarded physical development and impaired mental function",
+                                        "Increased rate of spontaneous abortion and still birth",
+                                        "Cretinism"
+                                    ],
+                                    "management":{
+                                        "short_term":[
+                                            "Use of iodised oil as in injection or oral tablets."
+                                        ],
+                                        "long_term":[
+                                            "Iodization of salt",
+                                            "Proper iodine monitoring",
+                                            "Manpower training in all aspects for goitre control.",
+                                            "Mass communication"
+                                        ]
+                                    },
+                                    "national_strategies":{
+                                        "target":"To prevent and eradicate IDD by the end of 2017 AD",
+                                        "activities":[
+                                            "Monitoring the quality of iodized salt by ensuring iodization of common salt at 50 ppm at the production level and 30 ppm at retailer level.",
+                                            "Since fiscal year (2060/61), child health decision decided to celebrate February as 'the month to create awareness about the use of iodized salt.'",
+                                            "Provide iodized oil injections and capsules to supplement iodine in remote areas in case of goitre and cretinism.",
+                                            "Adequate distribution of iodized salt in all parts of the country",
+                                            "Creating awareness"
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        "fluorine": "",
+                        "zinc": ""
+                    }
+                }
+            }
+        }
+    }
+}

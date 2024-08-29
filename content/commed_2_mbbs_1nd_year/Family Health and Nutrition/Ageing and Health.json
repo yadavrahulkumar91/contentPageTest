@@ -1,0 +1,167 @@
+{
+    "aging":{
+        "definition":"Ageing is the process of becoming older, a process that is genetically determined and environmentally modulated.",
+        "characteristcs":[
+            "Normal inevitable biological phenomenon.",
+            "Represents accumulation of chnages in a human being over time encompassing physical, psychological and social change.",
+            "Reaction time slow with age",
+            "Wisdom expands"
+        ],
+        "healthy_ageing":{
+            "lifestyle_factors_affecting_ageing":{
+                "exercise":[
+                    "Improves well being and relieves stress.",
+                    "Improves blood circulation",
+                    "Helps to maintain weight",
+                    "Increases flexibility",
+                    "Lowers blood pressure, increases energy levels.",
+                    "Improves bone density, increases energy levels."
+                ],
+                "diet_and_nutrition":{
+                    "avoid":[
+                        "Excessive fat"
+                    ],
+                    "include":[
+                        "Less saturated fat and oils",
+                        "Lots of fruits, vegetables and high fibre",
+                        "Less salt and sugar"
+                    ]
+                },
+                "weight":[
+                    "Overweight and obesity are major concerns.",
+                    "Contributes to heart disease, stroke, hypertension, diabetes."
+                ],
+                "smoking":[
+                    "Likely to have chronic disease and deterioration."
+                ],
+                "alcohol_intake":"",
+                "social_activities":""
+            }
+        },
+        "health_problems":{
+            "physical_disorders":[
+                "Hypertension",
+                "Arthritis",
+                "Respiratory disease (Emphysema)",
+                "Cholesterol disorders",
+                "Heart disease",
+                "Eye disorders (Senile cataract, Glaucoma)",
+                "Asthma",
+                "Diabetes",
+                "Osteoporosis"
+            ],
+            "mental_disorders":[
+                "Alzheimer disease",
+                "Depression",
+                "Dementia",
+                "Delirium"
+            ]
+        },
+        "solution":[
+            "Provision of lifestyle and nutritional education.",
+            "Establish and manage old-age home.",
+            "Enhance palliative care in hospital centers.",
+            "Development of geriatric ward in all hospital",
+            "Enforcement of 'Senior citizens act' to ensure socail, economic and human rights.",
+            "Moral education on elders and their status should be incorporated in the educational curriculum of schools and colleges.",
+            "Every individual should be encouraged to provide the best care and opportunities to elderly citizens."
+        ]
+    },
+    "contraception": {
+        "definition": "Contraception is the prevention of fusion of gametes during or after sexual activity.",
+        "etmology": [
+            "Contra --> Against",
+            "Conception --> Fertilization"
+        ]
+    },
+    "contraceptive_methods": {
+        "definition": "Contraceptive methods are preventive methods to help women avoid unwanted pregnancies. They include all temporary and permanent measures to prevent pregnancy resulting from coitus.",
+        "classification": {
+            "temporary_methods": {
+                "natural_methods": [
+                    "Basal body temperature",
+                    "Symptothermic methods",
+                    "Withdrawl method (Coitus interreptus method)",
+                    "Cervical mucus method",
+                    "Breast feeding"
+                ],
+                "barrier_methods": {
+                    "physical_methods": {
+                        "condom": "",
+                        "femidom": "",
+                        "diaphragm":""
+                    },
+                    "chemical_methods":{
+                        "creams":"Creams, Jellies and Pastes squeezed from a tube",
+                        "foams":[
+                            "Foam tablets",
+                            "Foam aerosols"
+                        ],
+                        "suppositories":"Inserted manually",
+                        "soluble_films":"Film inserted manually"
+                    }
+                },
+                "intra_uterine_devices": {
+                    "first_generation": [
+                        "Non-medicated",
+                        "Insert IUDs"
+                    ],
+                    "second_generation": [
+                        "Copper IUD",
+                        "Copper T",
+                        "T Cu 220c",
+                        "T Cu 380 A or Ag"
+                    ],
+                    "third_generation": [
+                        "Hormone releasing IUD (Progesterone)"
+                    ]
+                },
+                "hormonal_methods": {
+                    "oral_pils":[
+                        "Combined pills (Estrogen + Progesterone) (COP)",
+                        "Progesterone only pills (POP)",
+                        "Post coital pill (Estrogen diethyl stiblbestrol 50 mg)",
+                        "Once a month (Long action pill)"
+                    ],
+                    "depot":{
+                        "Slow releasing formulations":"",
+                        "injectables":[
+                            "Depo-provera",
+                            "Sangini"
+                        ],
+                        "subcutaneous_implant":[
+                            "Norplants-6",
+                            "Norplant(R)-2"
+                        ],
+                        "vaginal_rings":[
+                            "with Levonorgestrol"
+                        ]
+                    }
+                },
+                "post_conception_methods": ""
+            },
+            "permanent_methods": {
+                "male_sterilization": [
+                    "Vasectomy"
+                ],
+                "female_sterilization": [
+                    "Minilap",
+                    "Laproscopy"
+                ]
+            }
+        }
+    },
+    "family_planning":{
+        "definition":"Family planning implies the ability of individual couples to anticipate and their desired number of children and spacing, and timing of their birth.",
+        "benefits":[
+            "Preventing pregnancy related health risks in woman.",
+            "Reducing infant mortality.",
+            "Helping to prevent HIV/AIDS.",
+            "Reducing the needs for unsafe abortion",
+            "Empowering people.",
+            "Reducing adolescent pregnancies.",
+            "Helps to slow population growth."
+        ]
+    }
+
+}

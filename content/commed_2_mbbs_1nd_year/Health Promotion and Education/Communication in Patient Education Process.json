@@ -1,0 +1,168 @@
+{
+    "definition": "Communication is the process of transmitting information and meaning from one person to another.",
+    "definition_by_Keith_Davis": "Communication is the process of passing information and understanding from one person to another.",
+    "elements_of_effective_communication": {
+        "communicator": {
+            "about": "Sender or source of message",
+            "examples": [
+                "Leaders",
+                "Teacher",
+                "Spokesman",
+                "Health educator",
+                "Health workers"
+            ],
+            "qualities_of_good_communicator": [
+                "Expert in knowledge and skill in related subject",
+                "Perfect in communication",
+                "Writen and spoken skill",
+                "Motivation skill",
+                "Skill in utilizing the channel",
+                "Faithful with audience",
+                "Clearly defined specific objectives",
+                "Ability to identify community needs and interest",
+                "Good and pleasant personality",
+                "Source credibility"
+            ]
+        },
+        "message": {
+            "about": [
+                "feelings",
+                "facts",
+                "views",
+                "picture"
+            ],
+            "good_quality_of_message": [
+                "Accurate",
+                "Adequate",
+                "Applicable",
+                "Appropriate",
+                "Attractive",
+                "Timely",
+                "Specific"
+            ]
+        },
+        "encoding": [
+            "non verbal symbols"
+        ],
+        "decoding": [
+            "Facial expression",
+            "Body movement"
+        ],
+        "channel": [
+            "Oral",
+            "Written"
+        ],
+        "audience": [
+            "Destination",
+            "Receiver",
+            "Consumer"
+        ],
+        "feedback": "Reaction"
+    },
+    "interpersonal_communication": {
+        "definition": "Interpersonal communication is the most common channel which is also called as face to face communication.",
+        "advantages": [
+            "More persuasive and effective than any other form of communication.",
+            "Important in influencing the decision of undecided person."
+        ],
+        "disadvantages": [
+            "Coverage is very less."
+        ],
+        "communicator": [
+            "It is the source of message."
+        ]
+    },
+    "types_of_communication": [
+        "One way communication (Didactic method)",
+        "Two way communication (Socratic method)",
+        "Verbal communication",
+        "Non-verbal communication",
+        "Formal communication",
+        "Informal communication",
+        "Visual communication",
+        "Telecommunication and Internet"
+    ],
+    "principles_of_communication": [
+        "People/ Audience's need, interest and capability",
+        "Relationship between communicator and audience",
+        "Face to face contract",
+        "Easy, precise, and clear message",
+        "Feedback",
+        "Use of multi-media",
+        "Authority of message",
+        "Honesty and Dutiful of profession",
+        "Good behaviour to the audience",
+        "Respect to the individual freedom and idea."
+    ],
+    "principles_of_effective_communication": [
+        "Clarity",
+        "Consistency",
+        "Selection of target group",
+        "People's need and interest oriented",
+        "Avoid unnecessary details",
+        "Communication according to time, place and situation",
+        "Message distribution",
+        "Internal communication",
+        "Substance",
+        "Feedback"
+    ],
+    "barriers_of_communication": {
+        "physiological_barriers": [
+            "Difficulties in expression due to physical problem, problem of vision, and hearing."
+        ],
+        "psychological_barriers": [
+            "Perception",
+            "Unbalance of mental condition",
+            "Emotions",
+            "Tensions",
+            "Anxiety",
+            "Depression",
+            "Anger",
+            "Hate",
+            "Fear",
+            "Gealousy"
+        ],
+        "environmental_barriers":[
+            "Physical distance",
+            "Nose",
+            "Congestion",
+            "Physical arrangement problem",
+            "Too hot",
+            "Too cold",
+            "Unpleasant environment"
+        ],
+        "socio-cultural_barriers":[
+            "Religion",
+            "Caste",
+            "Culture",
+            "Customs",
+            "Belief",
+            "Normal",
+            "Superstition",
+            "Language",
+            "Social structure"
+        ],
+        "channel_barriers":[
+            "Barriers of Radio, televiosion, written document"
+        ],
+        "semantic_barriers":{
+            "barriers_due_to":[
+                "Language",
+                "Use of words or sentences",
+                "Presentation problem",
+                "Misunderstanding",
+                "Standing",
+                "Conflict",
+                "Friction",
+                "Poor performance"
+            ]
+        },
+        "barriers_due_to_individual_nature":[
+            "Nature of individual personality",
+            "Experience behaviour",
+            "Talkative alcoholic",
+            "Gentle",
+            "Impressive"
+        ]
+    }
+}

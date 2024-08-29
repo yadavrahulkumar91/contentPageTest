@@ -1,0 +1,78 @@
+{
+    "types":{
+        "chronic_bacterial_meningioencephalitis":{
+            "causes":[
+                "<i>Tryponema pallidum </i>",
+                "<i>Mycobacterium tuberculosis</i>"
+            ]
+        },
+        "fungal_meningoencephalitis":{
+            "causes":[
+                "<i>Candida albicans</i>",
+                "<i>Mycor sp.</i>",
+                "<i>Aspergillus fumigatus</i>",
+                "<i>Cryptococcus neoformans</i>"
+            ]
+        },
+        "viral_meningioencephalitis":{
+            "causes":[
+                "Herpes Simplex Virus (HSV-1 and HSV-2)",
+                "Other Herpes Virus",
+                [
+                    "Varicella zoster virus",
+                    "Cytomegalo virus",
+                    "Epstein-Barr virus",
+                    "Human Herpes virus-6"
+                ],
+                "Rabies virus",
+                "Arbo virus",
+                "JC polyoma virus",
+                "HIV",
+                "Measles virus",
+                "Polio virus"
+            ],
+            "image": [
+                {
+                    "data": {
+                        "attributes": {
+                            "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Viral_encephalitis.png",
+                            "caption": "Virus infecting the brain in Viral encephalitis"
+                        }
+                    }
+                }
+            ],
+            "morphology":{
+                "gross":[
+                    "Variable degree of meningitis",
+                    "Cerebral edema",
+                    "Congestion",
+                    "Hemorrhage"
+                ],
+                "microscopy":{
+                    "parenchymal_infiltrate":{
+                        "of":"Mononuclear cells like lymphocytes, plasma cells, macrophages",
+                        "in":"Perivascular space (Virchow-Robin space)"
+                    },
+                    "microscopic_cluster_of":"Microglial cells",
+                    "neuronal_damage":[
+                        "Chromatolysis",
+                        "Neuronophagia"
+                    ],
+                    "demyelination":"Follow the destruction of oligodendrocytes.",
+                    "hydranencephaly":"Involvement of ependymal cells may lead to hydranencephaly"
+                }
+            }
+        },
+        "HIV_virus_encephalitis":{
+
+        },
+        "progressive_multifocal_leukoencephalopathy":{
+            "causes":[
+                "JC polyoma virus"
+            ]
+        },
+        "subacute_sclerosing_panencephalitis":{
+            "causes":"Occurs after acute infection with measles."
+        }
+    }
+}

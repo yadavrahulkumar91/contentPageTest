@@ -1,0 +1,163 @@
+{
+    "morphology": {
+        "capsule": "Capsule present (Fresh isolates from blood or spinal fluid",
+        "motility": "Non-motile",
+        "spore": "Non-sporing",
+        "gram-stain": "Gram negative",
+        "shape": [
+            "Oval",
+            "Diplococci",
+            "Unlike <i>Neisseria gonorrhoeae</i> adjacent sides are flattened."
+        ],
+        "size": "0.6-0.8 μm",
+        "pili": "Piliated",
+        "oxygenic": "Strictly aerobic",
+        "image": [
+            {
+                "data": {
+                    "attributes": {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Neisseria_meningitidis_Charles-Orszag_2018.png/1200px-Neisseria_meningitidis_Charles-Orszag_2018.png",
+                        "caption": "<i>Neisseria gonorrhoea<i>"
+                    }
+                }
+            }
+        ]
+    },
+    "classification": {
+        "serogroups": {
+            "based_on": "Specificity of Capsular polysaccharide antigens",
+            "number": "13 serogroups",
+            "serogroups": "A, B, C, D, X, Y, Z, W135, 29E, H, I, K, L",
+            "meningococal_disease_associated_serogroups": "A, B, C, X, Y and W135"
+        },
+        "serotypes": {
+            "based_on": "Outer Membrane Protein - A (OMP) and Lipid Polysaccharides (LPS)",
+            "number": "1-20 serotypes"
+        }
+    },
+    "virulence_factors": {
+        "pili": "Acts as adhesion factor",
+        "capsule": [
+            "Anti-phagocytic",
+            "Principal virulence factor"
+        ],
+        "lipopolysaccharide(LPS)": "Endotoxin",
+        "IgA_protease": "Cleaves IgA molecule",
+        "outer_membrane_protein(OMP)": {
+            "protein-I": {
+                "por-A": "",
+                "por-B": "",
+                "": "One strain possess either of them."
+            }
+        },
+        "transferrin_binding_protein": [
+            "Helps iron uptake from transferrin"
+        ]
+    },
+    "pathogenesis": {
+        "host": "Humans are only natural host",
+        "source_of_infection": "Contaminated droplets",
+        "reservoir_of_infection": "Nasopharyngeal carriers",
+        "mode_of_transmission": "Air borne",
+        "incubation_period": "3 days",
+        "entry_site": "Sub-arachnoid space",
+        "entry_route": {
+            "hematogenous_route": {
+                "mermaid": [
+                    {
+                        "type": "graph TD",
+                        "data": [
+                            "Inhalation of contaminated droplets",
+                            "<i>N. meningitidis</i> attaches to mucosal cells of nasopharynx through pili",
+                            "In a non-immune, susceptible host, organism invades locally",
+                            "Spreads from nasopharynx to meninges through blood stream",
+                            "Internalised by phagocytic cell",
+                            "Able to avoid intracellular death, replicates",
+                            "Migrates to sub-epithelial space",
+                            "Meningitis"
+                        ]
+                    }
+                ]
+            },
+            "direct_spread": {
+                "infected_site": [
+                    "Otitis media",
+                    "Sinusitis",
+                    "Conjunctivitis"
+                ]
+            },
+            "anatomic_defects": [
+                "Defect in the CNS structures",
+                "Congenital abnormality"
+            ],
+            "travel_along_nerve": "Peripheral sheath of olfactory nerve leading to the brain"
+        }
+    },
+    "clinical_manifestations": [
+        "Meningitis",
+        "Afebrile illness",
+        "Meningococcal septicaemia",
+        "Non-blanching petechial or Purpuric rash",
+        "Arthritis",
+        "Pneumonia",
+        {
+            "Waterhouse-Friderichsen_syndrome": {
+                "characterized_by": [
+                    "Disseminated intravascular coagulation (DIC)",
+                    "Large purpuric rashes",
+                    "Bilateral adrenal hemorhages",
+                    "Shock and multiorgan failure"
+                ]
+            }
+        }
+    ],
+    "lab_diagnosis": {
+        "sample_collection": {
+            "specimen": [
+                "CSF",
+                "Blood",
+                "Synovial fluid",
+                "Nasopharyngeal swab"
+            ],
+            "examination_of_CSF": {
+                "collected_by": "Lumbar puncture",
+                "CSF_morphology": "Turbid due to large number of polymorphonuclear leucocytes",
+                "CSF_division": {
+                    "1st_portion": "Microscopy",
+                    "2nd_portion": "Biochemical_test",
+                    "3rd_portion": "Culture"
+                }
+            }
+        },
+        "microscopy": [
+            "CSF is centrifuged.",
+            "Centrifuged deposit is Gram stained.",
+            {
+                "neisseria_meningitidis_sn": [
+                    "Gram negative",
+                    "Intracellular diplococci"
+                ]
+            },
+            "Leukocytes increased with 90-99% neutrophils.",
+            "Supernatant is kept for detection of meningococal antigen."
+        ],
+        "biochemical_test":{
+            "glucose":"Markedly decreased or absent",
+            "protein":"Markedly increased",
+            "fermentation":"Fermentation of glucose and maltose with production of acid only",
+            "catase":"Positive",
+            "oxidase":"Positive",
+            "indole":"Negative",
+            "nitrate":"Nitrate is not reduced"
+        },
+        "culture":{
+            "fastidious":"Fastidious organism",
+            "culture_medium":[
+                "Chocolate agar",
+                "Blood agar",
+                "Muller-Hinton starch casein hydrolysate agar"
+            ],
+            "culture_environment":"35-36&degC in 5-10% CO<sub>2</sub> and high humidity for 72 hours"
+        }
+    }
+}

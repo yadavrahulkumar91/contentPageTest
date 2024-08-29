@@ -1,0 +1,213 @@
+{
+    "concept_of_health_promotion":{
+        "definition":"Health promotion is the process of enabling people to increase control over the determinants of health and thereby improve their health.",
+        "representation":[
+            "Social process",
+            "Political process"
+        ],
+        "embracing_actions":[
+            "Strengthening the skill and capabilities of individuals.",
+            "Changing social, environmental and economic conditions."
+        ],
+        "final_goal":"Alleviate the public and environmental health.",
+        "elements":{
+            "environmental_integration":"",
+            "public_participation":"",
+            "health_promotion_program":{
+                "combines":[
+                    "Educational support",
+                    "Organization support",
+                    "Environmental support",
+                    "Financial support"
+                ],
+                "helps_in":[
+                    "Reducing negative health behaviours",
+                    "Promote positive changes",
+                    "Modifying behaviours, attitude and values"
+                ],
+                "introduces":[
+                    "Health enhancing activities",
+                    "Support system to assist with behavioural change."
+                ]
+            }
+        },
+        "provides":{
+            "educational_support":"By helping individuals learn more about nutrition, diet and exercise.",
+            "organizational_support":"Through programs and services that encourage people to participate in healthy lifestyles.",
+            "environmental_support":"It establishes rules governing individual behaviour and supporting decision to change.",
+            "financial_supports":"By providing monetary incentives to motivate people towards healthful decision making."
+        }
+    },
+    "ottawa_charter_of_health_promotion":{
+        "is":"Document",
+        "produced_by":"First international conference on Health Promotion",
+        "location":"Ottawa, Canada",
+        "date":"21st November 1986",
+        "aim":"To continue to identify to achieve the objective of the WHO, health for all by the year 2000",
+        "health_promotion_definition":"Health promotion is the process of enabling people to increase control over the determinants of health and thereby improve their health.",
+        "prerequisites_of_health_promotion":[
+            "Peace",
+            "Shelter",
+            "Education",
+            "Food",
+            "Income",
+            "Stable ecosystem",
+            "Sustainable resources",
+            "Social justice",
+            "Equity"
+        ],
+        "basic_strategies_for_health_promotion":{
+            "advocate":{
+                "good_health_is":[
+                    "Source of social, economic and personal development.",
+                    "Important dimension of quality of life."
+                ],
+                "good_health_affected_by":[
+                    "Political factors",
+                    "Economic factors",
+                    "Social-cultural factors",
+                    "Environmental factors",
+                    "Biological factors"
+                ]
+            },
+            "enable":{
+                "focuses_on":"Achieving equity in health",
+                "proceduce":[
+                    "Health promotion",
+                    {
+                        "provides":[
+                            "Supportive environment",
+                            "Access to information",
+                            "Life skills, and",
+                            "Opportunities"
+                        ]
+                    },
+                    "Reduce difference in current health status and ensuring equal opportunities and resources too",
+                    "Enable all people to achieve their fullest health potential"
+                ]
+            },
+            "mediate":{
+                "procedure":[
+
+                ]
+            }
+        },
+        "areas_of_health_promotion":{
+            "building_healthy_public_policy":"",
+            "create_supportive_environment":"",
+            "strengthen_community_actions":"",
+            "develop_personal_skills":"",
+            "re-orient_health_services":""
+        }
+    },
+    "jakarta_declaration_on_health_promotion":{
+        "prepared_by":"Fourth internation conference on Health promotion",
+        "slogan":"New players for a New Era",
+        "location":"Jakarta",
+        "date":"21 to 25 July 1997",
+        "key_features":[
+            "First conference to be held in developing countries",
+            "First to involve private sectors in supporting health promotion."
+        ],
+        "declared_actions":{
+            "health_promotion_is_a_key_investment":"",
+            "health_promotion_makes_a_difference":""
+        }
+    },
+    "health_education":{
+        "definition_by_G.W._Steward":"Health education is that component of health and medical programmes which consists of planned attempt to change individual, group and community behaviour with the objective of helping achieve curative, rehabilitative, disease preventive and health promotive ends.",
+        "aims_and_objectives":[
+            "To ensure that health is valued as an asset in the community",
+            "To equip the people with skills, knowledge and attitude to enable them to solve their health problem by their own actions and efforts",
+            "To promote the development and proper use of health services (Maximum use of health services)",
+            "To help people to develop positive attitude and skill to protect from disease and improve their health."
+        ],
+        "principles_of_health_education_by_JE_park":{
+            "interest":"",
+            "participation":"",
+            "known_to_unknown":"",
+            "comprehensioun":"",
+            "reinforcement":"",
+            "motivation":"",
+            "learning_by_doing":"",
+            "soil,_seed_and_sower":"",
+            "good_human_relation":"",
+            "leaders":""
+        },
+        "scope":{
+            "schools":"",
+            "family":"",
+            "community":"",
+            "health_and_medical_care_setting":""
+        },
+        "patient_health_education":{
+            "objective":[
+                "Breaking down barriers of ignorance prejudice misconception",
+                "Making good habit of behaviour",
+                "Is more receptive information",
+                "For effective prevention and control",
+                "Properly use of available health services",
+                "To eliminate superstitions and misconception relisting to health and disease"
+            ]
+        },
+        "patient_counselling":{
+            "definition_by_Carl_Rogers":"Patient counselling is a series of direct contact with the individual which aims to offer him assistance in changing his attitudes and behaviours.",
+            "basic_elements_in_councelling":{
+                "conversation_skills":"",
+                "trust":"",
+                "confidentiality":"",
+                "self-determination":"",
+                "positive_approach":"",
+                "focusing_on_feelings":"",
+                "empathy":"",
+                "congruence_of_the_counselor":"",
+                "unconditional_positive_regard":"",
+                "warm,_openness_and_geniuses":""
+            },
+            "steps":[
+                "Rapport building",
+                "Identification of the needs or problems of the client",
+                "Finding ways to solve the problem",
+                "Maintaining patience",
+                "Keeping secret",
+                "Follow up"
+            ],
+            "types":{
+                "patient_centered_counseling":{
+                    "other_name":"Patient counseling",
+                    "definition":"Patient centered counseling is the process of helping a patient in <b>identifying</b> the cause of his health problem, providing him information about necessary <b>preventive measures</b> and<b> control measures</b>, and encouraging him to take necessary actions to<b> solve his problem</b> by his own and not by force."
+                },
+                "behavioural_counseling":{
+
+                }
+            },
+            "qualities_of_good_counselor":[
+                "Respecting others",
+                "Ability to solve problems",
+                "Ability to convince/ motivate",
+                "Ability to co-operate/ friendly behaviour",
+                "Ability to give advice indirectly",
+                "Skills of communications/ clear voice",
+                "Patience to listen",
+                "Smiling face/ polite/ Good presentation skills."
+            ]
+        },
+        "educational_diagnosis":{
+            "definition":"Educational diagnosis is the process of identifying the educational factors related to the health problem in the society.",
+            "study_of":{
+                "predisposing_factors":[
+                    "Knowledge",
+                    "Attitude",
+                    "Beliefs",
+                    "Practice of people"
+                ],
+                "enabling_factors":[
+                    "Availability",
+                    "Accessibility of resources"
+                ],
+                "reinforcing_factors":"Attitudes and behaviours of health personnel and society members."
+            
+            }
+        }
+    }
+}

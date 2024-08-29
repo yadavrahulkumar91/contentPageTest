@@ -1,0 +1,126 @@
+{
+  "Classification of Hormones":{
+    "According to Chemical structure":{
+      "Protein hormones/ Peptide hormones":{
+        
+      },
+      "Amine hormones/ Amino acid derivative hormones":{
+        
+      },
+      "Steroid hormones":{
+        
+      }
+    },
+    "According to Mechanism of Action":{
+      "Hormones acting on Cell membrane receptors":{
+        "Hormones acting at enzyme linked receptor":{
+          "mermaid":[{
+            "type":"graph TD",
+            "data":[
+              "Binding of hormone to the cell membrane receptor activates the intracellular enzyme (which is linked to that receptor)",
+              "Initiate cascade of chemical reactions which bring the physiological effects of that hormone. E.g. Insulin, GH, PRL, Leptin"
+            ]
+          }]
+        },
+        "Hormones acting via second messenger system":{
+          "Adenyly cyclase-cAMP second messenger system":{
+            "mermaid":[{
+            "type":"graph TD",
+            "data":[
+              "Binding of hormone to a G-protein coupled receptor on cell membrane",
+              "Splitting of α-subunit of G-protein from β & γ subunits",
+              "α-subunit activates Adenylyl cyclase enzyme",
+              "Increased formation of cAMP from ATP",
+              "Activation of protein kinase A",
+              "Phosphorylation of other proteins/ enzymes",
+              "Physiological effects"
+            ]
+          }],
+            "Examples":[
+              "Epinephrine",
+              "Glucagon",
+              "Nor-epinephrine",
+              "TSH",
+              "FSH",
+              "LH",
+              "ACTH",
+              "PTH",
+              "Calcitonin",
+              "Hypothalamic releasing hormones",
+              "Vasopressin (V<sub>2</sub>)"
+            ]
+          },
+          "IP3-DAG second messenger system":{
+            "mermaid":[{
+            "type":"graph TD",
+            "data":[
+              "Binding of hormone to G protein coupled receptor on cell membrane",
+              "Activation of phospholipase C",
+              "Breakdown of PIP<sub>2</sub> into"
+            ]
+            }]
+          },
+          "Cyclic GMP (cGMP) as second messenter":{
+            "Examples":[
+              "ANP (Atrial Natriuretic Peptide)",
+              "NO (Nitric Oxide)"
+            ]
+          },
+          "JAK/STAT mechanism":{
+            "mechanism":{
+              "mermaid":[{
+                "type":"graph TD",
+                "data":[
+                   "Hormones bind cell surface receptor",
+                  "Activated Janus Kinases (JAKs) phosphorylate tyrosine residues on surface receptor",
+                  "Signal transducers and activators or transcription (STATs) recruited and phosphorylated by JAKs",
+                  "Activated STATs dimerize and translocate to nucleus",
+                  "Modify gene expression"
+                ]
+              }],
+              "Examples":[
+                "Growth hormones",
+                "Erythropoietin",
+                "Cytokines"
+              ]
+              
+            }
+            
+          }
+        }
+      },
+      "Hormones acting at cytoplasmic receptor":{
+        "mechanism":{
+          "mermaid":[{
+            "type":"graph TD",
+            "data":[
+              "Steroid hormones freely diffuse via cell membrance",
+              "Hormone form complex with cytoplasmic receptor",
+              "Hormone receptor complex migrates to nucleus",
+              "Regulates gene expression",
+              "Brings the Physiological effects"
+            ]
+            }]
+        },
+        "Examples":[
+          "All steroid hormones"
+        ]
+      },
+      "Hormones acting at nuclear receptor":{
+        "Mechanism":{
+          "mermaid":[{
+            "type":"graph TD",
+            "data":[
+              "Hormones bind to nuclear receptors",
+              "Regulates the gene expression"
+            ]
+            }]
+        },
+        "Examples":[
+          "Thyroxine (T<sub>4</sub>)",
+          "Triiodothyronine (T<sub>3</sub>)"
+        ]
+      }
+    }
+  }
+}

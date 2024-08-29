@@ -1,0 +1,126 @@
+{
+  "General features": {
+    "": "The genus <i>Entamoeba</i> is usually found in the intestine of vertebrates and invertebrates.",
+    "Characteristics": "<i>Entamoeba</i> is characterized by a Vesicular nucleus containing an Endosome (Nucleolus).",
+    "Vesicular nuclei": {
+      "": "Contain a large amount of nucleoplasm and a small amount of chromatin material.",
+      "Structure": [
+        "Vesicular nuclei consist of a nuclear membrane which binds the nucleoplasm in which the endosome (Karyoasome) or nucleolus is located centrally.",
+        "The endosome is devoid of DNA whereas the nucleolus possesses it (DNA)."
+      ]
+    },
+    "Common species of Entamoeba found in humans": [
+      "<i>Entamoeba histolytica</i>",
+      "<i>Entamoeba coli</i>",
+      "<i>Entamoeba gingivalis</i>"
+    ]
+  },
+  "Entamoeba histolytica": {
+    "__image": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Entamoeba_histolytica_trophozoite.png",
+        "caption":"<i>Entamoeba histolytica</i>"
+      }
+    ],
+    "": "<i>Entamoeba histolytica</i> is commonly called a tissue-dissolving parasite.",
+    "Habitat (Location in the Human body)": [
+      "<i>Entamoeba histolytica</i> is an Endoparasite, a pathogenic intestinal parasite found in:",
+      "The lower part of the Ileum of humans.",
+      "The upper part of the colon."
+    ],
+    "Host": "<i>Entamoeba histolytica</i> has only one host and is thus monogenetic.",
+    "Pathogenicity": [
+      "<i>Entamoeba histolytica</i> causes Amoebiasis/Amoebic dysentery and Liver abscess in chronic conditions.",
+      "Stool of a person suffering from amoebiasis is acidic."
+    ],
+    "Cellular structure": {
+      "Forms": [
+        "<i>Entamoeba histolytica</i> has two forms: Magna and Minuta.",
+        {
+          "Comparison between Magna and Minuta": {
+            "Magna (Trophozoite)": [
+              "Pathogenic form.",
+              "Found in the mucosa and submucosa of the intestine forming ulcers.",
+              "Feeding form.",
+              "No fixed shape, larger in size, motile, and active."
+            ],
+            "Minuta (Precyst and Cyst)": [
+              "Non-pathogenic form.",
+              "Found in the lumen of the intestine.",
+              "Non-feeding form.",
+              "Spherical, small in size, non-motile, and inactive."
+            ]
+          }
+        }
+      ],
+      "Structural Characteristics": [
+        "<i>Entamoeba histolytica</i> is trimorphic: Trophozoite (Magna), Cyst, and Precyst (Minuta).",
+        "The most pathogenic, motile, and active feeding stage of <i>Entamoeba histolytica</i> is the Trophozoite, which is typically monopodial, producing one large, finger-like pseudopodium at a time.",
+        "<i>Entamoeba</i> has no contractile vacuole, differentiating it from <i>Amoeba</i>."
+      ]
+    },
+    "Life cycle": {
+      "__image": [
+      {
+        "url": "https://www.cdc.gov/dpdx/amebiasis/modules/Amebiasis_LifeCycle_lg.jpg",
+        "caption":"Life cycle of <i>Entamoeba histolytica</i>",
+        "width":"400"
+      }],
+      "Reproduction": [
+        "Trophozoites of <i>Entamoeba</i> reproduce mitotically (binary fission) within the host's gut.",
+        "Minuta forms undergo encystation in the lumen of the intestine.",
+        "Minuta forms of <i>Entamoeba</i> form 'Precystic amoeba'.",
+        "Encystment takes place by the action of Trypsin."
+      ],
+      "Cyst": [
+        "A mature cyst is called a Quadrinucleate cyst.",
+        "It has four nuclei and two chromatoidal bodies or bars.",
+        {
+          "__note": [
+            {
+              "data": {
+                "Chromatoidal bodies": "Aggregations of ribosomes found in cysts of some amoebae including <i>Entamoeba histolytica</i> and <i>Entamoeba coli</i>. They exist in the cytoplasm and are dark-staining."
+              }
+            }
+          ]
+        },
+        "The reserve food material in the cyst of <i>Entamoeba histolytica</i> is Glycogen.",
+        "The Quadrinucleated cyst is the infective stage.",
+        "Each cyst of <i>Entamoeba</i> gives rise to 8 individuals.",
+        "Cysts are highly resistant to desiccation and certain chemicals (e.g., chlorinated compounds)."
+      ]
+    },
+    "Mode of Transmission": [
+      "Contaminated food and water with cysts.",
+      "<i>Entamoeba histolytica</i> is mainly transmitted by houseflies."
+    ],
+    "Treatment": {
+      "Effective drugs": [
+        "Metronidazole",
+        "Tinidazole",
+        "Ornidazole"
+      ]
+    }
+  },
+  "Entamoeba coli": {
+    "": "<i>Entamoeba coli</i> is more common than <i>E. histolytica</i>.",
+    "Habitat": "<i>Entamoeba coli</i> inhabits the human colon.",
+    "Parasitic nature": "<i>Entamoeba coli</i> is a commensal parasite, generally considered non-pathogenic in humans.",
+    "Life cycle": [
+      "The trophozoite of <i>Entamoeba coli</i> does not ingest or invade host tissues.",
+      "The mature cyst is Octanucleate, i.e., it characteristically contains eight visceral nuclei but usually produces four amoebulae.",
+      "<i>Entamoeba coli</i> is monogenetic, and infection is oral through contaminated food and water."
+    ],
+    "Treatment": "Because <i>Entamoeba coli</i> is a commensal, no treatment is required."
+  },
+  "Entamoeba gingivalis": {
+    "": "<i>Entamoeba gingivalis</i> lives on the surface of the teeth and gums and also in the gingival pockets near the base of the teeth.",
+    "Parasitic nature": "<i>Entamoeba gingivalis</i>, like <i>Entamoeba coli</i>, is a commensal and non-pathogenic.",
+    "Habitat": "<i>Entamoeba gingivalis</i> is found in people with unhygienic oral conditions (i.e., gingivitis or periodontitis).",
+    "Life cycle": {
+      "Adult form": "The adult form is called a trophozoite and has 2-3 pseudopodia.",
+      "Cyst": "A cyst is not formed in <i>E. gingivalis</i> and it is transmitted either directly (kissing) or indirectly via trophozoite-contaminated food, sharing eating utensils, toothpicks, etc."
+    },
+    "Associated condition": "Pyorrhoea is aggravated by <i>Entamoeba gingivalis</i> but caused by <i>Trichomonas buccalis</i>."
+  }
+}

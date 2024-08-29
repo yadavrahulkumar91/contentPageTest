@@ -1,0 +1,563 @@
+{
+    "Lesson plan": {
+        "Anatomy of Digestive System": {
+            "Alimentary canal": {
+                "Mouth": "",
+                "Oral cavity": {
+                    "Vestibule": "",
+                    "Oral cavity proper/ Buccal cavity": ""
+                },
+                "Oesophagus": "",
+                "Stomach": {
+                    "Cardiac part": [
+                        "Fundus",
+                        "Body"
+                    ],
+                    "Pyloric part": [
+                        "Pyloric canal",
+                        "Pyloric antrum"
+                    ]
+                },
+                "Small intestine": [
+                    "Duodenum",
+                    "Jejunum",
+                    "Ileum"
+                ],
+                "Appendix": "",
+                "Large intestine": {
+                    "Colon": [
+                        "Ascendic colon",
+                        "Transverse colon",
+                        "Descending colon",
+                        "Sigmoid colon"
+                    ]
+                },
+                "Rectum": "",
+                "Anus": ""
+            },
+            "Accessory organs": [
+                "Teeth",
+                "Tongue"
+            ],
+            "Digestive glands": [
+                "Salivary glands",
+                "Pancreas",
+                "Liver"
+            ]
+        },
+        "Physiology of Digestive System": {
+            "Control of digestive system": {
+                "Neural control": "",
+                "Hormonal control": ""
+            },
+            "Digestion process": {
+                "Digestion of Carbohydrates": "",
+                "Digestion of Fats": "",
+                "Digestion of Proteins": ""
+            },
+            "Absorption process": {
+                "Absorption of Carbohydrates and Proteins": "",
+                "Absorption of Fats": ""
+            }
+        },
+        "Nutrition": {
+            "Energy giving food": [
+                "Carbohydrates",
+                "Fats"
+            ],
+            "Body building food": [
+                "Proteins"
+            ],
+            "Protective food": [
+                "Vitamins",
+                "Minerals"
+            ],
+            "Dietary fibres": "",
+            "Water": ""
+        }
+    },
+    "Mouth": {
+        "Lips": {
+            "Upper lip": {
+                "Philtrum": [
+                    "It is the depresseion in upper lip."
+                ],
+                "Vibrissae/ Whiskers": [
+                    "Hair present in upper lip of Rabbit.",
+                    "Used to sense the movement."
+                ]
+            },
+            "Lower lip": "",
+            "notes": [
+                "Lips are absent in frog."
+            ]
+        }
+    },
+    "Oral cavity": {
+        "Vestibule": "Space between the lips, cheeks, gums and teeth.",
+        "Oral cavity proper/ Buccal cavity": {
+            "Lining": "Stratified Squamous epithelium",
+            "Roof": {
+                "Palate": {
+                    "Hard palate": "",
+                    "Soft palate": {
+                        "Uvula/ Velum": [
+                            "Posterior hanging part of soft palat.",
+                            "Moves upward during swallowing."
+                        ]
+                    }
+                }
+            },
+            "Floor": {
+                "Teeth": "",
+                "Tongue": ""
+            },
+            "Posterior side": {
+                "Tonsils": {
+                    "Pharngeal/ Adenoid tonsil": "",
+                    "Lingual tonsil": "",
+                    "Palatine tonsil": "",
+                    "notes": [
+                        "Tonsils are lymphoid organs.",
+                        "They are arranged in ring like pattern called as <b>Waldeyer's ring</b>."
+                    ]
+                }
+            }
+        }
+    },
+    "Oesophagus": "",
+    "Stomach": {
+        "Cardiac part": [
+            "Fundus",
+            "Body"
+        ],
+        "Pyloric part": [
+            "Pyloric canal",
+            "Pyloric antrum"
+        ]
+    },
+    "Small intestine": [
+        "Duodenum",
+        "Jejunum",
+        "Ileum"
+    ],
+    "Appendix": "",
+    "Large intestine": {
+        "Colon": [
+            "Ascendic colon",
+            "Transverse colon",
+            "Descending colon",
+            "Sigmoid colon"
+        ]
+    },
+    "Rectum": "",
+    "Anus": "",
+    "Teeth": {
+        "Study of teeth": "Dentistry or Odontology",
+        "Origin of teeth": {
+            "Ecto-mesodermal": [
+                "Enamel &rarr Ectoderm",
+                "Rest &rarr Mesoderm"
+            ]
+        },
+        "Parts of teeth": {
+            "Crown": "Projecting above the gum.",
+            "Neck": "Between the crown and root.",
+            "Root": "Embedded in the jaw beneath the gum."
+        },
+        "Structure of teeth": {
+            "Enamel": [
+                "White and shining part of teeth",
+                "Hardest substance of Human body due to present of Fluorine",
+                "Richest in calcium salt.",
+                "Produced by ameloblast or amyloblast."
+            ],
+            "Dentine": [
+                "Hardest tissue of human body.",
+                "Produced by odontoblast."
+            ],
+            "Pulp cavity": [
+                "Cavity of teeth.",
+                "Filled with connective tissue, blood vessels, nerves and lymphatics.",
+                "Lined by odontoblast."
+            ],
+            "Cementum": [
+                "Present between teeth and gums."
+            ],
+            "Periodontal membrane": [
+                "Holds the root in socket."
+            ]
+        },
+        "Types of teeth": {
+            "On the basis of Shape": {
+                "table": [
+                    {
+                        "data": [
+                            [
+                                "Name of teeth",
+                                "Number in each quadrant",
+                                "Uses",
+                                "Special"
+                            ],
+                            [
+                                "Incisor",
+                                "2",
+                                "Cutting and shearing food",
+                                "Tusks of Elephant is Modified Incisor."
+                            ],
+                            [
+                                "Canine",
+                                "1",
+                                "Gripping and tearing food",
+                                [
+                                    "More developed in carnivores",
+                                    "Tusks of walrus is modified canines."
+                                ]
+                            ],
+                            [
+                                "Premolar",
+                                "2",
+                                "Crushing and grinding food",
+                                ""
+                            ],
+                            [
+                                "Molar",
+                                "3",
+                                "Crushing and grinding food",
+                                [
+                                    "The third molars appear very late, are non-functional in human and are called <b>Wisdom teeth.</b>"
+                                ]
+                            ]
+                        ]
+                    }
+                ],
+                "notes": [
+                    "Frangs of snakes are modified maxillary teeth."
+                ]
+            },
+            "On the basis of Appearance in life": {
+                "table": [
+                    {
+                        "data": [
+                            [
+                                "Name of teeth",
+                                "Appearance",
+                                "Examples"
+                            ],
+                            [
+                                "Monophyodont",
+                                "Once in life",
+                                [
+                                    "Premolar and last molar of man"
+                                ]
+                            ],
+                            [
+                                "Diphyodont",
+                                "Twice in life",
+                                [
+                                    "Incisor",
+                                    "Canines",
+                                    "Molar"
+                                ]
+                            ],
+                            [
+                                "Polyphyodont",
+                                "Many times in life",
+                                [
+                                    "Fish",
+                                    "Amphibians"
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "On the basis of Position in Jaw": {
+                "table": [
+                    {
+                        "data": [
+                            [
+                                "Name of teeth",
+                                "Position in Jaw",
+                                "Examples"
+                            ],
+                            [
+                                "Thecodont",
+                                "In Bony socket",
+                                [
+                                    "Man",
+                                    "Crocodile"
+                                ]
+                            ],
+                            [
+                                "Pleurodont",
+                                "On the lateral side of Jaw bone",
+                                [
+                                    "Reptile"
+                                ]
+                            ],
+                            [
+                                "Acrodont",
+                                "On the terminal part of Jaw bone",
+                                [
+                                    "Fish",
+                                    "Amphibians"
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "On the basis of Structure and Function": {
+                "table": [
+                    {
+                        "data": [
+                            [
+                                "Name of teeth",
+                                "Appearance",
+                                "Examples"
+                            ],
+                            [
+                                "Heterodont",
+                                "Different types",
+                                [
+                                    "Mammal"
+                                ]
+                            ],
+                            [
+                                "Diphyodont",
+                                "All teeth same type",
+                                [
+                                    "Incisor"
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "On the basis of Crown": {
+                "table": [
+                    {
+                        "data": [
+                            [
+                                "Name of teeth",
+                                "Characteristic",
+                                "Examples"
+                            ],
+                            [
+                                "Secodont",
+                                "Canine teeth become long and pointed and bend backwards.",
+                                [
+                                    "Canine teeth of carnivorous animals"
+                                ]
+                            ],
+                            [
+                                "Hypsodont",
+                                "Crown part is large and root is small or absent.",
+                                [
+                                    "Incisor",
+                                    "Canines"
+                                ]
+                            ],
+                            [
+                                "Brachyodont (Cheek teeth)",
+                                "Crown part is small and root is long.",
+                                [
+                                    "Premolar",
+                                    "Molar"
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "On the basis of Lophs": {
+                "table": [
+                    {
+                        "data": [
+                            [
+                                "Name of teeth",
+                                "Lophs shape",
+                                "Examples"
+                            ],
+                            [
+                                "Lophodont",
+                                [
+                                    "Large",
+                                    "Wide",
+                                    "Flat"
+                                ],
+                                [
+                                    "Rabbit",
+                                    "Elephant"
+                                ]
+                            ],
+                            [
+                                "Bunodont",
+                                [
+                                    "Small",
+                                    "Spherical"
+                                ],
+                                [
+                                    "Humans"
+                                ]
+                            ],
+                            [
+                                "Solenodont",
+                                [
+                                    "Large",
+                                    "Semilunar"
+                                ],
+                                [
+                                    "Ruminant animal"
+                                ]
+                            ],
+                            [
+                                "Carnessial",
+                                [
+                                    "Long",
+                                    "Pointed"
+                                ],
+                                [
+                                    "Carnivorous animals"
+                                ]
+                            ]
+                        ]
+                    }
+                ]
+            }
+        },
+    "Dental formula": {
+            "Milk/temporary teeth in man": {
+                "math": [
+                    {
+                        "data": "\\frac{2102}{2102}"
+                    }
+                ]
+            },
+            "Permanent teeth in man": {
+                "math": [
+                    {
+                        "data": "\\frac{2123}{2123}"
+                    }
+                ]
+            },
+            "Teeth in rabbit": {
+                "math": [
+                    {
+                        "data": "\\frac{2033}{1023}"
+                    }
+                ]
+            }
+        }
+    },
+    "Tongue": {
+        "Parts": {
+            "Papillary part": {
+                "Location": "Anterior 2/3 part of the tongue",
+                "Papillae": {
+                    "Circumvalate papillae/ Valate papillae": [
+                        "Largest papillae.",
+                        "Least in number."
+                    ],
+                    "Fungiform papillae": [
+                        "Mushroom shaped."
+                    ],
+                    "Filliform papillae": [
+                        "Thread like.",
+                        "Taste buds are absent."
+                    ],
+                    "Foliate papillae": [
+                        "Vestigial in human."
+                    ]
+                }
+            
+        },
+        "Pharyngeal part": [
+            "Posterior 1/3 part of the tongue."
+        ]
+    },
+    "Taste areas": [
+        "Salt and sweet &rarr Tip",
+        "Sour &rarr Side",
+        "Bitter &rarr Back",
+        "Umami &rarr Taste of meat"
+    ]
+},
+"Salivary glands": {
+  "table": [
+    {
+        "data": [
+            [
+                "Salivary glands",
+                "No.",
+                "Ducts",
+                "Location",
+                "Features"
+            ],
+            [
+                "Parotid gland",
+                "1 pair",
+                "Stenson's duct",
+                "Beneath ears",
+                [
+                    "Largest salivary gland",
+                    "Compound tubulo-acinar gland",
+                    "Mumps is a viral disease by Paramyxovirus causing painful inflammation of parotid glands."
+                ]
+            ],
+            [
+                "Sublingual gland",
+                "1 pair",
+                "Duct of Rivinus or Duct of Bartholin",
+                "Beneath tongue",
+                [
+                    "Smallest salivary gland",
+                    "Compound acinar gland"
+                ]
+            ],
+            [
+                "Submaxillary gland or Submandibular gland",
+                "1 pair",
+                "Wharton's duct",
+                "Jaw angles",
+                [
+                    "Compound acinar gland"
+                ]
+            ],
+            [
+                "Infraorbital gland or Zygomatic gland",
+                "1 pair",
+                "",
+                "Beneath eye orbits",
+                [
+                    "Not in man, found in Rabbit"
+                ]
+            ]
+        ]
+    }
+]
+
+},
+"Pancreas": {},
+"Liver": {},
+"Digestion process": {
+    "Digestion of Carbohydrate": {},
+    "Digestion of Proteins": {},
+    "Digestion of Fats": {}
+},
+"Absorption process": {
+    "Absorption of Carbohydrate and Proteins": {},
+    "Absorption of Fats": {}
+},
+"Neural control of Digestive system": {},
+"Hormonal control of Digestion": {},
+"Carbohydrates": {},
+"Fats": {},
+"Proteins": {},
+"Amino acids": {},
+"Vitamins": {},
+"Minerals": {},
+"Dietary fibres": "",
+"Water": ""
+}
