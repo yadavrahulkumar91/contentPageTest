@@ -14,12 +14,12 @@ export default function QA ({ Question_answer }) {
         <span dangerouslySetInnerHTML={{ __html: qa.Question }} />
         <span style={{ display: 'flex', justifyContent: 'flex-end' }}>
           {qa.Marks.length > 0 ? marks(qa.Marks) : null}
-          {qa.Asked_year.length > 0 ? askyear(qa.Asked_year) : null}
+          {qa.Asked_year.length > 0 ? Askyear(qa.Asked_year) : null}
         </span>
       </div>
 
       <div style={{ display: 'flex' }}>
-        <span>
+        <span>d
           <p style={{ marginLeft: ' 5px', marginRight: '5px' }}>➤</p>{' '}
         </span>
         <span dangerouslySetInnerHTML={{ __html: qa.Answer }} />
@@ -28,7 +28,7 @@ export default function QA ({ Question_answer }) {
   ))
 }
 
-function askyear (years) {
+export function Askyear (years) {
   return (
     <p>
       [

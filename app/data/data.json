@@ -1,503 +1,107 @@
 {
-  "Background": {
-    "Classification of Organism": {
-      "Two kingdom System of Classification": {
-        "__org": [
-          {
-            "type": "LINEA",
-            "data": {
-              "name": "Two kingdom System of Classification",
-              "about": "Whole organisms are grouped into  kingdoms",
-              "children": [
-                {
-                  "name": "Animal",
-                  "about": "It was divided into 9 phylums",
-                  "children": [
-                    {
-                      "name": "Invertebrates",
-                      "children": [
-                        {
-                          "name": "1. Protozoa"
-                        },
-                        {
-                          "name": "2. Porifera"
-                        },
-                        {
-                          "name": "3. Coelenterata"
-                        },
-                        {
-                          "name": "4. Platyhelminthes"
-                        },
-                        {
-                          "name": "5. Nemathelminthes"
-                        },
-                        {
-                          "name": "6. Annelida"
-                        },
-                        {
-                          "name": "7. Arthropoda"
-                        },
-                        {
-                          "name": "8. Mollusca"
-                        },
-                        {
-                          "name": "9. Echinodermata"
-                        }
-                      ]
-                    },
-                    {
-                      "name": "Vertebrates",
-                      "children": [
-                        {
-                          "name": "1. Pisces"
-                        },
-                        {
-                          "name": "2. Amphibian"
-                        },
-                        {
-                          "name": "3. Reptiles"
-                        },
-                        {
-                          "name": "4. Aves"
-                        },
-                        {
-                          "name": "5. Mammalia"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "Plantae",
-                  "about": "It was divided into 9 phylums",
-                  "children": [
-                    {
-                      "name": "Cryptogams",
-                      "children": [
-                        {
-                          "name": "1. Algae"
-                        },
-                        {
-                          "name": "2. Bryophyta"
-                        },
-                        {
-                          "name": "3. Pteridophyta"
-                        }
-                      ]
-                    },
-                    {
-                      "name": "Phanerogams",
-                      "children": [
-                        {
-                          "name": "Gymnosperms"
-                        },
-                        {
-                          "name": "Angiosperms",
-                          "children": [
-                            {
-                              "name": "Dicots"
-                            },
-                            {
-                              "name": "Monocots"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
+    "age": "22",
+    "School": "Trinity",
+    "Height": "34",
+    "Name": {
+        "First name": "Raman",
+        "Middle name": "Kumar",
+        "Last name": {
+            "Short form last name": "Ydv",
+            "Full form last name": {}
+        }
+    },
+    "About me": [
+        "This is me Rahul Kumar Yadva.",
+        "This is super talent man.",
+        "This is very good man.",
+        [
+            "Now talk about raman here",
+            "This is also good boy."
+        ],
+        "This lives in kathmandu.",
+        {
+            "Name": {
+                "First name": "Raman",
+                "Middle name": "Kumar",
+                "Last name": {
+                    "Short form last name": "Ydv",
+                    "Full form last name": {}
                 }
-              ]
             }
-          }
-        ]
-      },
-      "5 kingdom System of Classification": {
-        "__org": [
-          {
-            "type":"FISHBONE_1",
-            "data": {
-              "name": "5 kingdom System of Classification",
-              "about": "This is the main Kingdom",
-              "children": [
-                {
-                  "name": "Monera",
-                  "children": [
-                    {
-                      "name": "Protozoa",
-                      "children": [
-                        {
-                          "name": "Amoeboids",
-                          "about": "I am amoeba actually."
-                        },
-                        {
-                          "name": "Flagellates"
-                        },
-                        {
-                          "name": "Ciliates"
-                        },
-                        {
-                          "name": "Sporozoans"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "Protista",
-                  "about": "This is the main Kingdom",
-                  "children": [
-                    {
-                      "name": "Protozoa",
-                      
-                          "children": [
-                            {
-                              "name": "Mastigophora/ Zooglagellata",
-                              "about": ""
-                            },
-                            {
-                              "name": "Sarcodina"
-                            },
-                            {
-                              "name": "Sporozoa"
-                            },
-                            {
-                              "name": "Ciliata"
-                            }
-                          ]
-                        
-                    },
-                    {
-                      "name": "Photosynthetic protists",
-                      
-                          "children": [
-                            {
-                              "name": "Pyrrophyta/ Dinophyta/ Dinoflagellates"
-                            },
-                            {
-                              "name": "Chrysophyta"
-                            },
-                            {
-                              "name": "Euglenophyta"
-                            }
-                          ]
-                     
-                      
-                    },
-                    {
-                      "name": "Slime moulds",
-                      "children": [
-                        {
-                          "name": "Plasmodial slime molds"
-                        },
-                        {
-                          "name": "Cellular slime molds"
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "name": "Mycota",
-                  "children": [
-                    {
-                      "name": "Slime molds"
-                    },
-                    {
-                      "name": "Water molds"
-                    }
-                  ]
-                },
-                {
-                  "name": "Plantae",
-                  "children": [
-                    {
-                      "name": "Slime molds"
-                    },
-                    {
-                      "name": "Water molds"
-                    }
-                  ]
-                },
-                {
-                  "name": "Animalia",
-                  "children": [
-                    {
-                      "name": "Slime molds"
-                    },
-                    {
-                      "name": "Water molds"
-                    }
-                  ]
-                }
-              ]
-            }
-          }
-        ]
-      }
-    }
-  },
-  "General features": {
+        },
+        "This is fine"
+    ],
     "__image": [
-      {
-        "url": "https://static.vecteezy.com/system/resources/previews/002/803/162/original/illustration-of-healthcare-and-medical-education-drawing-chart-of-amoeba-for-science-biology-study-vector.jpg",
-        "width": "300",
-        "caption": "Well labelled diagram of <i>Amoeba<i>",
-        "credit": "Vecteezy"
-      }
-    ],
-    "Science of Protozoa": "Protozoology",
-    "Cell structure of protozoa": [
-      "Microscopic",
-      "Unicellular or Acellular with one or more nuclei"
-    ],
-    "Grade or organization": "Protoplasmic level of body organization/ Acellular/ Molecular level of body organization.",
-    "Symmetry": {
-      "": "Usually asymmetrical",
-      "Exception": [
-        "<i>Giardia lamblia</i> is bilaterally symmetrical.",
-        "Volvox is spherical symmetrical."
-      ]
-    }
-  },
-  "Mode of life": {
-    "": "Free living or Parasitic",
-    "Free-living protozoans": [
-      "<i>Amoeba</i>",
-      "<i>Paramecium</i>",
-      "<i>Euglena</i>",
-      "<i>Volvox</i>"
-    ],
-    "Parasitic protozoans": {
-      "<i>Entamoeba</i>": "Colonize on Large intestine mucosa.",
-      "<i>Giardia lamblia</i>": "Inhabits in crypts of Duodenum and Upper part of jejunum of man.",
-      "<i>Balantidium</i>": "Resides in the Large intestine, similar to <i>Entamoeba histolytica</i>.",
-      "<i>Plasmodium</i>": "Resides in Liver and Blood.",
-      "<i>Leishmania donovani</i>": "Resides in Reticulo-endothelial system.",
-      "<i>Trypansoma</i>": "Resides in Blood lymph, spleen, CNS and Cerebrospinal fluid.",
-      "<i>Trichomonas</i>": "Resides in Genital tract and causes Vaginitis."
-    }
-  },
-  "Colonization": {
-    "": "Majority of protozoans are solitary.",
-    "Exceptions": "Volvox and Proterospongia are colonial."
-  },
-  "Body covering": {
-    "Shelled protozoans": [
-      "<i>Arcella</i>",
-      "<i>Difflugia</i>",
-      "<i>Elphidium</i>",
-      "<i>Foraminiferans</i>"
-    ],
-    "Radiolarians": "Continuous internal skeleton between ectoplasm and endoplasm is found."
-  },
-  "Locomotion": {
-    "": "Protozoan class that does not carry its name after locomotory organ is Sporozoa.",
-    "Types of locomotory organs": {
-      "__table": [
         {
-          "data": [
-            [
-              "Locomotory organelle",
-              "Protozoans"
-            ],
-            [
-              "Pseudopodia (Lobopodia)",
-              "Amoeba"
-            ],
-            [
-              "Flagella",
-              [
-                "Euglena",
-                "Trypanosoma",
-                "Giardia"
-              ]
-            ],
-            [
-              "Cillia",
-              "Paramecium"
-            ]
-          ]
-        }
-      ],
-      "__org": [
-        {
-          "data": {
-            "name": "Protista",
-            "about": "This is the main Kingdom",
-            "children": [
-              {
-                "name": "Animal-like",
-                "children": [
-                  {
-                    "name": "Protozoa",
-                    "children": [
-                      {
-                        "name": "Amoeboids",
-                        "about": "I am amoeba actually."
-                      },
-                      {
-                        "name": "Flagellates"
-                      },
-                      {
-                        "name": "Ciliates"
-                      },
-                      {
-                        "name": "Sporozoans"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "name": "Plant-like",
-                "children": [
-                  {
-                    "name": "Algae",
-                    "children": [
-                      {
-                        "name": "Chlorophyta (Green algae)"
-                      },
-                      {
-                        "name": "Phaeophyta (Brown algae)"
-                      },
-                      {
-                        "name": "Rhodophyta (Red algae)"
-                      },
-                      {
-                        "name": "Diatoms"
-                      }
-                    ]
-                  },
-                  {
-                    "name": "Euglena"
-                  }
-                ]
-              },
-              {
-                "name": "Fungus-like",
-                "children": [
-                  {
-                    "name": "Slime molds"
-                  },
-                  {
-                    "name": "Water molds"
-                  }
-                ]
-              }
-            ]
-          }
-        }
-      ]
-    }
-  },
-  "Nuclear dimorphism": [
-    "Nuclear dimorphism means nucleus varies from one to several.",
-    "<i>Paramecium</i> shows nuclear dimorphism."
-  ],
-  "Digestion": {
-    "Nutrition": [
-      "Holozoic",
-      "Holophytic",
-      "Saprozoic",
-      "Parasitic",
-      "Mixotropic: Euglena"
-    ],
-    "": "Digestion is always intracellular."
-  },
-  "Osmoregulation": {
-    "__bullet": [
-      {
-        "type": "",
-        "data": [
-          "Osmoregulation takes place in fresh water protozoan with the help of one or two contractile vacuoles which is absent in marine and parasitic protozoans.",
-          "When a fresh water Amoeba is kept in sea water, it loses its contractile vacuole but when a marine Amoeba is kept in fresh water, it develops contractile vacuole."
-        ]
-      }
-    ]
-  },
-  "Respiration": {
-    "__bullet": [
-      {
-        "data": [
-          "Gaseous exchange takes place by diffusion through general body surface."
-        ]
-      }
-    ]
-  },
-  "Excretion": [
-    "Excretion takes place through general body surface.",
-    "They are ammonotelic. (NH<sub>3</sub>)"
-  ],
-  "Reproduction": {
-    "__p": "Reproduction in protozoa may be asexual or sexual.",
-    "Asexual reproduction": {
-      "Binary fission": {
-        "__table": [
-          {
-            "data": [
-              [
-                "Types of Binary Fission",
-                "Protozoans"
-              ],
-              [
-                "Simple Binary Fission",
-                "Paramecium"
-              ],
-              [
-                "Longitudinal Binary Fission",
-                [
-                  "Trypanosoma",
-                  "Euglena"
-                ]
-              ],
-              [
-                "Oblique Binary Fission",
-                "Ceratium"
-              ]
-            ]
-          }
-        ],
-        "__note": [
-          {
             "data": {
-              "": "Binary fission of a multinucleated protozoa into two or more smaller multinucleate daughter individuals is termed as <b>Plasmotomy</b>."
+                "url": "https://cdn.mos.cms.futurecdn.net/owm4oa3hXUG58mka7hPvfP-1200-80.jpg",
+                "width": "500"
             }
-          }
-        ]
-      },
-      "Budding": {
-        "__p": "Budding is a modified binary fission resulting in a single or many daughter individuals in addition to the parent.",
-        "Examples": [
-          "<i>Vorticella</i>",
-          "<i>Ephelota</i>"
-        ]
-      }
-    },
-    "Sexual reproduction": {
-      "Syngamy": "Syngamy is fusion of two sex cells.",
-      "Conjugation": "Conjugation is temporary contact of two individuals with nuclear exchange."
-    },
-    "__note": [
-      {
-        "data": {
-          "": [
-            "In most protozoa, sexually mature individual is haploid.",
-            "Many protozoans form cyst which help them in overcoming unfavourable conditions and cause dispersal."
-          ]
         }
-      }
+    ],
+    "__mcq": [
+        {
+            "id": 2,
+            "qu": "What is your name",
+            "a": "Rahul",
+            "b": "Raman",
+            "c": "Santosh",
+            "d": "Shova",
+            "ans": "a",
+            "sol": "Rahul is correct ansewr",
+            "Hardness_level": null,
+            "Category": null,
+            "Asked_year": [
+                {
+                    "id": 23,
+                    "Asked_year": "2067"
+                }
+            ]
+        }
+    ],
+    "__org": [
+        {
+            "type":"SINGLE_COLUMN_LEFT",
+            "data": {
+                "name": "Language of Chemistyr",
+                "children": [
+                    {
+                        "name": "Matter",
+                        "children": [
+                            {
+                                "name": "Pure matter "
+                            },
+                            {
+                                "name": "Impure matter ",
+                                "children": [
+                                    {
+                                        "name": "Mixure",
+                                        "children": [
+                                            {
+                                                "name": "Homogenous mixture"
+                                            },
+                                            {
+                                                "name": "Non-homogenous mixture"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Energy"
+                    }
+                ]
+            }
+        }
+    ],
+    "__table":[
+        {
+            "data":[
+                ["S.N", "Matter", "Energy"],
+                ["1", "Matter is anything that occupies space.", "Eneryy doesn't occupy space."]
+            ]
+        }
     ]
-  },
-  "__note": [
-    {
-      "data": {
-        "Trichonympha": [
-          " Trichonympha is symbiotic protozoan found in gut of the termite helping in cellulose digestion.",
-          "Trichonympha secrete <b>Cellulose digesting enzymes.</b>"
-        ],
-        "Monocystis": "Monocystis is parasite in the <b>seminal vesicle of Earthworm</b>.",
-        "Opalina": "Opalina is found in Rectum (Small intestine) of Frog."
-      }
-    }
-  ]
 }

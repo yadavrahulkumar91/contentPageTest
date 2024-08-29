@@ -7,12 +7,12 @@ function Note ({value}) {
         {value && Array.isArray(value) && value.length > 0
           ? value.map((note, index) => (
               <div
-                className='rounded-xl border-black border-2 m-2 overflow-hidden'
+                className='rounded-md border-yellow-600 border m-2 overflow-hidden'
                 key={index} 
               >
-                <div className='bg-red-300 text-2xl'>Note:</div>
-                <div className='bg-yellow-200 font-sans'>
-                  {renderAttributes(note.data, 1)}
+                <div className='bg-yellow-200 text-xl'>Note:</div>
+                <div className='bg-yellow-50 font-sans'>
+                  {renderAttributes(note.data, note.level?note.level: 1)}
                 </div>
               </div>
              ))

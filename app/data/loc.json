@@ -1,0 +1,93 @@
+{
+  "": {
+    "__p": "For chemistry, the whole universe consists only two things and  they are:",
+    "Matter": "Anything that has mass and occupies space.",
+    "__gap": "100px",
+    "Energy": "",
+    "__gap1": "100px"
+  },
+  "Terminologies": {
+    "__p":"To understand matter, we have to be familiar to some terms such as,",
+    "Atom": {
+      "": "The structural and functional unit of any substance; it is the smallest unit of a substance.",
+      "Structure of Atom": {
+        "__right": {
+          "data": {
+            "Proton": {
+              "Charge": "1.6 &times; 10<sup>-19</sup> C",
+              "Mass": "1.6 &times; 10<sup>-27</sup> kg"
+            },
+            "Neutron": {
+              "Charge": "0 C",
+              "Mass": "1.6 &times; 10<sup>-27</sup> kg"
+            },
+            "Electron": {
+              "Charge": "-1.6 &times; 10<sup>-19</sup> C",
+              "Mass": "9.1 &times; 10<sup>-31</sup> kg"
+            }
+          }
+        }
+      }
+    },
+    "Element": {
+      "": "Elements are specific atom which is characterized by fixed number of proton in its nucleus.",
+      "__p":"For e.g: an atom having 6 proton in its nucleus is called carbon",
+      "__p1":"an atom having 11 proton in its nucleus is called sodium.",
+      "__gap":"50px",
+      "__p2":"5 kg block of carbon consists infinite no. of atoms. And all the atoms will  be identical. i.e all atom will have 6 proton. So it is called pure substance which cannot be split into more simpler form."
+    },
+    "Molecule":{
+      "__p":"When two or more atom of same or different kind combine and acts as fundamental unit of a substance then it is called molecules. Each molecule contain all the physical and chemical properties of that substance.",
+      "__p1":"For e.g: a cylinder full of oxygen gas consists infinite no. of O2 molecule. Here, two atom of oxygen combine to form a molecule of oxygen which is represented as O2. each molecule act as      fundamental unit of this gas not each atom of oxygen. And each O2 molecule will have all   the physical and chemical properties of oxygen gas.",
+      "__p2":"a bucket full of water contain infinite no. of H2O molecule. Here two atom of hydrogen and one atom of oxygen combine to form a molecule of water which is represented as H2O.similarly, here also each molecule acts as fundamental unit of water and will show all the  physical and chemical properties of water."
+
+    },
+    "Compounds":{
+      "__p1":"Two of more elements combine together to form molecule and these two or more molecule combine to form compound. So the fundamental unit of compound is molecule but not atom.",
+      "__p2":"For e.g: two or more than two molecule of H2O form compound but two or more than two molecule of H2 don't form compound because H2O have two elements but a molecule H2 don't have two elements. ",
+      "__note":[
+        {
+          "data":{
+            "":"to form a compound, two or more molecule made up of two or more kind of elements should combine."
+          }
+        }
+      ]
+    },
+    "Atomic weight":{
+      "__bullet":[{
+        "data":[
+          "Weight of a atom is called atomic weight. It is measured in atomic mass unit (amu) for convinance.",
+          {"__bullet": [
+              {
+                "data": ["1 amu = 1.66 × 10<sup>-27</sup> kg = 1.66 × 10<sup>-24</sup> g = mass of proton or neutron"]
+              }
+            ]},
+          "Atomic weight of an atom in amu is just the total number of proton and neutron present in the nucleus of that atom.",
+          "Relative Atomic weight of an atom of element is the no. of times by which that atom is heavier than the weight of  1/12th of one atom of carbon element.",
+          {
+            "__bullet": [
+              {
+                "data": ["i.e atomic wt. of a atom =     ((Wt. of that atom))/(1/12 of wt. of 1 atom of carbon)"]
+                }
+              ]
+            },
+                "Atomic wt. of some atom is fractional(decimal) due to presence of isotopes. for example: atomic weight of one atom of chlorine is 35.5",
+          "<b>Isotopes:</b> atoms having same no. of proton but different no. of neutrons which make them atoms of same element having same atomic number but different mass number(atomic weight)."
+        ]
+      }]
+    },
+    "Molecular weight":{
+      "__bullet":[{
+        "data":[
+          "A molecule is made up of two or more than two atom  of same or different kind. And molecular weight of that molecule is sum of atomic weight of all atom present in that molecule.",
+          {"__bullet": [
+            {
+              "data": ["For example: H<ub>2</sub> is a molecule made up of two atom of hydrogen and atomic weight of one hydroge atom is 1, So the molecular weight of H2 molecule become 1 + 1 = 2"]
+              }
+            ]
+          }
+        ]
+      }]
+    }
+  }
+}

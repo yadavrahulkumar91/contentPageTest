@@ -20,7 +20,8 @@ export default function image ({ value }) {
             >
               <img
                 src={image.url}
-                width={image.width ? image.width : 300}
+                width={image.width ? image.width : 500}
+                // height={image.height ? image.height : 600}
                 // width={400}
                 alt={`Image ${index + 1}`}
               />

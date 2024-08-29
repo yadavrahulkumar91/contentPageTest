@@ -42,7 +42,7 @@ const LessonContent = ({ lessonContent }) => {
   //   }
   // }, [])
 
-  return <div className='ml-[-30px]'>{renderAttributes(lessonContent)}</div>
+  return <div className='ml-[-30px] '>{renderAttributes(lessonContent)}</div>
 }
 
 export default LessonContent
@@ -63,28 +63,35 @@ export const renderAttributes = (attributes, level = 0) => {
       )
     })
   } else {
-    return <div className='text-[20px] mx-2'>{attributes}</div>
+    return (
+      <div
+        className="text-[20px] mx-2"
+        dangerouslySetInnerHTML={{ __html: attributes }}
+      >
+        {/* {attributes} */}
+      </div>
+    );
   }
 }
 
 function renderArray (attributes, level) {
   return (
-    <ol className='ml-9'>
+    <ol className="ml-9 max-w-[60%]">
       {attributes.map((value, i) => {
         if (Array.isArray(value)) {
-          return renderArray(value)
-        } else if (typeof value === 'object') {
-          return renderAttributes(value, level)
+          return renderArray(value);
+        } else if (typeof value === "object") {
+          return renderAttributes(value, level);
         } else {
           return (
-            <li className='list-decimal list-outside text-xl' key={i}>
+            <li className="list-decimal list-outside text-xl" key={i}>
               <span dangerouslySetInnerHTML={{ __html: value }} />
             </li>
-          )
+          );
         }
       })}
     </ol>
-  )
+  );
 }
 
 function renderObject (key, value, level) {
@@ -100,6 +107,8 @@ function renderObject (key, value, level) {
     return <Html value={value} />
   } else if (/^__note\d*$/.test(key)) {
     return <Note value={value} />
+  } else if (/^__levelup\d*$/.test(key)) {
+    return renderAttributes(value, level=level+1);
   } else if (/^__p\d*$/.test(key)) {
     return <p className='text-xl ml-6'>{value}</p>
   } else if (/^__bullet\d*$/.test(key)) {
@@ -127,19 +136,20 @@ function renderObject (key, value, level) {
 
 function elseFunction (key, value, level) {
   return (
-    <div key={key} className=''>
+    <div key={key} className="">
       {renderKey(key, level)}
-      {typeof value === 'object' ? (
+      {typeof value === "object" ? (
         renderAttributes(value, level + 1)
       ) : (
         <span
+          className="max-w-[60%] inline-block"
           key={key}
-          style={{ fontSize: '20px' }}
+          style={{ fontSize: "20px" }}
           dangerouslySetInnerHTML={{ __html: value }}
         />
       )}
     </div>
-  )
+  );
 }
 
 function renderKey (key, level) {
@@ -151,7 +161,7 @@ function renderKey (key, level) {
         fontWeight: `${800 - level * 100}`,
         display: level === 0 ? 'block' : null
       }}
-      className={`font-medium text-xl`}
+      className={`font-medium text-xl align-top`}
     >
       {formatBulletin(level)} {formatKey(key, level)}
     </span>

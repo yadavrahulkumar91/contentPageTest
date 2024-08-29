@@ -1,0 +1,696 @@
+{
+  "2 kingdom System of Classification": {
+    "Given by": "Carolous Linnaeus",
+    "Based on": {
+      "__table": [
+        {
+          "data": [
+            [
+              "Basis",
+              "Plant",
+              "Animal"
+            ],
+            [
+              "Cell wall",
+              "Present",
+              "Absent"
+            ],
+            [
+              "Nutrition",
+              "Mostly autotrophic",
+              "Heterotrophic"
+            ],
+            [
+              "Locomotion",
+              "Generally non-motile",
+              "Motile"
+            ]
+          ]
+        }
+      ]
+    },
+    "__org": [
+      {
+        "type": "FISHBONE 1",
+        "data": {
+          "name": "Two kingdom System<br> of Classification",
+          "about": "",
+          "children": [
+            {
+              "name": "Animal",
+              "about": "",
+              "children": [
+                {
+                  "name": "Invertebrates",
+                  "children": [
+                    {
+                      "name": "1. Protozoa"
+                    },
+                    {
+                      "name": "2. Porifera"
+                    },
+                    {
+                      "name": "3. Coelenterata"
+                    },
+                    {
+                      "name": "4. Platyhelminthes"
+                    },
+                    {
+                      "name": "5. Nemathelminthes"
+                    },
+                    {
+                      "name": "6. Annelida"
+                    },
+                    {
+                      "name": "7. Arthropoda"
+                    },
+                    {
+                      "name": "8. Mollusca"
+                    },
+                    {
+                      "name": "9. Echinodermata"
+                    }
+                  ]
+                },
+                {
+                  "name": "Vertebrates",
+                  "children": [
+                    {
+                      "name": "1. Pisces"
+                    },
+                    {
+                      "name": "2. Amphibian"
+                    },
+                    {
+                      "name": "3. Reptiles"
+                    },
+                    {
+                      "name": "4. Aves"
+                    },
+                    {
+                      "name": "5. Mammalia"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Plantae",
+              "about": "",
+              "children": [
+                {
+                  "name": "Cryptogams",
+                  "children": [
+                    {
+                      "name": "1. Thallophyta",
+                      "children": [
+                        {
+                          "name": "Algae"
+                        },
+                        {
+                          "name": "Fungi"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "2. Bryophyta"
+                    },
+                    {
+                      "name": "3. Pteridophyta"
+                    }
+                  ]
+                },
+                {
+                  "name": "Phanerogams",
+                  "children": [
+                    {
+                      "name": "Gymnosperms"
+                    },
+                    {
+                      "name": "Angiosperms",
+                      "children": [
+                        {
+                          "name": "Dicots"
+                        },
+                        {
+                          "name": "Monocots"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "3 kingdom System of Classification": {
+    "Given by": "Ernst Haeckel",
+    "__org": [
+      {
+        "type": "LINEAR",
+        "data": {
+          "name": "Three kingdom System<br> of Classification",
+          "about": "",
+          "children": [
+            {
+              "name": "Protista",
+              "about": ""
+            },
+            {
+              "name": "Plantae",
+              "about": ""
+            },
+            {
+              "name": "Animalia",
+              "about": ""
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "4 kingdom System of Classification": {
+    "Given by": "Copeland",
+    "__org": [
+      {
+        "type": "LINEAR",
+        "data": {
+          "name": "Four kingdom System<br> of Classification",
+          "about": "",
+          "children": [
+            {
+              "name": "Monera",
+              "about": ""
+            },
+            {
+              "name": "Protista",
+              "about": ""
+            },
+            {
+              "name": "Plantae",
+              "about": ""
+            },
+            {
+              "name": "Animalia",
+              "about": ""
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "5 kingdom System of Classification": {
+    "Given by": "R. H. Whittaker",
+    "Based on": {
+      "__table": [
+        {
+          "data": [
+            [
+              "Basis",
+              "Monera",
+              "Protista",
+              "Fungi",
+              "Plantae",
+              "Animalia"
+            ],
+            [
+              "Mode of nutrition",
+              "Autotrophic",
+              "Both Autotrophic and Heterotrophic",
+              "Heterotrophic",
+              "Autotrophic",
+              "Heterotrophic"
+            ],
+            [
+              "Cell structure/ Nuclear structure",
+              "Prokaryotic",
+              "Eukaryotic",
+              "Eukaryotic",
+              "Eukaryotic",
+              "Eukaryotic"
+            ],
+            [
+              "Body organization",
+              "Unicellular",
+              "Mostly Unicellular",
+              "Multicellular and Unicellular",
+              "Multicellular",
+              "Multicellular"
+            ],
+            [
+              "Mode of reproduction",
+              "Asexually",
+              "Both Sexually and Asexually",
+              "Both Sexually and Asexually",
+              "Both Sexually and Asexually",
+              "Sexual"
+            ],
+            [
+              "Phylogenetic relationship",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        }
+      ]
+    },
+    "__org": [
+      {
+        "type": "FISHBONE 1",
+        "data": {
+          "name": "5 kingdom System<br> of Classification",
+          "about": "",
+          "children": [
+            {
+              "name": "A. Monera",
+              "children": [
+                {
+                  "name": "Archaebacteria",
+                  "about": "Ancient bacteria"
+                },
+                {
+                  "name": "Eubacteria",
+                  "about": "True bacteria",
+                  "children": [
+                    {
+                      "name": "Bacteria"
+                    },
+                    {
+                      "name": "Cyanobacteria",
+                      "about": "Blue green algae"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "B. Protista",
+              "about": "",
+              "children": [
+                {
+                  "name": "Protozoa",
+                  "children": [
+                    {
+                      "name": "Sarcodina",
+                      "about": "Pseudopodia"
+                    },
+                    {
+                      "name": "Ciliata",
+                      "about": "Cillia"
+                    },
+                    {
+                      "name": "Mastigophora <br>Zooflagellata",
+                      "about": "Flagella"
+                    },
+                    {
+                      "name": "Sporozoa",
+                      "about": "No locomotory <br> organ"
+                    }
+                  ]
+                },
+                {
+                  "name": "Photosynthetic protists",
+                  "children": [
+                    {
+                      "name": "Pyrrophyta",
+                      "about": "Dinophyta/ <br> Dinoflagellates"
+                    },
+                    {
+                      "name": "Chrysophyta",
+                      "about": "Diatoms"
+                    },
+                    {
+                      "name": "Euglenophyta"
+                    }
+                  ]
+                },
+                {
+                  "name": "Slime moulds",
+                  "children": [
+                    {
+                      "name": "Plasmodial<br> slime molds"
+                    },
+                    {
+                      "name": "Cellular<br> slime <br>molds"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "c. Mycota",
+              "children": [
+                {
+                  "name": "Oomycetes",
+                  "about": "Water moulds/<br> Egg fungi"
+                },
+                {
+                  "name": "Zygomycetes",
+                  "about": "Conjugation fungi"
+                },
+                {
+                  "name": "Ascomycetes",
+                  "about": "Sac fungi"
+                },
+                {
+                  "name": "Basidiomycetes",
+                  "about": "Club fungi"
+                },
+                {
+                  "name": "Deuteromycetes",
+                  "about": "Fungi imperfecti"
+                }
+              ]
+            },
+            {
+              "name": "D. Plantae",
+              "children": [
+                {
+                  "name": "Cryptogams",
+                  "children": [
+                    {
+                      "name": "1. Algae",
+                      "children": [
+                        {
+                          "name": "Cyanophyceae",
+                          "about": "Blue green algae"
+                        },
+                        {
+                          "name": "Chlorophyceae",
+                          "about": "Green algae"
+                        },
+                        {
+                          "name": "Phaeophyceae",
+                          "about": "Brown algae"
+                        },
+                        {
+                          "name": "Rhodophyceae",
+                          "about": "Red algae"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "2. Bryophyta",
+                      "children": [
+                        {
+                          "name": "Hepaticopsida",
+                          "about": "Liverwort"
+                        },
+                        {
+                          "name": "Anthocerotopsida",
+                          "about": "Horn wort"
+                        },
+                        {
+                          "name": "Bryopsida",
+                          "about": "Moss"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "3. Pteridophyta",
+                      "children": [
+                        {
+                          "name": "Psilopsida",
+                          "about": ""
+                        },
+                        {
+                          "name": "Lycopsida",
+                          "about": ""
+                        },
+                        {
+                          "name": "Sphenopsida",
+                          "about": ""
+                        },
+                        {
+                          "name": "Pteriopsida",
+                          "about": "Fern"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Phanerogams",
+                  "children": [
+                    {
+                      "name": "Gymnosperms",
+                      "about": "Naked seed"
+                    },
+                    {
+                      "name": "Angiosperms",
+                      "about": "Flowering plant",
+                      "children": [
+                        {
+                          "name": "Dicots"
+                        },
+                        {
+                          "name": "Monocots"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "E. Animalia",
+              "children": [
+                {
+                  "name": "Invertebrates",
+                  "children": [
+                    {
+                      "name": "1. Porifera",
+                      "about": "",
+                      "children": [
+                        {
+                          "name": "Calcarea",
+                          "about": "Limy sponge"
+                        },
+                        {
+                          "name": "Hexactenelllida",
+                          "about": ""
+                        },
+                        {
+                          "name": "Demospongia",
+                          "about": ""
+                        }
+                      ]
+                    },
+                    {
+                      "name": "2. Coelenterata",
+                      "about": "",
+                      "children": [
+                        {
+                          "name": "Hydrozoa",
+                          "about": "Cup shaped <br> Medusa"
+                        },
+                        {
+                          "name": "Hydrozoa",
+                          "about": "Flower shaped"
+                        },
+                        {
+                          "name": "Anthozoa",
+                          "about": ""
+                        }
+                      ]
+                    },
+                    {
+                      "name": "3. Platyhelminthes",
+                      "about": "Flatworm",
+                      "children": [
+                        {
+                          "name": "Turbellaria",
+                          "about": "Free living"
+                        },
+                        {
+                          "name": "Trematoda",
+                          "about": "Flukeworms"
+                        },
+                        {
+                          "name": "Cestoda",
+                          "about": "Tapeworms"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "4. Nemathelminthes",
+                      "about": "Aschelminthes/ <br> Nematoda",
+                      "children": [
+                        {
+                          "name": "Aphasmida",
+                          "about": ""
+                        },
+                        {
+                          "name": "Phasmida",
+                          "about": ""
+                        }
+                      ]
+                    },
+                    {
+                      "name": "5. Annelida",
+                      "about": "",
+                      "children": [
+                        {
+                          "name": "Polychaeta",
+                          "about": "Many setae"
+                        },
+                        {
+                          "name": "Oligochaeta",
+                          "about": "Few setae"
+                        },
+                        {
+                          "name": "Hirudinea",
+                          "about": ""
+                        },
+                        {
+                          "name": "Arachinnelida",
+                          "about": ""
+                        }
+                      ]
+                    },
+                    {
+                      "name": "6. Arthropoda",
+                      "about": "",
+                      "children": [
+                        {
+                          "name": "Merostomata",
+                          "about": ""
+                        },
+                        {
+                          "name": "Arachnida",
+                          "about": ""
+                        },
+                        {
+                          "name": "Crustacea",
+                          "about": ""
+                        },
+                        {
+                          "name": "Myriopoda",
+                          "about": ""
+                        },
+                        {
+                          "name": "Insecta",
+                          "about": ""
+                        }
+                      ]
+                    },
+                    {
+                      "name": "7. Mollusca",
+                      "about": "",
+                      "children": [
+                        {
+                          "name": "Aplacophora",
+                          "about": "Solenogasters"
+                        },
+                        {
+                          "name": "Monoplacophora",
+                          "about": ""
+                        },
+                        {
+                          "name": "Polyplacophora",
+                          "about": "Chitons"
+                        },
+                        {
+                          "name": "Scaphopoda",
+                          "about": "Tooth shells or<br> Tusk shells"
+                        },
+                        {
+                          "name": "Gastropoda",
+                          "about": ""
+                        },
+                        {
+                          "name": "Pelecypoda",
+                          "about": "Bivalvia"
+                        },
+                        {
+                          "name": "Cephalopoda",
+                          "about": "Siphonopoda"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "8. Echinodermata",
+                      "about": "",
+                      "children": [
+                        {
+                          "name": "Asteroidea",
+                          "about": "Star like"
+                        },
+                        {
+                          "name": "Ophiuroidea",
+                          "about": "Snake like"
+                        },
+                        {
+                          "name": "Echinoidea",
+                          "about": "Spiny"
+                        },
+                        {
+                          "name": "Holothuroidea",
+                          "about": "Cucumber like"
+                        },
+                        {
+                          "name": "Crinoidea",
+                          "about": "Lily flower like"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Vertebrates",
+                  "children": [
+                    {
+                      "name": "1. Pisces",
+                      "children": [
+                        {
+                          "name": "Chondrichthyes",
+                          "about": "Cartilaginous fish"
+                        },
+                        {
+                          "name": "Osteichthyes",
+                          "about": "Bony fish"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "2. Amphibian",
+                      "children": [
+                        {
+                          "name": "Apoda",
+                          "about": ""
+                        },
+                        {
+                          "name": "Caudata",
+                          "about": ""
+                        },
+                        {
+                          "name": "Anura <br>Salientia",
+                          "about": "Frog"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "3. Reptiles"
+                    },
+                    {
+                      "name": "4. Aves"
+                    },
+                    {
+                      "name": "5. Mammalia"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "Larvae of Animals": {
+    "Porifera": {
+      "Sycon": "Amphiblastula",
+      "Leucosolenia": "Parenchymula",
+      "Euplectella": "Stereogastrula"
+    },
+    "Coelenterata": {
+      "Most coelenterates": "Planula",
+      "Hydra": "Hydrula",
+      "Jelly fish Aurelia": [
+        "Hydratuba",
+        "Scyphula",
+        "Ephyra"
+      ]
+    },
+    "Platyhelminthes": {
+      "Fasciola hepatica Liverfluke": [
+        "Miracidium",
+        "Sporocyst",
+        "Redia",
+        "Cercaria",
+        "Metacercarial"
+      ],
+      "Schistosoma Bloodfluke": [
+        "Miracidium",
+        "Sporocyst",
+        "Cercaria"
+      ],
+      "Taenia solium Tapeworm": [
+        "Onchosphere",
+        "Hexacanth",
+        "Cysticercus"
+      ]
+    },
+    "Nemathelminthes": {
+      "Ascaris lumbricoides Roundworm": "Rhabditiform",
+      "Ancylostoma duodenale Hookworm": "Filariform",
+      "Wucheria bancrofti Filarial worm": "Microfilaria"
+    },
+    "Annelida": {
+      "Nereis Sandworm": "Trochophore"
+    },
+    "Arthopoda": {
+      "Crustacea": "Nauplius",
+      "Insecta": [
+        {
+          "Cockroach": "Nymph"
+        },
+        {
+          "Butterflies and Moths": "Caterpillar"
+        },
+        {
+          "Mosquito": "Wriggler"
+        },
+        {
+          "Housefly": "Maggot"
+        },
+        {
+          "Beetle": "Grub"
+        }
+      ]
+    },
+    "Mollusca": {
+      "Scaphopoda Dentallium": "Trochophore",
+      "Gastropoda": "Trochophore",
+      "Pelecypoda Bivalvia": [
+        "Veliger",
+        "Glochidium"
+      ]
+    },
+    "Echinodermata": {
+      "Asteroidea Starfish Asteriasis": [
+        "Bipinnaria",
+        "Brachiolaria",
+        "Dipleura"
+      ],
+      "Ophiuroidea Brittlestar Ophiothrix": "Ophiopluteus",
+      "Echinodea Sea urchin Echinus": "Echinopluteus",
+      "Holothuridea Sea cucumber Cucumeria": "Auricularia",
+      "Crinoidea Feather star Antedon": "Doliolaria"
+    },
+    "Hemichordata": {
+      "Acorn worm Tongue worm Balanoglossus": "Tornaria"
+    },
+    "Chordata": {
+      "Protochordata": {
+        "Urochordata Ascidian larva": "Tadpole larva",
+        "Cephalochordata": null
+      },
+      "Euchordata": {
+        "Agnatha": {
+          "Ostracodermi": "",
+          "Cyclostomata Lamprey Petromyzon": "Ammocoete"
+        },
+        "Gnathastomata": {
+          "Pisces": [
+            {
+              "Eel": "Leptocephalus"
+            }
+          ],
+          "Amphibian": [
+            {
+              "Frog": "Tadpole"
+            },
+            {
+              "Tiger salamander": "Axolotl's larva"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
