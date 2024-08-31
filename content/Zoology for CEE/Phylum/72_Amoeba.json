@@ -1,0 +1,187 @@
+{
+  "Hi":"I am now totally changed changed",
+  "__image": [
+    {
+      "url": "https://static.vecteezy.com/system/resources/previews/002/803/162/original/illustration-of-healthcare-and-medical-education-drawing-chart-of-amoeba-for-science-biology-study-vector.jpg",
+      "width": "500",
+      "caption": "Well labelled diagram of Amoeba",
+      "credit":"Vecteezy"
+    }
+  ],
+  "General features": {
+    "": "The comost common species of <i>Amoeba</i> is <i>proteus</i>.",
+    "History": "<i>Amoeba</i> was discovered by Rossel von Rosenhoff.",
+    "Shape": "<i>Amoeba</i> has no fixed shape.",
+    "Habitat": {
+      "Amoeba lives in": [
+        "Freshwater",
+        "Moist soil or ",
+        "Sea"
+      ]
+    },
+    "Culture": "<i>Amoeba</i> is cultured in laboratory by <b>Hay infusion method</i>.",
+    "Cellular structure": {
+      "Plasmalemma": {
+        "Structure of Plasmalemma": [
+          "Plasmalemma is trilaminar and selectively permeable membrane.",
+          "Outer layer of plasmalemma is made up of fibre like molecules of adhesive mucoprotein called microvilli.",
+          {
+            "__note": [
+              {
+                "data": {
+                  "": "Microvilli project outside the surface and keeps the body dry; so Amoeba is never wet inside the water."
+                }
+              }
+            ]
+          }
+        ],
+        "Function of Plasmalemma": [
+          "Body of Amoeba is covered by plasmalemma.",
+          "Plasmalemma covers the body so in general protective in function.",
+          "Plasmalemma is also respiratory, diffusion of oxygen and carbon dioxide takes place through it.",
+          "Plasmalemma is excretory and protective in function, ammonia diffuses out through it."
+        ]
+      },
+      "Uroid": "Posterior end of Amoeba is marked by wrinkled plasma membrane - the Uroid.",
+      "Cytoplasm": {
+        "__p": "Cytoplasm of Amoeba is differentiated into Outer ectoplasm and inner endoplasm.",
+        "Ectoplasm": "Ectoplasm is the outer tough plasmagel.",
+        "Endoplasm": [
+          "Endoplasm is central more fluid like plasmasol state of colloid cytoplasm.",
+          "Endoplasm shows brownian movement."
+        ]
+      },
+      "Nucleus": [
+        "Nucleus of Amoeba is solid and biconcave.",
+        "Just below the nuclear membrane, there is the presence of a network of protein fibre called honey comb lattice which gives shape to the nuclei."
+      ],
+      "Vacuole": {
+        "Food vacuole": [
+          "Food vacuole of Amoeba is analogous to the Alimentary canal of an animal or Gastrovascular cavity of Hydra.",
+          "The contents of food vacuole in Amoeba first becomes acidic then alkaline."
+        ],
+        "Contractile vacuole": [
+          "Endoplasm of Amoeba  in the posterior part contains a single clear rounded and pulsating contractile vacuole.",
+          "Contractile vacuole in Amoeba is concerned with osmoregulation, i.e. removal of water.",
+          "Contractile vacuole is found only in freshwater forms; absent in marine and parasitic forms.",
+          [
+            "If an amoeba is placed in distilled water, its contractile vacuole works faster.",
+            "If an Amoeba is placed in sea water/ salt water, its contractile vacuole will disappear.",
+            "When a fresh water Amoeba is kept in sea water, it loses its contractile vacuole but when a marine Amoeba is kept in fresh water, it develops contractile vacuole."
+          ],
+          "Contractile vacuole of Amoeba is analogous (similar in function) to Uriniferous tubules(nephron) of frog.",
+          "Due to filling of water, contractile vacuole enlarges and called Diastole.",
+          "Difference between Amoeba and Entamoeba is in contractile vacuole.",
+          [
+            "Entamoeba lacks contractile vacuole."
+          ]
+        ]
+      }
+    },
+    "Locomotory organ": {
+      "Pseudopodia": [
+        "Locomotory organ in Amoeba is Pseudopodia.",
+        "Pseudopodia in Amoeba is composed of both ectoplasm and endoplasm.",
+        "Pseudopodia is a temporary locomotory structure.",
+        "Pseudopodia at its forward end gets its firm consistency by  hyaline cap which is made of ectoplasm.",
+        "Pseudopodia in Amoeba are meant for feeding and locomotion."
+      ],
+      "Amoeboidal movement": {
+        "": "Locomotion in Amoeba  is known as 'amoeboid movement'.",
+        "Sol-gel theory of amoeboid movement": [
+          "Sol-gel theory of amoeboid movement is most widely accepted for locomotion in  Amoeba.",
+          "Sol-gel theory of amoeboid movement was given by Hyman.",
+          "According to sol-gel theory, amoeboid movement is due to change in the viscosity of cytoplasm.",
+          "The conversion of plasmasol into gel and vice versa is a physio-chemical phenomenon.",
+          "Sol-gel conditions are due to contraction and relaxation of long chains of proteins."
+        ]
+      },
+      "Skeletal": "Amoeba has no skeleton.",
+      "Nutrition": {
+        "General": [
+          "Mode of nutrition in Amoeba is holozoic i.e. Amoeba is heterotrophic.",
+          "Amoeba is omnivorous. ",
+          "The process of ingesting solid food is phagocytosis.",
+          "Digestion is intracellular.",
+          "Amoeba is not able to digest fat.",
+          {
+            "__note": [
+              {
+                "data": {
+                  "": "Hydra is not able to  digest starch."
+                }
+              }
+            ]
+          }
+        ],
+        "Ingestion of food": {
+          "Import": [
+            "Amoeba = inactive; Prey = inactive",
+            "Import involves passive sinking of food into body by rupture of plasmalemma.",
+            "E.g. ingestion of algae"
+          ],
+          "Circumfluence": [
+            "Amoeba = active; Prey = inactive",
+            "Circumfluence is the ingestion of less active or motionless organisms like bacteria."
+          ],
+          "Circumvallation": [
+            "Amoeba = active; Prey = active",
+            "Circumvallation is the engulfment of active prey like ciliate or flagellate.",
+            "On contact with a solid food particle, plasmalemma and ectoplasm suddenly invaginate forming a tube."
+          ],
+          "Invagination": [
+            "Amoeba = active; Prey = inactive/active",
+            "Invagination is the process of paralyzing the prey and engulf it."
+          ]
+        },
+        "Digestion process": [
+          "Food vacuole of Amoeba is analogous to the Alimentary canal of an animal or Gastrovascular cavity of Hydra.",
+          "The contents of food vacuole in Amoeba first becomes acidic then alkaline.",
+          "Egestion of undigested food in Amoeba takes place through a temporary rupture of the surface membrane."
+        ]
+      }
+    },
+    "External stimulus": {
+      "": "Amoeba responds to external stimulus.",
+      "Taxis": {
+        "": "Response to the stimuli is called taxis (movement), positive - towards stimulus and negative - away from the stimulus.",
+        "Types of taxes": {
+          "Thermotaxis (temperature)": "Optimum temperature is 25oC.",
+          "Phototaxis (light)": "Positive to moderate light and negative to strong light and darkness.",
+          "Geotaxis (Gravity)": "Positive behaviour as it lives always at the bottom.",
+          "Thigmotaxis (touch)": "Positive if reaches a solid object slowly, negative if solid object comes abruptly.",
+          "Rheotaxis (water current)": [
+            "Positive behaviour + as it moves away from the origin of water current.",
+            "Paramecium shows negative⛔ response and moves against water 💦 current."
+          ],
+          "Galvanotaxis (electric current)": "Negative to strong electric current. In weak electric current, it move to cathode or negative pole(-)."
+        }
+      }
+    },
+    "Reproduction": {
+      "": "Reproduction takes place by Asexual methods.",
+      "Asexual methods": {
+        "Binary fission": [
+          "Binary fission takes place when food is abundant and temperature is suitable and is completed in 30 minutes.",
+          "Interesting feature of mitosis during binary fission in Amoeba is that multiple nuclear spindle is formed which is reduced to unipolar nuclear spindle."
+        ],
+        "Multiple fission": "",
+        "Sporulation": [
+          "Multiple fission and sporulation takes place during unfavourable condition after encystment.",
+          "Encystment/ Sporulation helps in dispersal.",
+          "There are three layers of cysts. ",
+          "Lack of oxygen and food induces encystment.",
+          "Products of multiple fission are called Amoebulae."
+        ]
+      },
+      "__note": [
+        {
+          "data": [
+            "Amoeba undergo rejuvenation for regaining energy.",
+            "Amoeba regenerates from nuclear bits."
+          ]
+        }
+      ]
+    }
+  }
+}

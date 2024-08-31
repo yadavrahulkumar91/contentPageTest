@@ -3,7 +3,8 @@ import path from "path";
 import { promisify } from "util";
 import { Client } from "pg";
 
-const writeFile = promisify(fs.writeFile);
+const readdir = promisify(fs.readdir);
+const readFile = promisify(fs.readFile);
 
 export default async function handler(req, res) {
   const client = new Client({
@@ -19,51 +20,38 @@ export default async function handler(req, res) {
 
   await client.connect();
 
-  const lessonsQuery = `SELECT * FROM components_jsonbook_lessons`;
-  const lessons = await client.query(lessonsQuery);
-
   const baseDir = path.join(process.cwd(), "content");
 
-  // Loop through each lesson and update JSON file
-  for (let lesson of lessons.rows) {
-    // First, find the unit and book linked to this lesson
-    const unitComponentQuery = `
-      SELECT uc.entity_id AS unit_id
-      FROM components_jsonbook_lessons_components lc
-      JOIN components_jsonbook_units_components uc ON uc.component_id = lc.entity_id
-      WHERE lc.component_id = $1`;
-    const unitResult = await client.query(unitComponentQuery, [lesson.id]);
+  // Fetch all lessons with their IDs
+  const lessonsQuery = `SELECT id FROM components_jsonbook_lessons`;
+  const lessons = await client.query(lessonsQuery);
+  const lessonIds = lessons.rows.map((row) => row.id);
 
-    if (unitResult.rows.length > 0) {
-      const unitId = unitResult.rows[0].unit_id;
+  // Traverse the content directory
+  const booksDirs = await readdir(baseDir);
+  for (const bookDirName of booksDirs) {
+    const bookDir = path.join(baseDir, bookDirName);
+    const unitsDirs = await readdir(bookDir);
+    for (const unitDirName of unitsDirs) {
+      const unitDir = path.join(bookDir, unitDirName);
+      const files = await readdir(unitDir);
+      for (const fileName of files) {
+        const filePath = path.join(unitDir, fileName);
 
-      const unitQuery = `SELECT * FROM components_jsonbook_units WHERE id = $1`;
-      const unit = await client.query(unitQuery, [unitId]);
+        // Extract lesson ID from the file name
+        const fileNameWithoutExt = path.parse(fileName).name;
+        const [lessonId, lessonName] = fileNameWithoutExt.split("_");
 
-      const bookComponentQuery = `
-        SELECT bc.entity_id AS book_id
-        FROM components_jsonbook_units_components uc
-        JOIN jsonbooks_components bc ON bc.component_id = uc.entity_id
-        WHERE uc.component_id = $1`;
-      const bookResult = await client.query(bookComponentQuery, [unitId]);
+        // Check if the ID exists in the database
+        if (lessonIds.includes(parseInt(lessonId))) {
+          const fileContent = await readFile(filePath, "utf-8");
 
-      if (bookResult.rows.length > 0) {
-        const bookId = bookResult.rows[0].book_id;
-
-        const bookQuery = `SELECT * FROM jsonbooks WHERE id = $1`;
-        const book = await client.query(bookQuery, [bookId]);
-
-        const filePath = path.join(
-          baseDir,
-          book.rows[0].title,
-          unit.rows[0].title,
-          `${lesson.title}.json`
-        );
-        if (fs.existsSync(filePath)) {
-          await writeFile(
-            filePath,
-            JSON.stringify(lesson.lesson_content, null, 2)
-          );
+          // Update the lesson content in the database
+          const updateQuery = `
+            UPDATE components_jsonbook_lessons
+            SET lesson_content = $1
+            WHERE id = $2`;
+          await client.query(updateQuery, [fileContent, parseInt(lessonId)]);
         }
       }
     }
@@ -71,5 +59,5 @@ export default async function handler(req, res) {
 
   await client.end();
 
-  res.status(200).json({ message: "Files updated successfully" });
+  res.status(200).json({ message: "Files uploaded successfully" });
 }

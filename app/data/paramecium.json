@@ -7,14 +7,96 @@
     }
   ],
   "General Information": {
-    "Type": "Holotrichous ciliate protozoan",
-    "Discoverer": "Hill",
-    "Common Species": "Paramecium caudatum",
+    "Common Species": "<i>Paramecium caudatum</i>",
     "Common Name": "Slipper animalcule",
-    "Habitat": "Free-living and aquatic, found in fresh stagnant water with abundant organic matter",
+    "Discoverer": "John Hill",
+    "Habitat": "Free-living and aquatic, found in fresh stagnant water with abundant organic matter.",
     "Culture Method": "Hay-infusion method in laboratory"
   },
+  "Classification": {
+    "Phylum": "Protozoa",
+    "Subphylum": "Ciliophora",
+    "Class": "Ciliata",
+    "Subclass": "Holotrichia",
+    "Genus": "<i>Paramecium</i>",
+    "Species": "<i>caudatum</i>",
+    "__note": [
+      {
+        "data": "<i>Paramecium </i> is Holotrichous ciliate protozoan."
+      }
+    ]
+  },
   "Cellular Structure": {
+    "__org": [
+      {
+        "type": "LINEAR",
+        "data": {
+          "name": "Cellular structure",
+          "children": [
+            {
+              "name": "Pellicle"
+            },
+            {
+              "name": "Cillia"
+            },
+            {
+              "name": "Cytoplasm",
+              "children": [
+                {
+                  "name": "Ectoplasm",
+                  "children": [
+                    {
+                      "name": "Infracilliary<br> system",
+                      "children": [
+                        {
+                          "name": "Basal body or <br> Kinetosome"
+                        },
+                        {
+                          "name": "Kinetodesmata"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Trichocysts"
+                    },
+                    {
+                      "name": "Oral<br> apparatus"
+                    },
+                    {
+                      "name":"Anus/<br> Cytopyge/<br> Cytoproct"
+                    }
+                  ]
+                },
+                {
+                  "name": "Endoplasm",
+                  "children": [
+                    {
+                      "name": "Nucleus",
+                      "children": [
+                        {
+                          "name": "Micronucleus"
+                        },
+                        {
+                          "name": "Macronucleus"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Contractile <br>vacuole"
+                    },
+                    {
+                      "name": "Food vacuole"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "Shape": "Slipper shaped",
+    "Size": "0.05 to 0.32 mm",
     "Body Surface": {
       "Oral Surface": "Ventral surface",
       "Aboral Surface": "Dorsal surface"
@@ -27,17 +109,47 @@
           "width": "300"
         }
       ],
-      "Description": "Thin, firm, and flexible membrane covering the body",
-      "Composition": "Made by a regular arrangement of microtubules",
-      "Function": "Gives shape to the body"
+      "__p": "Thin, firm, and flexible membrane covering the body.",
+      "Structure": [
+        "Uniform appearance.",
+        "Composed of a lattice of hexagonally shaped pits, each centrally perforated by a single cilium.",
+        "The margins of hexagonal depressions are slightly raised up as ridges. Trichocysts open in the ridges."
+      ],
+      "Ultrastructure": {
+        "3 membranes": [
+          "Outer plasma membrane",
+          "Outer alveolar membrane",
+          "Inner alveolar membrane"
+        ]
+      },
+      "Function": [
+        "Maintains definite shape of the animal.",
+        "Serves as a skeletal structure."
+      ]
     },
     "Cilia": {
-      "Description": "Numerous cilia covering the entire body surface, acting as locomotory organelles",
-      "Special Groups": [
-        "Ventral penniculus",
-        "Dorsal quadrulus",
-        "Dorsal penniculus (Opposite in case of Pharynx)"
+      "__image": [
+        {
+          "url": "https://firebasestorage.googleapis.com/v0/b/gamechanger-drive-91.appspot.com/o/randomPhotos%2Fultrastructreu%20of%20cilia.png?alt=media&token=1aefde15-00a1-4505-b3e4-811ed5c93eeb",
+          "caption": "Ultrastructure of Cilia",
+          "width": "600",
+          "credit": ""
+        }
       ],
+      "__p": "Numerous cilia covering the entire body surface, acting as locomotory organelles.",
+      "Arrangement": [
+        "Longitudinal rows",
+        "Almost parallel on the dorsal surface and slightly oblique on the ventral surface.",
+        "Uniform length throught the body except few longer at the posterior end of body called Caudal tuft."
+      ],
+      "Ultrastructure": {
+        "__p": "3 major parts",
+        "Outer Plasma membrane": "",
+        "Interposed cytoplasmic matrix": "",
+        "A central axoneme": [
+          "Typical 9 + 2 arrangement of microtubules"
+        ]
+      },
       "Movement": {
         "Longitudinal Row": "Moves simultaneously one by one (Metachronous rhythm)",
         "Transverse Row": "Moves in Synchronous rhythm"
@@ -48,8 +160,8 @@
       "__image": [
         {
           "url": "https://blogger.googleusercontent.com/img/a/AVvXsEjM9nfU700WzKw41FaY5ju6RpyPFUGyH0V5GVS4UJ7D_iqySCKk60WQJb37iDXQRQAPHKyTWSd1qCI7LR0yk5pB0okyQ0aNIJhPHYt_gEs0zk0QZvRKs9pq1A-tpWFzrDU0DcACtN8z6QQj_7DpQiAwK_lbLcK44VCfX3d8XB-_2YuxVsAg0IsKUQKCjw=w299-h400",
-          "caption": "Trichocyst of <i>Paramecium caudatum</i>",
-          "width": "300"
+          "caption": "Trichocyst of <br><i>Paramecium caudatum</i>",
+          "width": "150"
         }
       ],
       "Description": "Peculiar bottle-shaped organelles in the ectoplasm",
@@ -61,6 +173,36 @@
         "Length": "Discharged trichocyst is ten times longer than undischarged one"
       }
     },
+    "Oral Apparatus": {
+        "Oral groove/ Peristome":"",
+        "Vestibule":"",
+        "Buccal cavity/ Gullet":"",
+        "Cytostome/ Mouth":"",
+        "Cytopharynx/ Oesophagus":"",
+        "Buccal ciliature": {
+          "__image": [
+            {
+              "url": "https://firebasestorage.googleapis.com/v0/b/gamechanger-drive-91.appspot.com/o/randomPhotos%2FBuccal%20ciliature.png?alt=media&token=07096b63-5c5c-4a06-9354-76e65a165a13",
+              "caption": "Buccal ciliature",
+              "width": "300",
+              "credit": ""
+            }
+          ],
+          "Endoral membrane/ Undulating membrane": {
+            "Location": "At the junction of vestibule and the buccal cavity.",
+            "Shape": "Crescentic",
+            "Formation": "Due to sticking together of the cilia of a single row."
+          },
+          "Penniculi": {
+            "Dorsal peniculus": "",
+            "Ventral peniculus": ""
+          },
+          "Quadrulus": ""
+        }
+    },
+    "Anus/ Cytopyge/ Cytoproct":[
+      "Undigested food is egested through it by active vacuolar activity called exocytosis."
+    ],
     "Contractile Vacuoles": {
       "Number": "Two, permanently open on the dorsal surface",
       "Structure": "Each vacuole has 6-10 radiating canals/accessory vacuoles",
@@ -68,13 +210,6 @@
     },
     "Food Vacuoles": {
       "Description": "Numerous vacuoles containing food particles",
-      "Oral Apparatus": {
-        "Components": [
-          "Cytopharynx",
-          "Cytostome (Mouth)"
-        ],
-        "Location": "Lies in the endoplasm"
-      },
       "Movement": "Food vacuole moves along a definite course (Cyclosis) within the streaming endoplasm",
       "Alternative Name": "Gastrioles"
     },

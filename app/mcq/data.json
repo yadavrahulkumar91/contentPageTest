@@ -1,185 +1,428 @@
 {
-  "id": "70",
-  "data": [
+  "id": "376",
+ "data": [
+  [
+    "Total number of Paramecia formed after conjugation is:",
+    "2",
+    "4",
+    "8",
+    "16",
+    "c",
+    "",
+    ["IOM 2007"]
+  ],
+  [
+    "Paramecium moves by",
+    "Cilia",
+    "Flagella",
+    "Pseudopodia",
+    "None",
+    "a",
+    "",
+    ["IOM 2005"]
+  ],
+  [
+    "'Pellicle' is the covering of:",
+    "Paramecium",
+    "Diatoms",
+    "Dinoflagellates",
+    "Amoeba",
+    "a",
+    "",
+    ["IOM 2003"]
+  ],
+  [
+    "The process of reconstitution of macronucleus in Paramecium without any change in micronucleus is called:",
+    "Cytogamy",
+    "Hemixis",
+    "Endomixis",
+    "Autogamy",
+    "b",
+    "",
+    ["IOM 1998"]
+  ],
+  [
+    "Which organism exhibits nuclear dimorphism?",
+    "Amoeba",
+    "Euglena",
+    "Plasmodium",
+    "Paramecium",
+    "d",
+    "",
+    ["MOE 2062"]
+  ],
+  [
+    "Which of the following is true about conjugation in Paramecium?",
+    "Macronucleus forms micronucleus",
+    "Crossing macronuclei takes place",
+    "Macronucleus breaks and gets transferred",
+    "Micronucleus gives rise to male and female portion",
+    "d",
+    "",
+    ["MOE 2002"]
+  ],
+  [
+    "Defense action of Paramecium is known by:",
+    "Cilia",
+    "Trichocysts",
+    "Nematocysts",
+    "Trochophores",
+    "b",
+    "",
+    ["MOE 2054"]
+  ],
+  [
+    "How many daughter Paramecia are formed from conjugation in Paramecia?",
+    "6",
+    "4",
+    "8",
+    "2",
+    "c",
+    "",
+    ["IOM 2014"]
+  ],
+  [
+    "The main function of contractile vacuole in Paramecium is",
+    "Locomotion",
+    "Water storage",
+    "Osmoregulation",
+    "Circulation",
+    "c",
+    "",
+    ["IOM 2014"]
+  ],
+  [
+    "Which of the following shows nuclear dimorphism:",
+    "Plasmodium",
+    "Paramecium",
+    "Hydra",
+    "Amoeba",
+    "b",
+    "",
+    ["IOM 2016"]
+  ],
+  [
+    "The generic name of Paramecium caudatum was given by",
+    "Rosenhoff",
+    "John Hill",
+    "Forde",
+    "Charles Laveran",
+    "b",
+    "",
+    ["MOE 2014"]
+  ],
+
+
+
     [
-      "Metazoans without tissue grade organisation are called",
-      "Protozoa",
-      "Parazoa",
-      "Deuterostomia",
-      "Eumetazoa",
-      "b",
-      "",
-      []
-    ],
-    [
-      "Cell-tissue grade of organisation occurs in",
-      "Hydra",
-      "Sponge",
-      "Starfish",
-      "Liver fluke",
+      "Contents in a food vacuole in Paramecium are:",
+      "First acidic and then alkaline",
+      "First alkaline and then acidic",
+      "First neutral and then acidic",
+      "First alkaline and then neutral",
       "a",
       "",
       []
     ],
     [
-      "Radial symmetry occurs in",
-      "Porifera and Coelenterata",
-      "Arthropoda and Mollusca",
-      "Coelenterata and Echinodermata",
-      "Coelenterata and Platyhelminthes",
+      "In Paramecium conjugation takes place for:",
+      "Binary fission",
+      "Asexual reproduction",
+      "Sexual reproduction",
+      "Fragmentation",
       "c",
       "",
       []
     ],
     [
-      "Bilateral symmetry is absent in",
-      "Obelia",
-      "Frog",
-      "Octopus",
-      "Mammals",
-      "a",
-      "",
-      []
-    ],
-    [
-      "Which symmetry is found in sea anemone?",
-      "Biradial",
-      "Asymmetry",
-      "Spherical",
-      "Pentamerous",
-      "a",
-      "",
-      []
-    ],
-    [
-      "All triploblastic animals are",
-      "Eucoelomates",
-      "Schizocoelomates",
-      "Radially symmetrical",
-      "Bilaterally symmetrical",
-      "d",
-      "",
-      []
-    ],
-    [
-      "Metamerism is characteristic of",
-      "Porifera",
-      "Mollusca",
-      "Annelida",
-      "Echinodermata",
-      "c",
-      "",
-      []
-    ],
-    [
-      "Which of the following phyla are included in Enterozoa?",
-      "Annelida, Mollusca, Porifera",
-      "Porifera, Arthropoda, Mollusca",
-      "Mollusca, Arthropoda, Hemichordata",
-      "Echinodermata, Hemichordata, Porifera",
-      "c",
-      "",
-      []
-    ],
-    [
-      "'Deuterostomia' are the animals in which blastopore of gastrula becomes",
-      "Mouth",
-      "Anus",
-      "Mouth or Anus",
+      "Conjugation of Paramecium involves exchange of:",
+      "Micronuclei",
+      "Macronuclei",
+      "Both",
       "None",
-      "b",
-      "",
-      []
-    ],
-    [
-      "An enterocoelomate invertebrate group is",
-      "Mollusca",
-      "Annelida",
-      "Arthropoda",
-      "Echinodermata",
-      "d",
-      "",
-      []
-    ],
-    [
-      "Coelom derived from blastocoel is known as",
-      "Haemocoel",
-      "Pseudocoelom",
-      "Enterocoelom",
-      "Schizocoel",
-      "b",
-      "",
-      []
-    ],
-    [
-      "The larva of Physalia is called",
-      "A Planula",
-      "An ephyra",
-      "A cydipped larva",
-      "A scyphistoma",
       "a",
       "",
       []
     ],
     [
-      "Which of the following may exhibit biradial symmetry?",
-      "Ctenophora",
-      "Man",
-      "Radiolarian",
-      "Sponge",
+      "Which corresponds to parthenogenesis?",
+      "Autogamy",
+      "Cytogamy",
+      "Endomixis",
+      "Amphimixis",
+      "c",
+      "Autogamy = Self fertilization",
+      []
+    ],
+    [
+      "Fusion of male and female pronuclei of two conjugant Paramecia is known as:",
+      "Synkaryon",
+      "Fertilization",
+      "Endomixis",
+      "Amphimixis",
+      "d",
+      "",
+      []
+    ],
+    [
+      "Kappa particles of Paramecium produce a toxic substance called:",
+      "Toxin",
+      "Paramecin",
+      "Hypnotoxin",
+      "Neurotoxin",
+      "b",
+      "",
+      []
+    ],
+    [
+      "Caudal tuft of Paramecium is:",
+      "Tactile in nature",
+      "Locomotory in function",
+      "Helps in conjugation",
+      "Helps in digestion",
+      "b",
+      "",
+      []
+    ],
+    [
+      "During conjugation in Paramecium the micronucleus:",
+      "Divides by mitosis",
+      "Divides by amitosis",
+      "Does not divide",
+      "Degenerates",
+      "d",
+      "",
+      []
+    ],
+    [
+      "Two micronuclei occur in:",
+      "Paramecium aurelia",
+      "Paramecium caudatum",
+      "Paramecium multi-micronucleatum",
+      "Balantidium coli",
       "a",
       "",
       []
     ],
     [
-      "Symmetry found in Heliozoa is",
-      "Radial",
-      "Bilateral",
-      "Biradial",
-      "Spherical",
-      "d",
-      "",
-      []
-    ],
-    [
-      "Which one feature is common to leech, cockroach and scorpion?",
-      "Antenna",
-      "Nephridia",
-      "Cephalization",
-      "Ventral nerve cord",
-      "d",
-      "",
-      []
-    ],
-    [
-      "How many germ layers are found in a sponge?",
-      "One",
-      "Two",
-      "Three",
-      "Absent",
+      "In Paramecium contractile vacuoles are meant for",
+      "Food storage",
+      "Osmoregulation",
+      "Excretion",
+      "All of these",
       "b",
       "",
       []
     ],
     [
-      "Body is unsegmented in",
-      "Rana",
-      "Hydra",
-      "Metaphire",
-      "Periplaneta",
+      "In Paramecium contractile vacuoles are meant for",
+      "Food storage",
+      "Osmoregulation",
+      "Excretion",
+      "Both (b) and (c)",
+      "d",
+      "",
+      []
+    ],
+    [
+      "Autogamy of Paramecium corresponds to",
+      "Cross fertilization",
+      "Parthenogenesis",
+      "Self fertilization",
+      "Mortality",
+      "c",
+      "",
+      []
+    ],
+    [
+      "Outer covering of Paramecium is known as",
+      "Cuticle",
+      "Plasmalemma",
+      "Pellicle",
+      "Cell membrane",
+      "c",
+      "",
+      []
+    ],
+    [
+      "In Paramecium beating of cilia is controlled by",
+      "Neuromotor system",
+      "Kinety",
+      "Kinetosome",
+      "Pellicle",
+      "a",
+      "",
+      []
+    ],
+    [
+      "Cytopyge of Paramecium is meant for",
+      "Ingestion",
+      "Osmoregulation",
+      "Reproduction",
+      "Egestion",
+      "d",
+      "",
+      []
+    ],
+    [
+      "Contractile vacuoles of Paramecium are analogous to",
+      "Sweat glands of mammals",
+      "Uriniferous tubules",
+      "Gastrovascular cavity of Hydra",
+      "Typhlosole of Earthworm",
       "b",
       "",
       []
     ],
     [
-      "Comb jellies belong to the phylum",
-      "Ciliophora",
-      "Coelenterata",
-      "Porifera",
-      "Ctenophora",
+      "Paramecium feeds through",
+      "Undulating membrane",
+      "General body surface",
+      "Oral groove",
+      "Cytopyge",
+      "c",
       "",
+      []
+    ],
+    [
+      "The cilia of Paramecium are",
+      "All equal",
+      "All unequal",
+      "Longer at posterior end",
+      "Longer at anterior end",
+      "b",
+      "",
+      []
+    ],
+    [
+      "Which protist reproduces both by binary fission and conjugation?",
+      "Amoeba",
+      "Paramecium",
+      "Euglena",
+      "Plasmodium",
+      "b",
+      "",
+      []
+    ],
+    [
+      "Paramecium is",
+      "Saprobiotic",
+      "Holozoic",
+      "Holophytic",
+      "Parasitic",
+      "b",
+      "",
+      []
+    ],
+    [
+      "Paramecium moves about by",
+      "Pseudopodia",
+      "Cilia",
+      "Flagella",
+      "Looping and Crawling",
+      "b",
+      "",
+      []
+    ],
+    [
+      "Which species of Paramecium contains only three nuclei?",
+      "P. caudatum",
+      "P. aurelia",
+      "P. multi-micronucleatum",
+      "P. polycarpum",
+      "a",
+      "",
+      []
+    ],
+    [
+      "In Paramecium cyclosis is associated with",
+      "Locomotion",
+      "Respiration",
+      "Digestion",
+      "Excretion",
+      "c",
+      "",
+      []
+    ],
+    [
+      "In Paramecium cyclosis is associated with",
+      "Locomotion",
+      "Respiration",
+      "Digestion",
+      "Circulation",
       "d",
+      "",
+      []
+    ],
+    [
+      "Binary fission in Paramecium is",
+      "Transverse",
+      "Longitudinal",
+      "Irregular",
+      "Oblique",
+      "a",
+      "Transverse binary fission = Paramecium",
+      []
+    ],
+    [
+      "Paramecium was discovered by",
+      "Rosenhoff",
+      "C. Laveran",
+      "Forde",
+      "Hill",
+      "d",
+      "",
+      []
+    ],
+    [
+      "Which one is a filter feeder?",
+      "Spider",
+      "Leech",
+      "Paramecium",
+      "Amoeba",
+      "c",
+      "",
+      []
+    ],
+    [
+      "What is true of Paramecium",
+      "Macronucleus takes part in reproduction",
+      "Macronucleus controls cellular metabolism",
+      "Micronucleus controls cellular metabolism",
+      "Micronucleus is not involved in reproduction",
+      "b",
+      "",
+      []
+    ],
+    [
+      "The band of cilia present on the dorsal wall of vestibule of Paramecium is called",
+      "Kinety",
+      "Quadrulus",
+      "Peniculus",
+      "Ambulacrum",
+      "b",
+      "",
+      []
+    ],
+    [
+      "Genetic information in Paramecium is contained in",
+      "Micronucleus",
+      "Macronucleus",
+      "Both nucleus",
+      "Mitochondria",
+      "a",
+      "",
+      []
+    ],
+    [
+      "Paramecium swims in a",
+      "Straight path",
+      "Spiral path",
+      "Zigzag path",
+      "Circular path",
+      "b",
+      "",
       []
     ]
-  ]
+]
 }

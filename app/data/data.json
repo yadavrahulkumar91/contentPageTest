@@ -1,107 +1,777 @@
-{
-    "age": "22",
-    "School": "Trinity",
-    "Height": "34",
-    "Name": {
-        "First name": "Raman",
-        "Middle name": "Kumar",
-        "Last name": {
-            "Short form last name": "Ydv",
-            "Full form last name": {}
-        }
-    },
-    "About me": [
-        "This is me Rahul Kumar Yadva.",
-        "This is super talent man.",
-        "This is very good man.",
-        [
-            "Now talk about raman here",
-            "This is also good boy."
-        ],
-        "This lives in kathmandu.",
-        {
-            "Name": {
-                "First name": "Raman",
-                "Middle name": "Kumar",
-                "Last name": {
-                    "Short form last name": "Ydv",
-                    "Full form last name": {}
-                }
-            }
-        },
-        "This is fine"
-    ],
+{"__org": [
+    {
+      "data": {
+        "name": "Classification of Animal",
+        
+        "children": [
+          {
+            "name": "Grades of Body Organization/<br> Levels of Body organization"
+          },
+          {
+            "name": "Germ Layers"
+          },
+          {
+            "name": "Body Cavity/ Coelom"
+          },
+          {
+            "name": "Animal Body Plans"
+          },
+          {
+            "name": "Animal Symmetry"
+          },
+          {
+            "name": "Types of Animals by Nitrogenous Wastes Removal"
+          },
+          {
+            "name": "Animal habitats"
+          },
+          {
+            "name": "Mode of Existence"
+          },
+          {
+            "name":"Nutrition"
+          }
+        ]
+      }
+    }
+  ],
+  "Grades of Body Organization/ Levels of Body organization": {
     "__image": [
-        {
-            "data": {
-                "url": "https://cdn.mos.cms.futurecdn.net/owm4oa3hXUG58mka7hPvfP-1200-80.jpg",
-                "width": "500"
-            }
-        }
+      {
+        "url": "https://i.pinimg.com/564x/2b/91/53/2b91533f979be9d4743e491f7ce92d12.jpg",
+        "caption": "",
+        "width": "400"
+      }
     ],
-    "__mcq": [
-        {
-            "id": 2,
-            "qu": "What is your name",
-            "a": "Rahul",
-            "b": "Raman",
-            "c": "Santosh",
-            "d": "Shova",
-            "ans": "a",
-            "sol": "Rahul is correct ansewr",
-            "Hardness_level": null,
-            "Category": null,
-            "Asked_year": [
-                {
-                    "id": 23,
-                    "Asked_year": "2067"
-                }
+    "__image1": [
+      {
+        "url": "https://static.vecteezy.com/system/resources/previews/002/803/162/original/illustration-of-healthcare-and-medical-education-drawing-chart-of-amoeba-for-science-biology-study-vector.jpg",
+        "width": "250",
+        "caption": "Acellular grade of body<br> organization in <i>Amoeba<i>",
+        "credit": ""
+      }
+    ],
+    "__p": "Grade of organisation refers to the levels in which the cells are arranged",
+    "Protoplasmic grade/ Molecular grade / Acellular grade": {
+      "Characteristics": "All life activities within a single cell",
+      "Organisms": [
+        "Protozoa and Other unicellular organisms"
+      ]
+    },
+    "Cellular grade": {
+      "Characteristics": [
+        "Loose association or Aggregation of cells",
+        "Slight division of labour"
+      ],
+      "Organisms": "Porifera"
+    },
+    "Tissue grade": {
+      
+      "Characteristics": [
+        "Forms definite tissue structures",
+        "Tissue is a group of cells having similar shape, structure and origin and perform specific function collectively."
+      ],
+      "Organisms": "Cnidarians",
+      "Nerve net": "Nerve cells and their processes form a definite tissue structure"
+    },
+    "Organ grade": {
+      "Characteristics": [
+        "Different tissues are organized into organs",
+        "Each organ is specialized for a particular function"
+      ],
+      "Organisms": "Platyhelminthes",
+      "Organs": [
+        "Eye (👁️‍🗨️) spots",
+        "Proboscis",
+        "Reproductive organs"
+      ]
+    },
+    "Organ system grade": {
+      "Characteristics": [
+        "Organs are specialized to form system which perform specific body function."
+      ],
+      "Organisms": "Nemathelminthes to Chordata"
+    }
+  },
+  "Germ Layers": {
+    "__image": [
+      {
+        "url": "https://byjus-answer-creation.s3.amazonaws.com/uploads/10388_Biology_62a0cb06b75ee0311ba43551_EL_Germ_Layers-22_031915_b.jpg_img_upload_solution_2022-08-18%2010:44:50.760324.png",
+        "caption": "",
+        "width": ""
+      }
+    ],
+    "Diploblastic Animals": {
+      "Layers": [
+        "Ectoderm",
+        "Endoderm"
+      ],
+      "Examples": "Protozoa to Coelenterata"
+    },
+    "Triploblastic Animals": {
+      "Layers": [
+        "Ectoderm",
+        "Mesoderm",
+        "Endoderm"
+      ],
+      "Formation": "Cells of either ectoderm, or more usually, the endoderm give rise to a third germ layer, the mesoderm.",
+      "Examples": "Platyhelminthes to Chordata"
+    }
+  },
+  "Body Cavity/ Coelom": {
+    "__image": [
+      {
+        "url": "https://firebasestorage.googleapis.com/v0/b/gamechanger-drive-91.appspot.com/o/randomPhotos%2Fcoelom.png?alt=media&token=0a8eb9a9-cea3-4291-86c2-dd390c95f6dd",
+        "caption": "A. Acoelomate, B. Pseudocoelomate, C. Eucoelomate",
+        "width": "400",
+        "height": "900"
+      }
+    ],
+    "Acoelomates": {
+      "Organisms": "Animals without coelom or body cavity",
+      "Examples": [
+        "Coelenteron in Coelenterata",
+        "In Platyhelminthes, the region between the ectodermal epidermis and the endodermal digestive tract is completely filled with mesoderm in the form of a spongy mass of space filling cells called Parenchyma."
+      ]
+    },
+    "Pseudocoelomates/ Blastocoelomates": {
+      "Description": [
+        "Cavities not entirely lined by peritoneum.",
+        "Called blastocoel which may be a persistent blastocoel or derived from vacuoles within cells."
+      ],
+      "Examples": "Nemathelminthes"
+    },
+    "Eucoelomates": {
+      "Description": "Cavities bounded on all sides by mesodermal peritoneum.",
+      "Subtypes": {
+        "Schizocoelous": {
+          "Characteristics": [
+            "Schizocoelom arises from mesoderemal split.",
+            "This body cavity is formed from blocks of mesoderm around the gut that enlarge and hollow out.",
+            "All the schizocoelomates are protostomains."
+          ],
+          "Examples": [
+            "Annelida",
+            "Arthopoda",
+            "Mollusca"
+          ],
+          "Haemocoelomates": {
+            "Description": "Coelom filled with blood is called Haemocoel.",
+            "Examples": [
+              "Arthopoda",
+              "Mollusca"
             ]
+          }
+        },
+        "Enterocoelous": {
+          "Formation": [
+            "Enterocoelom arises from outpocketing of the embryonic gut(endoderm).",
+            "It  is formed by outpocketings of the primitive gut that break off and form the coelom.",
+            "All the enterocoelomates are deuterostomes."
+          ],
+          "Examples": [
+            "Echinodermata",
+            "Hemichordatata",
+            "Chordata"
+          ]
         }
-    ],
-    "__org": [
-        {
-            "type":"SINGLE_COLUMN_LEFT",
-            "data": {
-                "name": "Language of Chemistyr",
-                "children": [
-                    {
-                        "name": "Matter",
-                        "children": [
-                            {
-                                "name": "Pure matter "
-                            },
-                            {
-                                "name": "Impure matter ",
-                                "children": [
-                                    {
-                                        "name": "Mixure",
-                                        "children": [
-                                            {
-                                                "name": "Homogenous mixture"
-                                            },
-                                            {
-                                                "name": "Non-homogenous mixture"
-                                            }
-                                        ]
-                                    }
-                                ]
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Energy"
-                    }
-                ]
-            }
-        }
-    ],
-    "__table":[
-        {
-            "data":[
-                ["S.N", "Matter", "Energy"],
-                ["1", "Matter is anything that occupies space.", "Eneryy doesn't occupy space."]
-            ]
-        }
+      }
+    },
+    "__mcq":[
+      {
+        "id": 24,
+        "Hardness_level": null,
+        "Category": null,
+        "qu": "<p>Schizocoel is the body cavity of</p>",
+        "a": "<p>Mollusca</p>",
+        "b": "<p>Echinoderms</p>",
+        "c": "<p>Platyhelminthes</p>",
+        "d": "<p>Annelids</p>",
+        "ans": "d",
+        "sol": null,
+        "Asked_year": [
+          {
+            "id": 412,
+            "Asked_year": "BPKIHS 2005"
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "Hardness_level": null,
+        "Category": null,
+        "qu": "<p>Coelom derived from blastocoel is known as<br>&nbsp;</p>",
+        "a": "<p>Pseudocoelom</p>",
+        "b": "<p>Schizocoel</p>",
+        "c": "<p>Haemocoel</p>",
+        "d": "<p>Enterocoel</p>",
+        "ans": "a",
+        "sol": null,
+        "Asked_year": [
+          {
+            "id": 415,
+            "Asked_year": "BPKIHS 2008"
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "Hardness_level": null,
+        "Category": null,
+        "qu": "<p>Haemocoel is present in</p>",
+        "a": "<p>Flatworms</p>",
+        "b": "<p>Roundworms</p>",
+        "c": "<p>Segmented worms</p>",
+        "d": "<p>Insects</p>",
+        "ans": "d",
+        "sol": null,
+        "Asked_year": [
+          {
+            "id": 420,
+            "Asked_year": "MOE 2064"
+          }
+        ]
+      }
     ]
+  },
+  "Animal Body Plans": {
+    "Cell aggregate body plan": {
+      "Characteristics": [
+        "Cells are loosely aggregated",
+        "Intracellular digestion"
+      ],
+      "Organisms": "Sponges"
+    },
+    "Blind sac body plan": {
+      "Characteristics": [
+        "Single gastrovascular cavity opening i.e, Mouth",
+        "Mouth present but anus absent"
+      ],
+      "Organisms": [
+        "Coelenterata and",
+        "Platyhelminthes"
+      ]
+    },
+    "Tube within a tube body plans": {
+      "Characteristics": [
+        "Body consists of two tubes, outer formed by the body wall and inner by digestive tract.",
+        "Organs, body cavities and tissues are present between the two tubes."
+      ],
+      "Organisms": [
+        "Nemathelminthes onwards"
+      ],
+      "Subtypes": [
+        "Protostomes",
+        "Deuterostomes"
+      ],
+      "__table": [
+        {
+          "data": [
+            [
+              "Characteristics",
+              "Protostomes",
+              "Deuterostomes"
+            ],
+            [
+              "Blastopore",
+              [
+                "Mouth origin from blastopore. ",
+                "Mouth develops first in the embryo"
+              ],
+              [
+                "Anus origin from blastopore.",
+                "Anus develops first in the embryo"
+              ]
+            ],
+            [
+              "Coelom formation",
+              "Schizocoely",
+              "Enterocoely"
+            ],
+            [
+              "Cleavage",
+              [
+                "Spiral cleavage",
+                "Determinate cleavage"
+              ],
+              [
+                "Radial cleavage",
+                "Indeterminate cleavage"
+              ]
+            ],
+            [
+              "Examples",
+              [
+                "Annelida",
+                "Arthopoda",
+                "Mollusca"
+              ],
+              [
+                "Echinodermata",
+                "Hemichordatata",
+                "Chordata"
+              ]
+            ]
+          ],
+          "caption": "Differences beween Protostomes and Deuterostomes"
+        }
+      ]
+    },
+    "__mcq":[
+      {
+        "id": 64,
+        "Hardness_level": null,
+        "Category": null,
+        "qu": "'Deuterostomia' are the animals in which blastopore of gastrula becomes",
+        "a": "Mouth",
+        "b": "Anus",
+        "c": "Mouth or Anus",
+        "d": "None",
+        "ans": "b",
+        "sol": "",
+        "Asked_year": []
+      }
+    ]
+  },
+  "Animal Symmetry": {
+    "__image": [
+      {
+        "url": "https://media.geeksforgeeks.org/wp-content/uploads/20220728114754/symmetry.jpg",
+        "caption": "",
+        "width": ""
+      }
+    ],
+   
+    "Asymmetrical": {
+      "__levelup": {
+        "Characteristics": [
+          "Body can't be divisible into two similar halves along any plane.",
+          "<b>Lack of polarity:</b> There exists no clear differentiation along an axis."
+        ],
+        "Organisms": {
+          "Protozoans": {
+            "Exceptions": {
+              "Spherical symmetrical": [
+                "Volvox",
+                "Heliozoa",
+                "Radiolaria"
+              ],
+              "Bilateral symmetrical": "Giardia lamblia"
+            }
+          },
+          "Adult sponges": {
+            "Exceptions": {
+              "Radially symmetrical": [
+                "Larva of sponges",
+                "Sycon and Leucosolenia"
+              ]
+            }
+          },
+          "Some molluscs": [
+            "Gastropoda due to torsion"
+          ]
+        }
+      }
+    },
+    "Symmetrical": {
+      "__image": [
+        {
+          "url": "https://media.geeksforgeeks.org/wp-content/uploads/20240414222320/Volvox-Diagram.png",
+          "width": "300",
+          "caption": "Spherical symmetry in volvox",
+          "credit": ""
+        }
+      ],
+      "Spherical symmetry": {
+        "Characteristics": [
+          "Body resembles a sphere, suited for floating and rolling animals",
+          "<b>Lack of polarity:</b> There exists no clear differentiation along an axis."
+        ],
+        "Organisms": {
+          "Protozoa": [
+            "Volvox",
+            "Heliozoa",
+            "Radiolaria"
+          ]
+        }
+      },
+      "Radial symmetry": {
+        "Characteristics": [
+          "Body can be divided into similar halves by more than two planes passing through one main axis",
+          "Have oral and aboral sides",
+          "Usually exhibited in animals attached to the substratum",
+          "Like a cake being divided and sub-divided into equal halves and quarters."
+        ],
+        "Organisms": {
+          "Sponges": [
+            "Larva of sponges",
+            "Sycon and Leucosolenia"
+          ],
+          "Most of coelentrates": "",
+          "Adult Echinodermata": {
+            "Larval form": "Bilateral symmetry",
+            "Adult": "Radial symmetry"
+          }
+        }
+      },
+      "Biradial symmetry": {
+        "__image1": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Comb_jelly.jpg",
+            "caption": "Biradial symmetry in<br> Ctenophore",
+            "width": "200"
+          }
+        ],
+        "Characteristics": [
+          "Body can be divided into similar halves by two planes passing through one main axis"
+        ],
+        "Organisms": [
+          "Sea anemones",
+          "Sea walnuts (Comb jellies)/ Ctenophores"
+        ],
+        "__note": [
+          {
+            "data": {
+              "Sea anemones": "Biradial symmetry > Radial symmetry"
+            },
+            "level": "2"
+          }
+        ]
+      },
+      "Bilateral symmetry": {
+        
+        "Characteristics": [
+          "Can be divided along a median Longitudinal or Sagittal plane into two mirrored portions (right and left halves)",
+          "Bilateral animals are called Bilateria",
+          "Strongly associated with cephalization"
+        ],
+        "Organisms": "Flatworms to Mammals except some Molluscs and Echinodermata"
+      }
+    },
+    "__mcq":[
+      {
+        "id": 23,
+        "Hardness_level": null,
+        "Category": null,
+        "qu": "<p>Which of the following pairs have the same body plan and symmetry?</p>",
+        "a": "<p>Obelia and starfish</p>",
+        "b": "<p>cockroach and frog</p>",
+        "c": "<p>Hydra and earthworm</p>",
+        "d": "<p>Pigeon and Leucosolenia</p>",
+        "ans": "b",
+        "sol": "<p>Both frog and cockroach have tube within a tube body plan and both are bilaterally symmetrical.</p>",
+        "Asked_year": [
+          {
+            "id": 411,
+            "Asked_year": "BPKIHS 2001"
+          }
+        ]
+      },
+      {
+        "id": 58,
+        "Hardness_level": null,
+        "Category": null,
+        "qu": "Radial symmetry occurs in",
+        "a": "Porifera and Coelenterata",
+        "b": "Arthropoda and Mollusca",
+        "c": "Coelenterata and Echinodermata",
+        "d": "Coelenterata and Platyhelminthes",
+        "ans": "c",
+        "sol": "",
+        "Asked_year": []
+      }
+    ]
+  },
+  "Metamerism/ Segmentation": {
+    "__p": "Segmentation is the serial repetition of similar organs, tissues, cell types or body cavities along the anterior posterior (A-P) axis of bilaterally symmetric animals",
+    "Unsegmented": {
+      "Characteristics": "Body without a linear series of segments.",
+      "Examples": [
+        "Nemathelminthes",
+        "Molluscs",
+        "Echinodermata"
+      ]
+    },
+    "Pseudosegmented": {
+      "Characteristics": [
+        "Body with many false segments but are independent with each other.",
+        "Body grows by addition of new segments from the anterior end.",
+        "The body is divided into many segments known as Proglottids which are in different stages of maturation."
+      ],
+      "Examples": [
+        "Tapeworm"
+      ]
+    },
+    "True segmentation/ Metamerically segmented": {
+      "Characteristics": [
+        "Both with a linear series of segments, the segments are interdependent with each oter and work together.",
+        "All segments are in same stage of maturation."
+      ],
+      "Examples": [
+        "Annelida (Polychaeta and Oligochaeta)",
+        "Arthopoda",
+        "Chordata"
+      ]
+    },
+    "__mcq":[
+      {
+        "id": 62,
+        "Hardness_level": null,
+        "Category": null,
+        "qu": "Metamerism is characteristic of",
+        "a": "Porifera",
+        "b": "Mollusca",
+        "c": "Annelida",
+        "d": "Echinodermata",
+        "ans": "c",
+        "sol": "",
+        "Asked_year": []
+      }
+    ]
+  },
+  "Types of Animals by Nitrogenous Wastes Removal": {
+    "Ammonotelic animals": {
+      "Nitrogenous Waste": "Ammonia",
+      "Examples": [
+        "Porifera",
+        "Coelenterata",
+        "Platyhelminthes",
+        "Nemathelminthes",
+        "Annelida",
+        "Osteichthyes (Bony fish)",
+        "Amphibian tadpoles (Frog tadpole)"
+      ],
+      "__note": [
+        {
+          "data": {
+            "Amphibian tadpoles": {
+              "Frog": {
+                "Hibernation and Aestivation": "Uricotelic",
+                "Regular Conditions": "Ureotelic"
+              }
+            },
+            "Crocodiles": "Ammonotelic"
+          }
+        }
+      ]
+    },
+    "Aminotelic animals": {
+      "Nitrogenous Waste": "Amino acids",
+      "Examples": [
+        "Mollusca",
+        "Echinodermata"
+      ]
+    },
+    "Uricotelic animals": {
+      "Nitrogenous Waste": "Uric acid",
+      "Examples": [
+        "Insects",
+        "Birds",
+        "Land snails",
+        "Land reptiles (Lizard, Snake)"
+      ]
+    },
+    "Ureotelic animals": {
+      "Nitrogenous Waste": "Urea",
+      "Examples": [
+        "Mammals",
+        "Chondrichtyes",
+        "Semi-aquatic amphibians (Frog, Toads)"
+      ]
+    },
+    "Guanotelic animals": {
+      "Nitrogenous Waste": "Guanine",
+      "Examples": [
+        "Spiders"
+      ]
+    },
+    "__mcq":[
+      {
+        "id": 49,
+        "Hardness_level": null,
+        "Category": null,
+        "qu": "The excretion in birds and reptiles is:",
+        "a": "Aminotelic",
+        "b": "Ammonotelic",
+        "c": "Uricotelic",
+        "d": "Ureotelic",
+        "ans": "c",
+        "sol": "Insects, Reptiles and Birds are Uricotelic as they excrete uric aric.",
+        "Asked_year": [
+          {
+            "id": 444,
+            "Asked_year": "BPKIHS 2015"
+          }
+        ]
+      },
+      {
+        "id": 53,
+        "Hardness_level": null,
+        "Category": null,
+        "qu": "Animals in which nitrogen is predominantly excreted in the form of urea are",
+        "a": "Ammonotelic",
+        "b": "Ureotelic",
+        "c": "Uricotelic",
+        "d": "None of the above",
+        "ans": "b",
+        "sol": "",
+        "Asked_year": [
+          {
+            "id": 449,
+            "Asked_year": "KU 2015"
+          }
+        ]
+      }
+    ]
+  },
+  "Animal habitats": {
+    "Aquatic animals": {
+      "__p": "Lives in water.",
+      "Marine": {
+        "": "Lives in sea."
+      },
+      "Freshwater": {
+        "": "Lives in pools, ponds, lakes, streams and rivers."
+      }
+    },
+    "Terrestrial animals": "Lives on land"
+  },
+  "Mode of Existence": {
+    "Solitary": {
+      "Characteristics": [
+        "Lives singly."
+      ],
+      "Examples": "Sycon"
+    },
+    "Gregarious": {
+      "__image": [
+        {
+          "url": "https://cdn.britannica.com/81/150781-050-9C5584FE/sea-squirt-colony-Myanmar-coral-reef.jpg",
+          "caption": "Gregarious nature<br> in sea squirt",
+          "width": "300",
+          "credit": "Britannica"
+        }
+      ],
+      "Characteristics": [
+        "Lives in group but don't help each others."
+      ],
+      "Examples": [
+        "Sea squirts"
+      ]
+    },
+    "Colonial": {
+      "Characteristics": [
+        "Lives in group and help each others."
+      ],
+      "Examples": [
+        "Ants",
+        "Bees",
+        "Wasps"
+      ]
+    },
+    "Free living animals": {
+      "Characteristics": "Lead an independent life."
+    },
+    "Symbiosis": {
+      "Characteristics": [
+        "Lives in an intimate relationship with other animals or plants."
+      ],
+      "Parasitic (+, -)": {
+        "Characteristics": "The symbiont (a parasite) receives benefits at the expense of the host.",
+        "Parasite": {
+          "Ectoparasite": {
+            "Characteristics": "Parasite are external.",
+            "Examples": [
+              "Lice",
+              "Tapeworm"
+            ]
+          },
+          "Endoparasite": {
+            "Characteristics": "Parasite are internal.",
+            "Examples": [
+              "Liverfluke",
+              "Roundworm",
+              "Tapeworm"
+            ]
+          }
+        },
+        "Host": {
+          "Definitive host": {
+            "Characteristics": "Host in which parasite reach reproductive maturity.",
+            "Examples": "Mosquito for <i>Plasmodium</i>"
+          },
+          "Intermediate host": {
+            "Characteristics": "Host that is required for parasite development, but don't reach reproductive maturity.",
+            "Examples": "Man for <i>Plasmodium</i>"
+          }
+        }
+      },
+      "Commensalism (+, 0)": {
+        "__image": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Euplectella_aspergillum_Okeanos.jpg/1200px-Euplectella_aspergillum_Okeanos.jpg",
+            "caption": "Euplectella",
+            "width": "150",
+            "credit": ""
+          },
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Hydra-Foto.jpg",
+            "caption": "Hydra",
+            "width": "150",
+            "credit": ""
+          }
+        ],
+        "Characteristics": "Advantageous to one party <b>(symbiont)</b> but leaves other party unaffected <b>(host)</b>.",
+        "Examples": [
+          "<i>Spongicole</i> living in <i>Euplectella<i>."
+        ]
+      },
+      "Mutualism (+, +)": {
+        "__image": [],
+        "Characteristics": "Advantageous to one party <b>(symbiont)</b> but leaves other party unaffected <b>(host)</b>.",
+        "Examples": [
+          "Zoocholera living in hydra."
+        ]
+      }
+    }
+  },
+  "Nutrition":{
+    "__p":"The means by which living organisms obtain the substances required for growth and the maintenance of life is called nutrition.",
+    "Holozoic or Zootrophic nutrition (Animal-like)":{
+      "":"Utilize ready made solid food in the from of other organisms such as microorganisms, bacteria, yeast, algae, protozoans and small metazoans.",
+      "Examples":["<i>Amoeba</i>", "<i>Paramecium</i>"]
+    },
+    "Holophytic or Autotrophic nutrition (Plant-like)":{
+      "":"Obtain food by photosynthesis",
+      "Examples":[
+        "<i>Euglena</i>",
+        "<i>Volvox</i>"
+      ]
+    },
+    "Saprophytic or Saprozoic nutrition (Fungi-like)":{
+      "":"Obtain the dissolved substances in the medium either through the entire surface of the body or through special regions.",
+      "Examples": [
+        "<i>Monocystis</i>",
+        "<i>Trypanosoma</i>"
+      ]
+    },
+    "Parasitic nutrition":{
+      "":"Get nourishment partially or wholly from the digested and decomposed substances of the food of host, either in holozoic or saprozoic manner."
+    },
+    "Mixotrophic or mesotrophic nutrition":{
+      "":"Feeds by more than one method at the same or different times.",
+      "Examples": [
+        "<i>Entamoeba histolytica</i> which although feed holozoically, also absorb dissolved organic compounds through general body surface.",
+        "<i>Euglena</i> feed by both holophytically and saprophytically."
+      ]
+
+    },
+    "Coprozoic nutrition":{
+      "":"Feed upon the faecal matter of other organisms.",
+      "Examples":[
+        "<i>Copromonas</i> is found in faeces of frog."
+      ]
+
+    }
+  }
 }

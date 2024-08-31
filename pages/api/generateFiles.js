@@ -63,7 +63,10 @@ export default async function handler(req, res) {
 
 
       for (let lesson of lessons.rows) {
-        const filePath = path.join(unitDir, `${lesson.lesson_name}.json`);
+        const filePath = path.join(
+          unitDir,
+          `${lesson.id}_${lesson.lesson_name}.json`
+        );
 
         let contentToWrite;
         let lessonContent = lesson.lesson_content;
